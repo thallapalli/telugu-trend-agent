@@ -17,7 +17,9 @@ DATA_DIR = ROOT / "data" / ("dryrun" if DRY_RUN else "")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.7-flash")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
-GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+# llama-3.3-70b-versatile was retired by Groq on 2026-08-16 (HTTP 404). Check console.groq.com/docs/deprecations.
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
+LLM_MIN_INTERVAL = float(os.getenv("LLM_MIN_INTERVAL", "6"))  # seconds between LLM calls (free-tier RPM)
 
 # --- Instagram (publish target; Meta Graph API content publishing is free) ---
 IG_USER_ID = os.getenv("IG_USER_ID", "")  # Instagram professional account id

@@ -9,7 +9,46 @@ from . import config
 
 
 class LLMError(RuntimeError):
-    pass
+    """retry_after: seconds the provider asked us to wait. permanent: retrying this backend is pointless
+    (daily quota used up, wrong model name, bad key), so move on to the next backend immediately."""
+
+    def __init__(self, message: str, retry_after: float | None = None, permanent: bool = False):
+        super().__init__(message)
+        self.retry_after = retry_after
+        self.permanent = permanent
+
+
+_last_call = 0.0
+
+
+def _pace() -> None:
+    """Free tiers enforce requests-per-minute; space calls out instead of bursting."""
+    global _last_call
+    wait = config.LLM_MIN_INTERVAL - (time.monotonic() - _last_call)
+    if wait > 0:
+        time.sleep(wait)
+    _last_call = time.monotonic()
+
+
+def _retry_after(resp: requests.Response) -> float | None:
+    header = resp.headers.get("Retry-After")
+    if header and header.replace(".", "", 1).isdigit():
+        return float(header)
+    match = re.search(r'"retryDelay":\s*"(\d+(?:\.\d+)?)s"', resp.text)  # Gemini's RetryInfo
+    return float(match.group(1)) if match else None
+
+
+def _check(name: str, resp: requests.Response) -> None:
+    """Turn an HTTP error into an LLMError that carries the provider's own explanation."""
+    if resp.ok:
+        return
+    detail = f"{name} HTTP {resp.status_code}: {resp.text[:300].strip()}"
+    if resp.status_code == 429:
+        # A per-day quota will not clear within this run; a per-minute one will.
+        raise LLMError(detail, retry_after=_retry_after(resp), permanent="PerDay" in resp.text)
+    if resp.status_code >= 500:
+        raise LLMError(detail, retry_after=_retry_after(resp))
+    raise LLMError(detail, permanent=True)  # 400/401/403/404: our request or key is wrong, retrying won't help
 
 
 def _gemini(prompt: str, temperature: float) -> str:
@@ -19,9 +58,7 @@ def _gemini(prompt: str, temperature: float) -> str:
         "generationConfig": {"temperature": temperature, "responseMimeType": "application/json"},
     }
     resp = requests.post(url, json=body, headers={"x-goog-api-key": config.GEMINI_API_KEY}, timeout=90)
-    if resp.status_code in (429, 500, 503):
-        raise LLMError(f"gemini transient {resp.status_code}")
-    resp.raise_for_status()
+    _check("gemini", resp)
     return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 
@@ -37,7 +74,7 @@ def _groq(prompt: str, temperature: float) -> str:
         },
         timeout=90,
     )
-    resp.raise_for_status()
+    _check("groq", resp)
     return resp.json()["choices"][0]["message"]["content"]
 
 
@@ -90,13 +127,20 @@ def complete_json(task: str, prompt: str, temperature: float = 0.8) -> dict:
     if not backends:
         raise LLMError("Set GEMINI_API_KEY (free) or GROQ_API_KEY")
 
-    last_error: Exception | None = None
+    errors: list[str] = []
     for name, fn in backends:
         for attempt in range(3):
+            _pace()
             try:
                 return _parse(fn(prompt, temperature))
             except (LLMError, requests.RequestException, json.JSONDecodeError, KeyError) as exc:
-                last_error = exc
                 print(f"[llm] {name} attempt {attempt + 1} failed: {exc}")
-                time.sleep(2 ** attempt * 3)
-    raise LLMError(f"all LLM backends failed: {last_error}")
+                if isinstance(exc, LLMError) and exc.permanent:
+                    errors.append(str(exc))
+                    break  # skip the remaining attempts, try the next backend
+                if attempt == 2:
+                    errors.append(str(exc))
+                    break
+                delay = exc.retry_after if isinstance(exc, LLMError) and exc.retry_after else 0
+                time.sleep(min(max(delay + 1, 10 * 2 ** attempt), 90))
+    raise LLMError("all LLM backends failed: " + " | ".join(errors))

@@ -59,11 +59,15 @@ def generate() -> int:
     items = trends.collect()
     print(f"[pipeline] {len(items)} trend items collected")
     if not items:
-        return 0
+        # Fail the run so a broken feed shows up red in GitHub Actions instead of a silent "success".
+        raise RuntimeError("no trend items collected: all feeds failed or were filtered out")
 
     picks = agents.pick_topics(items, store.recent_topics(), config.POSTS_PER_DAY)
     created = 0
     for pick in picks:
+        if pick.get("format") not in config.FORMATS:
+            print(f"[pipeline] skipped, not one of the allowed pillars {config.FORMATS}: {pick}")
+            continue
         draft = agents.write_post(pick)
         review = agents.review_post(pick, draft)
 
