@@ -242,5 +242,200 @@
     "published_at": "2026-10-10T02:58:23+00:00",
     "media_id": "18464517793185438",
     "last_error": null
+  },
+  {
+    "id": "5d46c427",
+    "topic": "సామెత: 'అన్యాయం చెయ్యని వాడు కూడా న్యాయం కోరుతుంది' – జీవనంలో అన్వయము",
+    "format": "saametha",
+    "text": "\"అన్యాయం చెయ్యని వాడు కూడా న్యాయం కోరుకుంటాడు\"\nన్యాయం సర్వసాధారణ మానవ హక్కు; దుర్మార్గం లేని వ్యక్తి కూడా సమానతకు ఆశపడుతాడు.\nరోజువారీ సంభాషణల్లో ప్రతి ఒక్కరి న్యాయభావాన్ని గౌరవించడం, సమాజ నమ్మకాన్ని బలపరుస్తుంది.\nఅందుకే, న్యాయాన్ని పంచుకోవడం మన జీవన సత్యం.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#Justice"
+    ],
+    "image": "data/images/5d46c427.jpg",
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "issues": [
+        "Elevate vocabulary and cadence",
+        "Minor punctuation tweaks"
+      ],
+      "final_text": "\"అన్యాయం చెయ్యని వాడు కూడా న్యాయం కోరుకుంటాడు\"\nన్యాయం సర్వసాధారణ మానవ హక్కు; దుర్మార్గం లేని వ్యక్తి కూడా సమానతకు ఆశపడుతాడు.\nరోజువారీ సంభాషణల్లో ప్రతి ఒక్కరి న్యాయభావాన్ని గౌరవించడం, సమాజ నమ్మకాన్ని బలపరుస్తుంది.\nఅందుకే, న్యాయాన్ని పంచుకోవడం మన జీవన సత్యం."
+    },
+    "status": "pending",
+    "created_at": "2026-10-10T06:00:45+00:00"
+  },
+  {
+    "id": "40200d21",
+    "topic": "సామెత: 'కోడి పందెం పూచి, పక్షి గూడు' – చిన్న పనుల విలువ",
+    "format": "saametha",
+    "text": "\"కోడి పందెం పూచి, పక్షి గూడు\"\nచిన్న చిన్న పనులు కలసి పెద్ద పుణ్యాన్ని సృష్టిస్తాయి — కృషి పుణ్యము.\nప్రతి రోజు ఒక సాదాసీదా పని చేసి, నిశ్శబ్దంగా సమాజానికి సేవ చేయండి.\nవినయంతో జీవించడం, విజయానికి మూలస్తంభం.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#Humility",
+      "#LifeWisdom"
+    ],
+    "image": "data/images/40200d21.jpg",
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "issues": [
+        "Proverb not widely documented in classical Telugu literature; consider confirming its traditional source.",
+        "Minor punctuation and cadence improvements."
+      ],
+      "final_text": "\"కోడి పందెం పూచి, పక్షి గూడు\"\nచిన్న చిన్న పనులు కలసి పెద్ద పుణ్యాన్ని సృష్టిస్తాయి — కృషి పుణ్యము.\nప్రతి రోజు ఒక సాదాసీదా పని చేసి, నిశ్శబ్దంగా సమాజానికి సేవ చేయండి.\nవినయంతో జీవించడం, విజయానికి మూలస్తంభం."
+    },
+    "status": "pending",
+    "created_at": "2026-10-10T06:01:10+00:00"
+  },
+  {
+    "id": "e05ef148",
+    "topic": "సామెత: 'వెండి పళ్లెం, బంగారు బాణి' – నిజమైన సంపద",
+    "format": "saametha",
+    "text": "\"వెండి పళ్లెం, బంగారు బాణి\"\nవెండి పళ్లెం అంటే సేవ, బంగారు బాణి అంటే ధర్మమును నిలుపుట – ఇవే మన నిజమైన సంపద.\nసేవలో సౌలభ్యం, న్యాయంలో ధైర్యం పెంచి, జీవితము సుసంపన్నంగా మారుతుంది.\nఅందువల్ల బాహ్య బహుమతులు కాదు, ఆచార్య లక్షణాలు సర్వశ్రేష్ఠము.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#VirtueWealth",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/e05ef148.jpg",
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-10T06:01:44+00:00"
+  },
+  {
+    "id": "527361f9",
+    "topic": "Alien Tech or Ancient Genius? The 1,500-Year Mystery of Ellora Caves | EP 11 | Times Mantra - The Times of India",
+    "format": "ancient_secrets",
+    "text": "ఎల్లూరు గుహలు: శబ్ద‑విజ్ఞాన రహస్యం\nగుహల లోతైన గోళాకార గదులు, త్రిభుజాకార కంచెలు ప్రత్యేక ఆకృతితో శబ్దాన్ని కేంద్ర బిందువుకు దారితీస్తాయి.\nఅందులోని ప్రతిధ్వనిక గోడలు కొన్ని సెకన్లలో స్పష్టమైన ప్రతిధ్వనిని సృష్టించి, సందర్శకులకు ఆధ్యాత్మిక అనుభూతిని అందిస్తాయి.\n1500 సంవత్సరాల క్రితం ఈ శబ్ద‑విజ్ఞాన నైపుణ్యం ఎలా సాధ్యమైందో, ఇప్పటికీ మనకు మిస్టరీగా మిగిలి ఉంది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/527361f9.jpg",
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "issues": [
+        "Some words were inaccurate or awkward (e.g., \"వాణిజ్యములు\", \"శతకోటి పాదములు\", \"మిస్ట్రి\"), and acoustic claims were exaggerated.",
+        "Need clearer, fact‑aligned description of Ellora's acoustic features."
+      ],
+      "final_text": "ఎల్లూరు గుహలు: శబ్ద‑విజ్ఞాన రహస్యం\nగుహల లోతైన గోళాకార గదులు, త్రిభుజాకార కంచెలు ప్రత్యేక ఆకృతితో శబ్దాన్ని కేంద్ర బిందువుకు దారితీస్తాయి.\nఅందులోని ప్రతిధ్వనిక గోడలు కొన్ని సెకన్లలో స్పష్టమైన ప్రతిధ్వనిని సృష్టించి, సందర్శకులకు ఆధ్యాత్మిక అనుభూతిని అందిస్తాయి.\n1500 సంవత్సరాల క్రితం ఈ శబ్ద‑విజ్ఞాన నైపుణ్యం ఎలా సాధ్యమైందో, ఇప్పటికీ మనకు మిస్టరీగా మిగిలి ఉంది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-10T06:02:09+00:00"
+  },
+  {
+    "id": "a6f95a3d",
+    "topic": "Sirpur Archaeological Site: Chhattisgarh Prepares UNESCO World Heritage Nomination - INSIGHTS IAS",
+    "format": "ancient_secrets",
+    "text": "సిర్పూర్ పురాతన నగరము: నీటి నిర్వహణ కళ\nసిర్పూర్‌లోని సంక్లిష్ట కాలువలు, స్రవంతి‑నియంత్రణ జలాశయాలు శతాబ్దాల ముందు నగర జీవన‑సౌలభ్యం అందించాయి.\nగ్రిడ్‑లాగా అమర్చిన నీటి‑సేకరణ పథకాలు, వర్షపు నీటిని నిల్వ చేసి, పంటకు, దేవాలయ శుద్ధి కి వినియోగించారు.\nఈ శాస్త్రీయ నగర‑విధానం, యునెస్కో ప్రపంచ వారసత్వానికి తగిన ఆధునిక‑ప్రాచీన సింథసిస్.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#UNESCO"
+    ],
+    "image": "data/images/a6f95a3d.jpg",
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-10T06:02:41+00:00"
+  },
+  {
+    "id": "b2c90dfc",
+    "topic": "Conservation of the Bateshwar Group of Temples, Morena: An Archae - The National Law Review",
+    "format": "ancient_secrets",
+    "text": "బేటేశ్వర్ ఆలయ సముదాయం: శిల్ప కళా రహస్యం\nసూక్ష్మంగా పరస్పరం జోడించిన శిల్పకళ, గుఱ్ఱపు బంధాలు లేకుండా, బలమైన స్థంభాలు వాతావరణ మార్పులకు ప్రతిఘటిస్తాయి.\nప్రాచీన గుఱ్ఱపు బంధన (interlocking) పద్ధతి, కంపనాన్ని శోషించి, శతాబ్దాల యుద్ధాలు, వాతావరణ క్షీణతలను తట్టుకుంటుంది.\nఈ శిల్ప సాంకేతికత బేటేశ్వర్ ఆలయాల శాశ్వత నిలకడకు మూలస్తంభంగా నిలిచింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#TeluguHistory"
+    ],
+    "image": "data/images/b2c90dfc.jpg",
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 3,
+      "issues": [
+        "Some technical terms are unclear or invented (e.g., “సూక్ష్మ జ్యోతి”, “తాప-ఓలిమ్పు”).",
+        "Factual details about the construction method are not historically verified.",
+        "Certain phrases are awkward and can be refined for elegance."
+      ],
+      "final_text": "బేటేశ్వర్ ఆలయ సముదాయం: శిల్ప కళా రహస్యం\nసూక్ష్మంగా పరస్పరం జోడించిన శిల్పకళ, గుఱ్ఱపు బంధాలు లేకుండా, బలమైన స్థంభాలు వాతావరణ మార్పులకు ప్రతిఘటిస్తాయి.\nప్రాచీన గుఱ్ఱపు బంధన (interlocking) పద్ధతి, కంపనాన్ని శోషించి, శతాబ్దాల యుద్ధాలు, వాతావరణ క్షీణతలను తట్టుకుంటుంది.\nఈ శిల్ప సాంకేతికత బేటేశ్వర్ ఆలయాల శాశ్వత నిలకడకు మూలస్తంభంగా నిలిచింది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-10T06:03:06+00:00"
+  },
+  {
+    "id": "a7251038",
+    "topic": "What are the Chola plates? Netherlands returns 1,000-year-old Indian heritage to PM Modi - Hindustan Times",
+    "format": "history_heritage",
+    "text": "చోళ శిలాపత్రాలు: సముద్ర వాణిజ్యపు సాక్ష్యం\nకోపెన్హాగెన్‌లోని 10 శతాబ్దపు తామ్ర శిలాపత్రాలు, చోళ రాజవంశపు నౌకాయానాన్ని వెలుగులోకి తెస్తున్నాయి.\nవాణిజ్య మార్గాలు భారత మహాసముద్రాన్ని దాటి, మల్లె, కప్ప, బంగారు నాణేలను యూరప్‌కు చేరవేశాయి.\nఈ పత్రాలు మా సాహిత్య‑వాస్తు‑సముద్ర వారసత్వాన్ని గౌరవింపజేసి, భవిష్యత్ తరాలకు జ్ఞాన దీపంగా నిలుస్తాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#IndianHistory",
+      "#CholaLegacy",
+      "#MaritimeTrade",
+      "#CulturalExchange"
+    ],
+    "image": "data/images/a7251038.jpg",
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "issues": [
+        "Minor orthographic and phrasing tweaks for elevated flow"
+      ],
+      "final_text": "చోళ శిలాపత్రాలు: సముద్ర వాణిజ్యపు సాక్ష్యం\nకోపెన్హాగెన్‌లోని 10 శతాబ్దపు తామ్ర శిలాపత్రాలు, చోళ రాజవంశపు నౌకాయానాన్ని వెలుగులోకి తెస్తున్నాయి.\nవాణిజ్య మార్గాలు భారత మహాసముద్రాన్ని దాటి, మల్లె, కప్ప, బంగారు నాణేలను యూరప్‌కు చేరవేశాయి.\nఈ పత్రాలు మా సాహిత్య‑వాస్తు‑సముద్ర వారసత్వాన్ని గౌరవింపజేసి, భవిష్యత్ తరాలకు జ్ఞాన దీపంగా నిలుస్తాయి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-10T06:04:05+00:00"
+  },
+  {
+    "id": "f50811eb",
+    "topic": "Important Indian Diaspora Heritage Sites in Southeast Asia - GK Today",
+    "format": "history_heritage",
+    "text": "బంటింగ్ బుద్ధి దేవాలయం (మలేషియా)\n8వ శతాబ్దిలో వాణిజ్య మార్గాలు భారతీయ బౌద్ధ సాంస్కృతిని ఈ తీర ప్రాంతానికి తీసుకువచ్చాయి.\nస్మారక శిల్పకళ, బంగారు పూసలతో అలంకరించిన విగ్రహాలు, శాంతి‑విద్యా పరంపరల ప్రతీకలుగా నిలుస్తాయి.\nఈ వారసత్వ స్థలం, దక్షిణ‑ఆసియాలో తెలుగు‑భారతీయ గుర్తింపును శాశ్వతంగా ముద్రించింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#IndianDiaspora",
+      "#SoutheastAsia",
+      "#AncientIndia",
+      "#CulturalFootprints"
+    ],
+    "image": "data/images/f50811eb.jpg",
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 3,
+      "issues": [
+        "Some wording can be refined for elegance and clarity; verify the exact historic name of the site for absolute accuracy."
+      ],
+      "final_text": "బంటింగ్ బుద్ధి దేవాలయం (మలేషియా)\n8వ శతాబ్దిలో వాణిజ్య మార్గాలు భారతీయ బౌద్ధ సాంస్కృతిని ఈ తీర ప్రాంతానికి తీసుకువచ్చాయి.\nస్మారక శిల్పకళ, బంగారు పూసలతో అలంకరించిన విగ్రహాలు, శాంతి‑విద్యా పరంపరల ప్రతీకలుగా నిలుస్తాయి.\nఈ వారసత్వ స్థలం, దక్షిణ‑ఆసియాలో తెలుగు‑భారతీయ గుర్తింపును శాశ్వతంగా ముద్రించింది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-10T06:04:56+00:00"
   }
 ]
