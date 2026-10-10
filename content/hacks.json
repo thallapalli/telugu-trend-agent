@@ -1,0 +1,125 @@
+{
+  "_note": "Verified life hacks. The agent writes a carousel ONLY from the facts listed here, which were checked against the official help page in source_url on the verified_on date. Never add an entry from memory or from a blog: open the official page, copy only what it says, and put anything it does NOT say under not_stated. Entries with verified set to false are never used. Features and menus change, so re-check old entries now and then.",
+  "items": [
+    {
+      "id": "gmail-undo-send",
+      "verified": true,
+      "verified_on": "2026-10-10",
+      "title": "Gmail Undo Send",
+      "platform": "Gmail on a computer",
+      "category": "Web & Software",
+      "source_url": "https://support.google.com/mail/answer/2819488",
+      "facts": [
+        "After you send a message, 'Message sent' appears at the bottom left with 'Undo' and 'View message' options.",
+        "Click 'Undo' within the cancellation window to retract the message.",
+        "To change the window: open Gmail on your computer, click the Settings gear in the top-right corner, choose 'See all settings'.",
+        "Next to 'Undo Send', pick a send cancellation period of 5, 10, 20, or 30 seconds.",
+        "Scroll to the bottom and save your changes."
+      ],
+      "not_stated": ["whether Undo Send is on by default", "the default cancellation period"]
+    },
+    {
+      "id": "google-search-operators",
+      "verified": true,
+      "verified_on": "2026-10-10",
+      "title": "Google Search operators",
+      "platform": "Google Search",
+      "category": "Web & Software",
+      "source_url": "https://support.google.com/websearch/answer/2466433",
+      "facts": [
+        "Put a word or phrase in quotes to search for an exact match. Example from Google: \"tallest building\".",
+        "Use site: to search results from a specific site. Example from Google: site:youtube.com cat videos.",
+        "Put a minus sign before a word to exclude it. Example from Google: jaguar speed -car.",
+        "Use filetype: to find a particular file type. Example from Google: photoelectric effect paper filetype:pdf.",
+        "Use before: or after: to find documents last updated before or after a date. Combine them for a date range. Example from Google: avengers endgame after:2019-03-01 before:2019-03-05.",
+        "Do not put spaces between the operator and your search term."
+      ],
+      "not_stated": ["OR operator", "wildcard * operator", "related: operator"]
+    },
+    {
+      "id": "chrome-tab-shortcuts",
+      "verified": true,
+      "verified_on": "2026-10-10",
+      "title": "Chrome keyboard shortcuts",
+      "platform": "Google Chrome on Windows",
+      "category": "Web & Software",
+      "source_url": "https://support.google.com/chrome/answer/157179",
+      "facts": [
+        "Ctrl + Shift + T reopens previously closed tabs in the order they were closed.",
+        "Ctrl + L, Alt + D, or F6 jumps to the address bar.",
+        "Ctrl + Shift + N opens a new window in Incognito mode."
+      ],
+      "not_stated": ["shortcuts for pinning or duplicating a tab", "Mac shortcuts (this entry covers Windows)"]
+    },
+    {
+      "id": "iphone-back-tap",
+      "verified": true,
+      "verified_on": "2026-10-10",
+      "title": "iPhone Back Tap",
+      "platform": "iPhone",
+      "category": "iOS & Android",
+      "source_url": "https://support.apple.com/111772",
+      "facts": [
+        "Back Tap works on iPhone 8 or later with iOS 14 or later.",
+        "Go to Settings > Accessibility > Touch, and tap Back Tap.",
+        "Tap Double Tap or Triple Tap and choose an action.",
+        "Apple's examples of what a tap can do: open Control Center, take a screenshot, trigger accessibility actions, or launch an Accessibility Shortcut (which can reach AssistiveTouch, Siri Shortcuts, Magnifier, Reachability, and VoiceOver)."
+      ],
+      "not_stated": ["a complete list of available actions", "whether it works with every phone case", "how to turn it off"]
+    },
+    {
+      "id": "windows-clipboard-history",
+      "verified": true,
+      "verified_on": "2026-10-10",
+      "title": "Windows clipboard history",
+      "platform": "Windows 10 and Windows 11",
+      "category": "Web & Software",
+      "source_url": "https://support.microsoft.com/en-us/help/4464215",
+      "facts": [
+        "To turn clipboard history on for the first time, press Windows logo key + V, then select 'Turn on'.",
+        "The setting is at Start > Settings > System > Clipboard.",
+        "Clipboard history holds 25 copied entries. Each item can be up to 4 MB. Text, HTML, and bitmap formats are supported.",
+        "Unpinned items are removed automatically to make room for new ones. History is cleared on each PC restart, except for pinned items.",
+        "To sync across devices, turn on 'Clipboard history across your devices' in Clipboard settings and use the same Microsoft or work account on each device. The automatic sync option covers text only.",
+        "To clear everything except pinned items, select 'Clear all' in the Windows logo key + V panel. To remove one item, open its 'See more' (...) menu and select Delete."
+      ],
+      "not_stated": ["how to pin an item", "any limit on pinned items"]
+    },
+    {
+      "id": "google-maps-offline",
+      "verified": true,
+      "verified_on": "2026-10-10",
+      "title": "Google Maps offline maps",
+      "platform": "Google Maps on Android",
+      "category": "Travel & Shopping",
+      "source_url": "https://support.google.com/maps/answer/6291838",
+      "facts": [
+        "To download an offline map you must be connected to the internet and signed in.",
+        "Way 1: search for a place, swipe right in the place sheet, tap More, then 'Download offline map', then Download.",
+        "Way 2: tap your profile picture or initial, then 'Offline maps', then 'Select your own map', adjust the area, and tap Download.",
+        "Offline maps can guide you as long as the entire route is within the offline map.",
+        "Transit, bicycling, and walking directions are unavailable offline. Offline driving has no traffic info or alternate routes.",
+        "Google Maps tries to update offline maps automatically when they expire in 15 days or less and you are on Wi-Fi."
+      ],
+      "not_stated": ["iPhone steps", "how long an offline map lasts before it expires", "how much storage a map needs", "turn-by-turn guidance"]
+    },
+    {
+      "id": "gmail-schedule-send",
+      "verified": true,
+      "verified_on": "2026-10-10",
+      "title": "Gmail Schedule Send",
+      "platform": "Gmail app on iPhone or iPad",
+      "category": "Web & Software",
+      "source_url": "https://support.google.com/mail/answer/9214606",
+      "facts": [
+        "Open Gmail, tap Compose, and write your email.",
+        "Tap More at the top right, tap 'Schedule send', and choose an option.",
+        "To find scheduled emails, open the menu and go to 'Scheduled'.",
+        "To change one, open it in Scheduled and tap 'Cancel send'. Cancelling turns it into a draft, which you can edit and schedule again.",
+        "You can have up to 100 scheduled emails.",
+        "Emails may be delivered a few minutes late, and are sent based on the timezone you set when scheduling."
+      ],
+      "not_stated": ["the list of preset time options", "how far ahead you can schedule", "computer steps (this entry covers iPhone and iPad)"]
+    }
+  ]
+}

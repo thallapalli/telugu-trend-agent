@@ -92,6 +92,17 @@ The AI is never trusted to remember facts. Each post is written from a source te
 
 This greatly reduces invented facts but cannot remove them. Keep approval on and glance at the source link before tapping Approve.
 
+## Life-hacks mode (English carousels)
+
+A second content mode next to Telugu Locals: 5-slide Instagram carousels about phone, software and web tricks (hook, problem, two steps, save-and-share slide), plus a caption and 5 to 8 hashtags. Each one is approved in Telegram like any other post: you get the 5 slides as an album, then the caption, the reviewer's scores, the official link, and the Approve / Reject buttons.
+
+- **Facts come only from `content/hacks.json`.** Every entry was checked against an official help page (Google, Apple, Microsoft) and records what that page does NOT say, so the AI cannot fill the gap with invention. To add one, open the official page, copy only what it says, and set `verified` to `true`. Entries with `verified: false` are never used. Menus change, so re-check old entries now and then.
+- **Code checks before the reviewer:** slide word limits (hook 12 words, other slides 15), every number must be in the source, no "most people" / "99%" style claims, a "Comment ..." line and 5 to 8 hashtags must be present.
+- **The caption asks viewers to comment `HACK` but does not promise a link in return**, because nothing here auto-replies. The official page link is printed in the caption instead, so the promise is never broken.
+- **Same or separate Instagram account:** by default hacks post to the same account as Telugu Locals. To use another account, add `IG_HACKS_USER_ID` and `IG_HACKS_ACCESS_TOKEN` as GitHub secrets (and optionally `IG_HACKS_HANDLE` as a variable). The Telegram approval chat is shared, and each card says which kind it is.
+- **Volume:** `HACKS_PER_DAY` (default 1; 0 turns it off). The 7 starter entries rotate and then repeat, so add more entries over time.
+- Run only this mode offline: `DRY_RUN=1 PYTHONPATH=src python -m telugu_agent generate-hacks`.
+
 ## Customizing
 
 - Trend sources, blocklist, formats, quality thresholds: `src/telugu_agent/config.py`

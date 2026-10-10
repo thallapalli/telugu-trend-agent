@@ -8,7 +8,7 @@ import json
 import re
 from datetime import datetime, timezone
 
-from . import agents, config, guards, imagegen, instagram, sources, store, telegram, trends
+from . import agents, carousel, config, guards, imagegen, instagram, sources, store, telegram, trends
 
 MAX_HASHTAGS = 30  # Instagram's limit
 DECISION_ID = re.compile(r"^[a-f0-9]{8}$")
@@ -21,7 +21,7 @@ def _hashtags(tags: list[str]) -> str:
 
 def _caption(post: dict) -> str:
     caption = post["text"]
-    if post.get("source_url"):
+    if post.get("source_url") and post["source_url"] not in caption:  # hack captions already end with the link
         caption += f"\n\nSource: {post['source_url']}"
     if post.get("hashtags"):
         caption += "\n\n" + _hashtags(post["hashtags"])
@@ -30,6 +30,32 @@ def _caption(post: dict) -> str:
 
 def _owner_note(text: str) -> None:
     telegram.send_message(config.TELEGRAM_OWNER_CHAT_ID, text)
+
+
+def _approval_buttons(post_id: str) -> list[list[dict]]:
+    return [[
+        {"text": "✅ Approve", "callback_data": f"ap:{post_id}"},
+        {"text": "❌ Reject", "callback_data": f"rj:{post_id}"},
+    ]]
+
+
+def _send_carousel_for_approval(post: dict) -> None:
+    """Send the slides as an album, then a message with the caption, checks and the Approve/Reject buttons
+    (Telegram albums cannot carry buttons)."""
+    review = post["review"]
+    paths = [str(config.ROOT / p) for p in post["images"]]
+    telegram.send_media_group(config.TELEGRAM_OWNER_CHAT_ID, paths, f"📝 Draft {post['id']} · hack · {post['topic']}")
+    details = (
+        f"Caption that will be posted:\n\n{_caption(post)}\n\n"
+        f"Reviewer: accuracy {review.get('accuracy', '?')}/5, safety {review.get('safety', '?')}\n"
+        f"Verify against the official page: {post['source_url']}"
+    )
+    if review.get("issues"):
+        details += "\nNotes: " + "; ".join(review["issues"])
+    if config.AUTO_PUBLISH:
+        telegram.send_message(config.TELEGRAM_OWNER_CHAT_ID, details + "\n\n(auto-publish is ON)")
+    else:
+        telegram.send_message(config.TELEGRAM_OWNER_CHAT_ID, details, _approval_buttons(post["id"]))
 
 
 def _send_for_approval(post: dict, image_path) -> None:
@@ -48,24 +74,26 @@ def _send_for_approval(post: dict, image_path) -> None:
     if config.AUTO_PUBLISH:
         telegram.send_photo(config.TELEGRAM_OWNER_CHAT_ID, str(image_path), caption + "\n\n(auto-publish is ON)")
         return
-    buttons = [[
-        {"text": "✅ Approve", "callback_data": f"ap:{post['id']}"},
-        {"text": "❌ Reject", "callback_data": f"rj:{post['id']}"},
-    ]]
-    telegram.send_photo(config.TELEGRAM_OWNER_CHAT_ID, str(image_path), caption, buttons)
+    telegram.send_photo(config.TELEGRAM_OWNER_CHAT_ID, str(image_path), caption, _approval_buttons(post["id"]))
 
 
 def publish(post: dict) -> str | None:
-    """Publish to Instagram (and mirror to the optional Telegram channel). Raises on failure."""
+    """Publish to Instagram (and mirror to the optional Telegram channel). Raises on failure.
+    Posts with an "images" list are carousels; others are a single image."""
     caption = _caption(post)
-    if config.DRY_RUN:
-        media_id = instagram.publish_image(post["image"], caption)  # prints only
-    elif instagram.configured():
-        media_id = instagram.publish_image(post["image"], caption)
+    mode = post.get("mode", "heritage")
+    carousel = bool(post.get("images"))
+    if not (config.DRY_RUN or instagram.configured(mode)):
+        raise instagram.InstagramError("Instagram user id / access token are not set")
+    if carousel:
+        media_id = instagram.publish_carousel(post["images"], caption, mode)
     else:
-        raise instagram.InstagramError("IG_USER_ID / IG_ACCESS_TOKEN are not set")
+        media_id = instagram.publish_image(post["image"], caption, mode)  # dry-run: prints only
     if config.TELEGRAM_CHANNEL_ID:
-        telegram.send_photo(config.TELEGRAM_CHANNEL_ID, str(config.ROOT / post["image"]), caption)
+        if carousel:
+            telegram.send_media_group(config.TELEGRAM_CHANNEL_ID, [str(config.ROOT / p) for p in post["images"]], caption)
+        else:
+            telegram.send_photo(config.TELEGRAM_CHANNEL_ID, str(config.ROOT / post["image"]), caption)
     return media_id
 
 
@@ -140,6 +168,10 @@ def _gate(review: dict) -> str | None:
 
 
 def generate() -> int:
+    """Telugu Locals heritage posts (saamethalu, ancient secrets, history)."""
+    if config.POSTS_PER_DAY <= 0:
+        print("[pipeline] heritage mode is off (POSTS_PER_DAY=0)")
+        return 0
     headlines = trends.collect()
     print(f"[pipeline] {len(headlines)} headlines collected (inspiration only, never a source of facts)")
     if not headlines:
@@ -197,6 +229,87 @@ def generate() -> int:
         # Show red in GitHub Actions instead of a silent success when nothing passed the checks.
         raise RuntimeError("no post passed the source, guard and review checks today")
     return created
+
+
+def _gate_hack(review: dict) -> str | None:
+    if review.get("verdict") != "approve" or review.get("safety") != "ok":
+        return f"reviewer rejected: {review.get('issues')}"
+    if review.get("unsupported_claims"):
+        return f"unsupported claims: {review['unsupported_claims']}"
+    if int(review.get("accuracy") or 0) < config.MIN_ACCURACY:
+        return f"accuracy {review.get('accuracy')} < {config.MIN_ACCURACY}"
+    return None
+
+
+def generate_hacks() -> int:
+    """English life-hack carousels, written only from verified entries in content/hacks.json."""
+    if config.HACKS_PER_DAY <= 0:
+        print("[pipeline] hacks mode is off (HACKS_PER_DAY=0)")
+        return 0
+    created = 0
+    for hack in sources.pick_hacks(config.HACKS_PER_DAY):
+        source_text = sources.hack_source_text(hack)
+        draft = agents.write_hack(hack, source_text)
+        slides = draft.get("slides") or {}
+        caption = (draft.get("caption") or "").replace("**", "").strip()
+        hashtags = [h for h in draft.get("hashtags", []) if isinstance(h, str)][:8]
+        if draft.get("skip") or not slides or not caption:
+            print(f"[pipeline] writer skipped (not enough in the source): {hack['title']}")
+            continue
+
+        problems = guards.check_hack(slides, caption, hashtags, source_text)
+        if problems:
+            print(f"[pipeline] guard rejected {hack['title']}: {'; '.join(problems)}")
+            continue
+
+        review = agents.review_hack(hack, draft, source_text)
+        reason = _gate_hack(review)
+        if reason:
+            print(f"[pipeline] dropped {hack['title']}: {reason}")
+            continue
+
+        post_id = store.new_id(hack["title"])
+        paths = carousel.render(slides, post_id, config.DATA_DIR / "images")
+        rel = [str(p.relative_to(config.ROOT)) for p in paths]
+        post = {
+            "id": post_id,
+            "mode": "hacks",
+            "topic": hack["title"],
+            "format": "hack",
+            "text": caption,
+            "slides": slides,
+            "hashtags": hashtags,
+            "image": rel[0],
+            "images": rel,
+            "source_title": hack["title"],
+            "source_url": hack["source_url"],
+            "facts_used": draft.get("facts_used", []),
+            "review": review,
+            "status": "approved" if config.AUTO_PUBLISH else "pending",
+            "created_at": store.now(),
+        }
+        store.add_post(post)
+        created += 1
+        _send_carousel_for_approval(post)
+
+    print(f"[pipeline] {created} hack carousels created")
+    if created == 0:
+        raise RuntimeError("no hack carousel passed the source, guard and review checks today")
+    return created
+
+
+def generate_all() -> int:
+    """Run every mode. One mode failing never blocks the other, but the run still fails (red in Actions)."""
+    total, errors = 0, []
+    for name, fn in (("heritage", generate), ("hacks", generate_hacks)):
+        try:
+            total += fn()
+        except Exception as exc:  # noqa: BLE001 - keep going, report at the end
+            print(f"[pipeline] {name} mode failed: {exc}")
+            errors.append(f"{name}: {exc}")
+    if errors:
+        raise RuntimeError("; ".join(errors))
+    return total
 
 
 def _publish_approved() -> int:

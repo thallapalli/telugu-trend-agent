@@ -46,6 +46,28 @@ def write_post(pick: dict, source_text: str) -> dict:
     )
 
 
+def write_hack(hack: dict, source_text: str) -> dict:
+    return llm.complete_json(
+        "write_hack",
+        _prompt(
+            "hacks_writer",
+            topic=hack["title"],
+            category=hack["category"],
+            source=source_text,
+            source_url=hack["source_url"],
+        ),
+        temperature=0.7,
+    )
+
+
+def review_hack(hack: dict, draft: dict, source_text: str) -> dict:
+    return llm.complete_json(
+        "review_hack",
+        _prompt("hacks_reviewer", topic=hack["title"], draft=draft, source=source_text),
+        temperature=0.1,
+    )
+
+
 def review_post(pick: dict, draft: dict, source_text: str) -> dict:
     return llm.complete_json(
         "review",

@@ -1,4 +1,4 @@
-"""CLI: python -m telugu_agent {generate|approvals|dry-run}"""
+"""CLI: python -m telugu_agent {generate|generate-heritage|generate-hacks|approvals|dry-run}"""
 import argparse
 import os
 import sys
@@ -11,7 +11,7 @@ if hasattr(sys.stderr, "reconfigure"):
 
 def main() -> int:
     parser = argparse.ArgumentParser(prog="telugu_agent")
-    parser.add_argument("command", choices=["generate", "approvals", "dry-run"])
+    parser.add_argument("command", choices=["generate", "generate-heritage", "generate-hacks", "approvals", "dry-run"])
     args = parser.parse_args()
 
     # These must be set before config is imported (it picks the data directory).
@@ -22,10 +22,14 @@ def main() -> int:
     from . import pipeline
 
     if args.command == "dry-run":
-        pipeline.generate()
+        pipeline.generate_all()
         pipeline.process_approvals()
     elif args.command == "generate":
+        pipeline.generate_all()  # both modes
+    elif args.command == "generate-heritage":
         pipeline.generate()
+    elif args.command == "generate-hacks":
+        pipeline.generate_hacks()
     else:
         pipeline.process_approvals()
     return 0

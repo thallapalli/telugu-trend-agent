@@ -119,6 +119,23 @@ def _stub(task: str) -> dict:
             "issues": [],
             "final_text": "",
         }
+    if task == "write_hack":
+        return {
+            "skip": False,
+            "slides": {
+                "hook": "Gmail can take back an email after you hit send",
+                "problem": "Sent it to the wrong person? There is a short window to undo it.",
+                "step1": "Click the gear icon, then choose **See all settings**.",
+                "step2": "Next to **Undo Send**, pick 5, 10, 20, or 30 seconds, then save.",
+                "cta": "**Save this** and send it to a friend who needs it.",
+            },
+            "caption": "Gmail lets you choose how long you can cancel a sent email.\nSet the window once and it is there when you need it.\n"
+            "Comment \"HACK\" if you're trying this today.\nOfficial steps: https://support.google.com/mail/answer/2819488",
+            "hashtags": ["#Gmail", "#TechTips", "#LifeHacks", "#ProductivityHacks", "#Google"],
+            "facts_used": ["Pick a send cancellation period of 5, 10, 20, or 30 seconds in See all settings."],
+        }
+    if task == "review_hack":
+        return {"verdict": "approve", "safety": "ok", "accuracy": 5, "unsupported_claims": [], "issues": []}
     raise LLMError(f"no stub for {task}")
 
 

@@ -43,6 +43,32 @@ def send_photo(chat_id: str, photo_path: str, caption: str, buttons: list[list[d
     return resp.json()
 
 
+def send_media_group(chat_id: str, photo_paths: list[str], caption: str = "") -> dict | None:
+    """Send several photos as one swipeable album (Telegram allows 2 to 10)."""
+    if not _enabled() or not chat_id:
+        print(f"[telegram:dry] album of {len(photo_paths)} -> {chat_id or '(no chat)'}\n{caption}\n")
+        return None
+    media, files = [], {}
+    try:
+        for i, path in enumerate(photo_paths):
+            files[f"photo{i}"] = open(path, "rb")
+            item = {"type": "photo", "media": f"attach://photo{i}"}
+            if i == 0 and caption:
+                item["caption"] = caption[:1000]
+            media.append(item)
+        resp = requests.post(
+            API.format(token=config.TELEGRAM_BOT_TOKEN, method="sendMediaGroup"),
+            data={"chat_id": chat_id, "media": json.dumps(media)},
+            files=files,
+            timeout=120,
+        )
+    finally:
+        for fh in files.values():
+            fh.close()
+    resp.raise_for_status()
+    return resp.json()
+
+
 def get_updates(offset: int) -> list[dict]:
     if not _enabled():
         return []

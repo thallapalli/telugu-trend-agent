@@ -73,5 +73,26 @@ def pick_proverb(exclude: set[str] = frozenset()) -> dict | None:
     return fresh[0] if config.DRY_RUN else random.choice(fresh)
 
 
+HACKS_FILE = config.ROOT / "content" / "hacks.json"
+
+
+def pick_hacks(n: int) -> list[dict]:
+    """Choose up to n verified hacks not posted yet; once every hack has been used, start over."""
+    items = [h for h in json.loads(HACKS_FILE.read_text(encoding="utf-8"))["items"] if h.get("verified") is True]
+    used = {p["topic"] for p in store.load_posts() if p.get("format") == "hack"}
+    fresh = [h for h in items if h["title"] not in used] or items
+    if not config.DRY_RUN:
+        random.shuffle(fresh)
+    return fresh[:n]
+
+
+def hack_source_text(hack: dict) -> str:
+    facts = "\n".join(f"- {f}" for f in hack["facts"])
+    text = f"{hack['title']} ({hack['platform']})\nOfficial source: {hack['source_url']}\n\nFacts:\n{facts}"
+    if hack.get("not_stated"):
+        text += "\n\nNot stated by the source (do not claim): " + "; ".join(hack["not_stated"])
+    return text
+
+
 def proverb_source_text(item: dict) -> str:
     return f"Proverb: {item['proverb']}\nMeaning: {item['meaning_en']}\nLesson: {item['lesson_en']}"

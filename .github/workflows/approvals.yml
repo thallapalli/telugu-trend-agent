@@ -40,6 +40,8 @@ jobs:
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_HACKS_USER_ID: ${{ secrets.IG_HACKS_USER_ID }}
+          IG_HACKS_ACCESS_TOKEN: ${{ secrets.IG_HACKS_ACCESS_TOKEN }}
           IG_API_HOST: ${{ vars.IG_API_HOST || 'graph.facebook.com' }}
           IG_API_VERSION: ${{ vars.IG_API_VERSION || 'v24.0' }}
         run: python -m telugu_agent approvals
