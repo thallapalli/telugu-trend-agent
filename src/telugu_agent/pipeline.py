@@ -4,9 +4,13 @@ Post lifecycle: pending -> approved -> published   (or pending -> rejected)
 Publishing to Instagram only ever happens from process_approvals(), after the image has been
 committed and pushed, because Instagram downloads the image from a public URL.
 """
+import json
+import re
+
 from . import agents, config, imagegen, instagram, store, telegram, trends
 
 MAX_HASHTAGS = 30  # Instagram's limit
+DECISION_ID = re.compile(r"^[a-f0-9]{8}$")
 
 
 def _hashtags(tags: list[str]) -> str:
@@ -117,8 +121,43 @@ def _publish_approved() -> int:
     return published
 
 
+def process_decisions() -> int:
+    """Apply approve/reject decisions that the Vercel webhook wrote as data/decisions/<post_id>.json.
+
+    One file per decision means taps never overwrite or conflict with each other. Files are
+    deleted once applied, and a decision for a post that is no longer pending is ignored.
+    """
+    folder = config.DATA_DIR / "decisions"
+    if not folder.exists():
+        return 0
+    handled = 0
+    for path in sorted(folder.glob("*.json")):
+        try:
+            decision = json.loads(path.read_text(encoding="utf-8"))
+            action, post_id = decision["action"], decision["post_id"]
+            if action not in ("ap", "rj") or not DECISION_ID.match(post_id):
+                raise ValueError(f"unexpected values {decision!r}")
+        except (ValueError, KeyError, TypeError) as exc:
+            print(f"[decisions] ignoring invalid {path.name}: {exc}")
+            path.unlink()
+            continue
+        post = store.get_post(post_id)
+        if post and post["status"] == "pending":
+            if action == "ap":
+                store.update_post(post_id, status="approved", approved_at=store.now())
+            else:
+                store.update_post(post_id, status="rejected")
+            handled += 1
+            print(f"[decisions] {post_id}: {'approved' if action == 'ap' else 'rejected'}")
+        else:
+            print(f"[decisions] {post_id}: not pending, ignored")
+        path.unlink()
+    return handled
+
+
 def process_approvals() -> int:
-    """Poll Telegram for the owner's button taps, then publish everything approved."""
+    """Handle the owner's decisions (webhook files, plus Telegram polling when no webhook is set),
+    then publish everything approved."""
     state = store.load_state()
     handled = 0
     for update in telegram.get_updates(state["update_offset"]):
@@ -145,6 +184,7 @@ def process_approvals() -> int:
             telegram.clear_buttons(chat_id, message_id, "❌ Rejected")
         handled += 1
     store.save_state(state)
+    handled += process_decisions()
     published = _publish_approved()
     print(f"[approvals] {handled} taps handled, {published} published")
     return handled
