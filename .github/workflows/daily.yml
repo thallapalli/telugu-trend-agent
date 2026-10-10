@@ -12,31 +12,45 @@ concurrency:
   group: agent-data
   cancel-in-progress: false
 
+env:
+  PYTHONPATH: src
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_OWNER_CHAT_ID: ${{ secrets.TELEGRAM_OWNER_CHAT_ID }}
+  TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+  IG_USER_ID: ${{ secrets.IG_USER_ID }}
+  IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+  IG_HANDLE: ${{ vars.IG_HANDLE }}
+  IG_API_HOST: ${{ vars.IG_API_HOST || 'graph.facebook.com' }}
+  IG_API_VERSION: ${{ vars.IG_API_VERSION || 'v24.0' }}
+  POSTS_PER_DAY: ${{ vars.POSTS_PER_DAY || '3' }}
+  AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH || 'false' }}
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
+      - name: Install Telugu text shaping library
+        run: sudo apt-get install -y --no-install-recommends libraqm0 libfribidi0
       - run: pip install -r requirements.txt
-      - name: Generate posts
-        env:
-          PYTHONPATH: src
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_OWNER_CHAT_ID: ${{ secrets.TELEGRAM_OWNER_CHAT_ID }}
-          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-          POSTS_PER_DAY: ${{ vars.POSTS_PER_DAY || '3' }}
-          AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH || 'false' }}
+      - name: Generate posts and image cards
         run: python -m telugu_agent generate
-      - name: Commit data
+      - name: Commit and push (images must be public before Instagram can fetch them)
         run: |
           git config user.name "telugu-agent-bot"
           git config user.email "telugu-agent-bot@users.noreply.github.com"
           git add data
           git diff --staged --quiet || (git commit -m "data: daily posts" && git pull --rebase && git push)
+      - name: Publish auto-approved posts (only does anything when AUTO_PUBLISH=true)
+        run: python -m telugu_agent approvals
+      - name: Commit publish results
+        run: |
+          git add data
+          git diff --staged --quiet || (git commit -m "data: published" && git pull --rebase && git push)

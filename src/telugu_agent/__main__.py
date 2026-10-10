@@ -9,13 +9,17 @@ def main() -> int:
     parser.add_argument("command", choices=["generate", "approvals", "dry-run"])
     args = parser.parse_args()
 
-    # DRY_RUN must be set before config is imported (it picks the data directory).
+    # These must be set before config is imported (it picks the data directory).
     if args.command == "dry-run":
         os.environ["DRY_RUN"] = "1"
+        os.environ["AUTO_PUBLISH"] = "1"  # exercise the publish path too (prints only)
 
     from . import pipeline
 
-    if args.command in ("generate", "dry-run"):
+    if args.command == "dry-run":
+        pipeline.generate()
+        pipeline.process_approvals()
+    elif args.command == "generate":
         pipeline.generate()
     else:
         pipeline.process_approvals()

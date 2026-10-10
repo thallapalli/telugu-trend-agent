@@ -1,4 +1,6 @@
-"""Minimal Telegram Bot API wrapper (free). Prints instead of sending when unconfigured/dry-run."""
+"""Minimal Telegram Bot API wrapper (free). Used as the private approval inbox. Prints when unconfigured/dry-run."""
+import json
+
 import requests
 
 from . import config
@@ -24,6 +26,21 @@ def send_message(chat_id: str, text: str, buttons: list[list[dict]] | None = Non
     if buttons:
         payload["reply_markup"] = {"inline_keyboard": buttons}
     return _call("sendMessage", **payload)
+
+
+def send_photo(chat_id: str, photo_path: str, caption: str, buttons: list[list[dict]] | None = None) -> dict | None:
+    if not _enabled() or not chat_id:
+        print(f"[telegram:dry] photo {photo_path} -> {chat_id or '(no chat)'}\n{caption}\n")
+        return None
+    data = {"chat_id": chat_id, "caption": caption[:1000]}
+    if buttons:
+        data["reply_markup"] = json.dumps({"inline_keyboard": buttons})
+    with open(photo_path, "rb") as fh:
+        resp = requests.post(
+            API.format(token=config.TELEGRAM_BOT_TOKEN, method="sendPhoto"), data=data, files={"photo": fh}, timeout=60
+        )
+    resp.raise_for_status()
+    return resp.json()
 
 
 def get_updates(offset: int) -> list[dict]:
