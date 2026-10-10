@@ -29,6 +29,10 @@ IG_ACCESS_TOKEN = os.getenv("IG_ACCESS_TOKEN", "")
 IG_API_HOST = os.getenv("IG_API_HOST", "graph.facebook.com")
 IG_API_VERSION = os.getenv("IG_API_VERSION", "v24.0")  # bump to Meta's current version if calls are rejected
 IG_HANDLE = os.getenv("IG_HANDLE", "")  # shown in the footer of each card, e.g. @my_telugu_page
+# Life-hacks carousels can go to a different Instagram account. Leave these empty to post them to the main one.
+IG_HACKS_USER_ID = os.getenv("IG_HACKS_USER_ID", "")
+IG_HACKS_ACCESS_TOKEN = os.getenv("IG_HACKS_ACCESS_TOKEN", "")
+IG_HACKS_HANDLE = os.getenv("IG_HACKS_HANDLE", "")  # footer on hack slides; falls back to IG_HANDLE
 # Instagram fetches the image from a public URL. We serve it from this (public) repo.
 GITHUB_REPOSITORY = os.getenv("GITHUB_REPOSITORY", "")  # set automatically in GitHub Actions
 GIT_BRANCH = os.getenv("GIT_BRANCH", os.getenv("GITHUB_REF_NAME", "main"))
@@ -40,11 +44,15 @@ TELEGRAM_OWNER_CHAT_ID = os.getenv("TELEGRAM_OWNER_CHAT_ID", "")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID", "")  # optional
 
 # --- Behaviour ---
-POSTS_PER_DAY = int(os.getenv("POSTS_PER_DAY", "3"))
+POSTS_PER_DAY = int(os.getenv("POSTS_PER_DAY", "3"))  # Telugu Locals heritage posts per day
+HACKS_PER_DAY = int(os.getenv("HACKS_PER_DAY", "1"))  # English life-hack carousels per day (0 turns the mode off)
 AUTO_PUBLISH = _bool("AUTO_PUBLISH", False)
 RECENT_DAYS = 7  # don't repeat a topic used in the last N days
-MIN_TELUGU_QUALITY = 3  # reviewer score (1-5) below this => post is dropped
+MIN_TELUGU_QUALITY = 4  # reviewer score (1-5) below this => post is dropped
+MIN_ACCURACY = 4  # reviewer's source-faithfulness score (1-5) below this => post is dropped
+SOURCE_MAX_CHARS = 4000  # how much Wikipedia text the writer and reviewer are given
 
+# One pillar per slot, rotating daily so POSTS_PER_DAY=1 still covers all three over time.
 FORMATS = ["saametha", "ancient_secrets", "history_heritage"]
 
 # --- Cultural & Heritage sources (all free, no API key). ---

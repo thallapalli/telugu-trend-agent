@@ -1,0 +1,91 @@
+{
+  "_note": "Curated list of well-known Telugu proverbs. The agent only explains proverbs from this list and never invents one. Please have a native speaker check the spelling and meanings, then set reviewed_by_native to true. Add more entries any time: proverb (exact Telugu text), meaning_en (what it literally says and means), lesson_en (the everyday takeaway).",
+  "reviewed_by_native": false,
+  "items": [
+    {
+      "proverb": "పిట్ట కొంచెం కూత ఘనం",
+      "meaning_en": "The bird is small but its call is mighty. A small person can have great ability or presence.",
+      "lesson_en": "Do not judge ability by size or age."
+    },
+    {
+      "proverb": "ఆలస్యం అమృతం విషం",
+      "meaning_en": "Delay turns nectar into poison. Even a good thing is spoiled if it is done too late.",
+      "lesson_en": "Act on time; postponing good work wastes its value."
+    },
+    {
+      "proverb": "కొండను తవ్వి ఎలుకను పట్టినట్లు",
+      "meaning_en": "Digging up a mountain to catch a mouse. A huge effort that gives a tiny result.",
+      "lesson_en": "Match the effort to the goal and plan before starting."
+    },
+    {
+      "proverb": "నిదానమే ప్రధానం",
+      "meaning_en": "Steadiness is what matters most. Careful, patient progress beats hasty action.",
+      "lesson_en": "Haste often causes mistakes; steady, thoughtful work lasts."
+    },
+    {
+      "proverb": "చేతులు కాలాక ఆకులు పట్టుకున్నట్లు",
+      "meaning_en": "Grabbing leaves after the hands are already burnt. A remedy applied too late.",
+      "lesson_en": "Prepare and prevent before trouble arrives."
+    },
+    {
+      "proverb": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు",
+      "meaning_en": "Even God cannot catch the thief inside the house. It is very hard to guard against harm from someone within one's own circle.",
+      "lesson_en": "Be careful whom you trust with access to what matters."
+    },
+    {
+      "proverb": "అందని ద్రాక్ష పుల్లన",
+      "meaning_en": "The grapes that are out of reach are sour. People run down what they cannot have.",
+      "lesson_en": "Be honest with yourself and avoid belittling what you could not achieve."
+    },
+    {
+      "proverb": "ఏరు దాటాక తెప్ప తగలేసినట్లు",
+      "meaning_en": "Burning the raft after crossing the river. Forgetting or discarding the help that got you across once the need is over.",
+      "lesson_en": "Remember and respect those who helped you."
+    },
+    {
+      "proverb": "కందకు లేని దురద కత్తిపీటకెందుకు",
+      "meaning_en": "If the yam itself does not itch, why should the cutting knife? Why worry about a matter when the person concerned does not mind.",
+      "lesson_en": "Avoid needless worry and interfering in what is not your concern."
+    },
+    {
+      "proverb": "మొక్కై వంగనిది మానై వంగునా",
+      "meaning_en": "What does not bend as a sapling will not bend as a tree. Good habits and values are easiest to teach when young.",
+      "lesson_en": "Build good habits early, in yourself and in children."
+    },
+    {
+      "proverb": "గోరంత దీపం కొండంత వెలుగు",
+      "meaning_en": "A tiny lamp gives a mountain of light. A small help or good deed can make a great difference.",
+      "lesson_en": "Never think a small act of kindness is too small to matter."
+    },
+    {
+      "proverb": "తాను ఒకటి తలిస్తే దైవం ఒకటి తలుస్తుంది",
+      "meaning_en": "One plans one thing, fate decides another. Results may differ from what we planned.",
+      "lesson_en": "Plan well, work hard, and stay calm when outcomes differ."
+    },
+    {
+      "proverb": "పనిలేని మంగలి పిల్లి తల గొరిగినట్లు",
+      "meaning_en": "The idle barber shaves the cat's head. People with nothing to do busy themselves with pointless things.",
+      "lesson_en": "Keep yourself engaged in meaningful work."
+    },
+    {
+      "proverb": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు",
+      "meaning_en": "Build a house and see; arrange a wedding and see. Some tasks show their true difficulty only when you do them yourself.",
+      "lesson_en": "Respect the effort behind big undertakings before judging them."
+    },
+    {
+      "proverb": "ఆకలి రుచి ఎరుగదు",
+      "meaning_en": "Hunger knows no taste. When truly hungry, any food is welcome; need overrides choosiness.",
+      "lesson_en": "Gratitude for what we have, and empathy for those in real need."
+    },
+    {
+      "proverb": "తనదాకా వస్తే గానీ తెలియదు",
+      "meaning_en": "One does not understand until it comes to oneself. We grasp another's hardship only when we face it ourselves.",
+      "lesson_en": "Practice empathy before you have to learn it the hard way."
+    },
+    {
+      "proverb": "అతి సర్వత్ర వర్జయేత్",
+      "meaning_en": "Excess is to be avoided everywhere. Too much of anything, even a good thing, causes harm.",
+      "lesson_en": "Seek balance and moderation in everything."
+    }
+  ]
+}

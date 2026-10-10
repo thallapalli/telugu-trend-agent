@@ -89,29 +89,53 @@ def _stub(task: str) -> dict:
         return {
             "picks": [
                 {
-                    "topic": "పిట్ట కొంచెం కూత ఘనం",
-                    "angle": "సామర్థ్యం రూపంలో కాదు సాధనలో ఉంటుంది",
-                    "format": "saametha",
-                },
-                {
-                    "topic": "లేపాక్షి వీరభద్ర ఆలయం వేలాడే స్తంభం",
-                    "angle": "పురాతన భారతీయ వాస్తు ఇంజనీరింగ్ అద్భుతం",
+                    "topic": "Lepakshi temple",
+                    "wikipedia_title": "Lepakshi",
+                    "angle": "Fine stone sculpture of the Vijayanagara era",
                     "format": "ancient_secrets",
                 },
                 {
-                    "topic": "రాణి రుద్రమదేవి కాకతీయ వీరగాథ",
-                    "angle": "ఓరుగల్లు వీర నారి చారిత్రక శౌర్యం",
+                    "topic": "Kakatiya dynasty",
+                    "wikipedia_title": "Kakatiya dynasty",
+                    "angle": "A Telugu dynasty's lasting legacy",
                     "format": "history_heritage",
                 },
             ]
         }
     if task == "write":
         return {
+            "skip": False,
             "text": "\"పిట్ట కొంచెం కూత ఘనం\"\nరూపంలో చిన్నదైనా ప్రతిభలో గొప్పగా ఉండవచ్చనేది ఈ సామెత అంతరార్థం.\nమనిషి ఔన్నత్యం బాహ్య రూపంలో కాదు, వారు చేసే సత్కార్యాలలోనే దాగి ఉంటుంది.",
             "hashtags": ["#TeluguHeritage", "#TeluguSaamethalu", "#TeluguCulture", "#AncientWisdom"],
+            "facts_used": ["Small bird, mighty call: a small person can have great ability."],
         }
     if task == "review":
-        return {"verdict": "approve", "safety": "ok", "telugu_quality": 5, "issues": [], "final_text": ""}
+        return {
+            "verdict": "approve",
+            "safety": "ok",
+            "telugu_quality": 5,
+            "accuracy": 5,
+            "unsupported_claims": [],
+            "issues": [],
+            "final_text": "",
+        }
+    if task == "write_hack":
+        return {
+            "skip": False,
+            "slides": {
+                "hook": "Gmail can take back an email after you hit send",
+                "problem": "Sent it to the wrong person? There is a short window to undo it.",
+                "step1": "Click the gear icon, then choose **See all settings**.",
+                "step2": "Next to **Undo Send**, pick 5, 10, 20, or 30 seconds, then save.",
+                "cta": "**Save this** and send it to a friend who needs it.",
+            },
+            "caption": "Gmail lets you choose how long you can cancel a sent email.\nSet the window once and it is there when you need it.\n"
+            "Comment \"HACK\" if you're trying this today.\nOfficial steps: https://support.google.com/mail/answer/2819488",
+            "hashtags": ["#Gmail", "#TechTips", "#LifeHacks", "#ProductivityHacks", "#Google"],
+            "facts_used": ["Pick a send cancellation period of 5, 10, 20, or 30 seconds in See all settings."],
+        }
+    if task == "review_hack":
+        return {"verdict": "approve", "safety": "ok", "accuracy": 5, "unsupported_claims": [], "issues": []}
     raise LLMError(f"no stub for {task}")
 
 

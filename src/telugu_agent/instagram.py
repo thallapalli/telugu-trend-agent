@@ -1,7 +1,12 @@
-"""Publish a single-image post via the Instagram Graph API (content publishing).
+"""Publish to Instagram via the Graph API (content publishing).
 
-Flow: POST /{ig-user-id}/media (image_url, caption) -> poll status -> POST /{ig-user-id}/media_publish.
-Meta fetches image_url itself, so it must be publicly reachable when we publish.
+Single image:  POST /{ig-user-id}/media (image_url, caption) -> wait FINISHED -> POST /{ig-user-id}/media_publish
+Carousel:      one child container per image (is_carousel_item=true) -> parent container (media_type=CAROUSEL,
+               children=<ids>, caption) -> wait FINISHED -> media_publish
+Meta fetches every image_url itself, so each must be publicly reachable when we publish.
+
+mode "heritage" uses IG_USER_ID / IG_ACCESS_TOKEN. mode "hacks" uses IG_HACKS_USER_ID / IG_HACKS_ACCESS_TOKEN
+when set (a separate Instagram account), otherwise the main account.
 """
 import time
 
@@ -14,8 +19,15 @@ class InstagramError(RuntimeError):
     pass
 
 
-def configured() -> bool:
-    return bool(config.IG_USER_ID and config.IG_ACCESS_TOKEN) and not config.DRY_RUN
+def _creds(mode: str = "heritage") -> tuple[str, str]:
+    if mode == "hacks":
+        return (config.IG_HACKS_USER_ID or config.IG_USER_ID, config.IG_HACKS_ACCESS_TOKEN or config.IG_ACCESS_TOKEN)
+    return config.IG_USER_ID, config.IG_ACCESS_TOKEN
+
+
+def configured(mode: str = "heritage") -> bool:
+    user_id, token = _creds(mode)
+    return bool(user_id and token) and not config.DRY_RUN
 
 
 def image_url(relative_path: str) -> str:
@@ -36,43 +48,64 @@ def _check(resp: requests.Response) -> dict:
     return resp.json()
 
 
-def publish_image(image_relative_path: str, caption: str) -> str | None:
-    """Returns the published media id (None in dry-run / unconfigured)."""
-    if not configured():
-        print(f"[instagram:dry] would publish {image_relative_path}\n{caption}\n")
-        return None
-
-    token = {"access_token": config.IG_ACCESS_TOKEN}
-    url = image_url(image_relative_path)
-
-    # 1) create container (retry: the raw.githubusercontent URL can lag a moment after a push)
-    container = None
+def _create_container(user_id: str, token: str, params: dict) -> str:
+    """Create a media container. Retries: raw.githubusercontent.com can lag a moment after a push."""
     for attempt in range(4):
-        resp = requests.post(
-            _url(f"{config.IG_USER_ID}/media"), data={"image_url": url, "caption": caption, **token}, timeout=60
-        )
+        resp = requests.post(_url(f"{user_id}/media"), data={**params, "access_token": token}, timeout=60)
         if resp.ok:
-            container = resp.json()["id"]
-            break
+            return resp.json()["id"]
         print(f"[instagram] container attempt {attempt + 1} failed: {resp.status_code} {resp.text[:200]}")
         time.sleep(15)
-    if not container:
-        raise InstagramError("could not create media container (is the repo public and the image pushed?)")
+    raise InstagramError("could not create media container (is the repo public and the image pushed?)")
 
-    # 2) wait until Meta has fetched and processed the image
+
+def _wait_ready(container: str, token: str) -> None:
     for _ in range(24):  # up to ~2 minutes
-        status = _check(requests.get(_url(container), params={"fields": "status_code", **token}, timeout=30))
+        status = _check(requests.get(_url(container), params={"fields": "status_code", "access_token": token}, timeout=30))
         code = status.get("status_code")
         if code == "FINISHED":
-            break
+            return
         if code in ("ERROR", "EXPIRED"):
-            raise InstagramError(f"container status {code}")
+            raise InstagramError(f"container {container} status {code}")
         time.sleep(5)
-    else:
-        raise InstagramError("container not ready in time")
+    raise InstagramError(f"container {container} not ready in time")
 
-    # 3) publish
+
+def _publish(user_id: str, token: str, creation_id: str) -> str:
     data = _check(
-        requests.post(_url(f"{config.IG_USER_ID}/media_publish"), data={"creation_id": container, **token}, timeout=60)
+        requests.post(
+            _url(f"{user_id}/media_publish"), data={"creation_id": creation_id, "access_token": token}, timeout=60
+        )
     )
     return data["id"]
+
+
+def publish_image(image_relative_path: str, caption: str, mode: str = "heritage") -> str | None:
+    """Returns the published media id (None in dry-run / unconfigured)."""
+    if not configured(mode):
+        print(f"[instagram:dry] would publish {image_relative_path}\n{caption}\n")
+        return None
+    user_id, token = _creds(mode)
+    container = _create_container(user_id, token, {"image_url": image_url(image_relative_path), "caption": caption})
+    _wait_ready(container, token)
+    return _publish(user_id, token, container)
+
+
+def publish_carousel(image_relative_paths: list[str], caption: str, mode: str = "hacks") -> str | None:
+    """Publish 2 to 10 images as one swipeable carousel post. Returns the media id (None in dry-run)."""
+    if not 2 <= len(image_relative_paths) <= 10:
+        raise InstagramError(f"a carousel needs 2 to 10 images, got {len(image_relative_paths)}")
+    if not configured(mode):
+        print(f"[instagram:dry] would publish carousel of {len(image_relative_paths)}: {image_relative_paths}\n{caption}\n")
+        return None
+    user_id, token = _creds(mode)
+    children = []
+    for path in image_relative_paths:
+        children.append(_create_container(user_id, token, {"image_url": image_url(path), "is_carousel_item": "true"}))
+    for child in children:
+        _wait_ready(child, token)
+    parent = _create_container(
+        user_id, token, {"media_type": "CAROUSEL", "children": ",".join(children), "caption": caption}
+    )
+    _wait_ready(parent, token)
+    return _publish(user_id, token, parent)

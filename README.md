@@ -80,9 +80,32 @@ python -m telugu_agent dry-run      # offline, no keys: renders cards into data/
 
 Telugu rendering needs libraqm (bundled in Pillow wheels on most platforms; on Linux `apt install libraqm0` if the renderer complains).
 
+## Where the facts come from (accuracy)
+
+The AI is never trusted to remember facts. Each post is written from a source text it must stay inside:
+
+- **Heritage and history posts:** the English Wikipedia article for the subject. News headlines are only used to spark ideas. The caption ends with `Source: <article link>` and the Telegram approval card shows the same link so you can check it in seconds.
+- **Saamethalu:** only proverbs listed in `content/saamethalu.json`. The AI may explain them but cannot invent one. **Please have a native speaker check that file** and then set `reviewed_by_native` to `true`. Add more proverbs there any time.
+- **Code checks before the reviewer:** every number in a post must appear in the source, and the exact proverb must appear in a saametha post.
+- **Reviewer:** scores accuracy and lists unsupported claims; any unsupported claim, accuracy below 4, or Telugu quality below 4 drops the post.
+- If nothing passes the checks, the run fails (red in Actions) instead of posting something weak.
+
+This greatly reduces invented facts but cannot remove them. Keep approval on and glance at the source link before tapping Approve.
+
+## Life-hacks mode (English carousels)
+
+A second content mode next to Telugu Locals: 5-slide Instagram carousels about phone, software and web tricks (hook, problem, two steps, save-and-share slide), plus a caption and 5 to 8 hashtags. Each one is approved in Telegram like any other post: you get the 5 slides as an album, then the caption, the reviewer's scores, the official link, and the Approve / Reject buttons.
+
+- **Facts come only from `content/hacks.json`.** Every entry was checked against an official help page (Google, Apple, Microsoft) and records what that page does NOT say, so the AI cannot fill the gap with invention. To add one, open the official page, copy only what it says, and set `verified` to `true`. Entries with `verified: false` are never used. Menus change, so re-check old entries now and then.
+- **Code checks before the reviewer:** slide word limits (hook 12 words, other slides 15), every number must be in the source, no "most people" / "99%" style claims, a "Comment ..." line and 5 to 8 hashtags must be present.
+- **The caption asks viewers to comment `HACK` but does not promise a link in return**, because nothing here auto-replies. The official page link is printed in the caption instead, so the promise is never broken.
+- **Same or separate Instagram account:** by default hacks post to the same account as Telugu Locals. To use another account, add `IG_HACKS_USER_ID` and `IG_HACKS_ACCESS_TOKEN` as GitHub secrets (and optionally `IG_HACKS_HANDLE` as a variable). The Telegram approval chat is shared, and each card says which kind it is.
+- **Volume:** `HACKS_PER_DAY` (default 1; 0 turns it off). The 7 starter entries rotate and then repeat, so add more entries over time.
+- Run only this mode offline: `DRY_RUN=1 PYTHONPATH=src python -m telugu_agent generate-hacks`.
+
 ## Customizing
 
-- Trend sources, blocklist, formats, quality threshold: `src/telugu_agent/config.py`
+- Trend sources, blocklist, formats, quality thresholds: `src/telugu_agent/config.py`
 - Tone, humor rules, safety rules: `prompts/style_guide.md`. Add 10-15 of your favorite Telugu posts as examples; this is the biggest quality lever.
 - Card look (colors, sizes, footer): `src/telugu_agent/imagegen.py`
 

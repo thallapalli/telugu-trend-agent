@@ -22,9 +22,13 @@ env:
   IG_USER_ID: ${{ secrets.IG_USER_ID }}
   IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
   IG_HANDLE: ${{ vars.IG_HANDLE }}
+  IG_HACKS_USER_ID: ${{ secrets.IG_HACKS_USER_ID }}
+  IG_HACKS_ACCESS_TOKEN: ${{ secrets.IG_HACKS_ACCESS_TOKEN }}
+  IG_HACKS_HANDLE: ${{ vars.IG_HACKS_HANDLE }}
   IG_API_HOST: ${{ vars.IG_API_HOST || 'graph.facebook.com' }}
   IG_API_VERSION: ${{ vars.IG_API_VERSION || 'v24.0' }}
   POSTS_PER_DAY: ${{ vars.POSTS_PER_DAY || '3' }}
+  HACKS_PER_DAY: ${{ vars.HACKS_PER_DAY || '1' }}
   AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH || 'false' }}
 
 jobs:
@@ -40,9 +44,12 @@ jobs:
       - name: Install Telugu text shaping library
         run: sudo apt-get install -y --no-install-recommends libraqm0 libfribidi0
       - run: pip install -r requirements.txt
-      - name: Generate posts and image cards
+      - name: Generate posts and image cards (heritage + life hacks)
         run: python -m telugu_agent generate
+      # always(): if one mode fails after the other already sent its Telegram cards, the posts and images
+      # must still be saved, otherwise tapping Approve on those cards would find nothing in the repo.
       - name: Commit and push (images must be public before Instagram can fetch them)
+        if: always()
         run: |
           git config user.name "telugu-agent-bot"
           git config user.email "telugu-agent-bot@users.noreply.github.com"
