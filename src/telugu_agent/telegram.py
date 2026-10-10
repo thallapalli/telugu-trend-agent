@@ -1,0 +1,43 @@
+"""Minimal Telegram Bot API wrapper (free). Prints instead of sending when unconfigured/dry-run."""
+import requests
+
+from . import config
+
+API = "https://api.telegram.org/bot{token}/{method}"
+
+
+def _enabled() -> bool:
+    return bool(config.TELEGRAM_BOT_TOKEN) and not config.DRY_RUN
+
+
+def _call(method: str, **payload) -> dict:
+    resp = requests.post(API.format(token=config.TELEGRAM_BOT_TOKEN, method=method), json=payload, timeout=30)
+    resp.raise_for_status()
+    return resp.json()
+
+
+def send_message(chat_id: str, text: str, buttons: list[list[dict]] | None = None) -> dict | None:
+    if not _enabled() or not chat_id:
+        print(f"[telegram:dry] -> {chat_id or '(no chat)'}\n{text}\n")
+        return None
+    payload = {"chat_id": chat_id, "text": text}
+    if buttons:
+        payload["reply_markup"] = {"inline_keyboard": buttons}
+    return _call("sendMessage", **payload)
+
+
+def get_updates(offset: int) -> list[dict]:
+    if not _enabled():
+        return []
+    return _call("getUpdates", offset=offset, timeout=0, allowed_updates=["callback_query"]).get("result", [])
+
+
+def answer_callback(callback_id: str, text: str) -> None:
+    if _enabled():
+        _call("answerCallbackQuery", callback_query_id=callback_id, text=text)
+
+
+def clear_buttons(chat_id: str, message_id: int, status_line: str) -> None:
+    if _enabled():
+        _call("editMessageReplyMarkup", chat_id=chat_id, message_id=message_id, reply_markup={"inline_keyboard": []})
+        _call("sendMessage", chat_id=chat_id, text=status_line, reply_to_message_id=message_id)
