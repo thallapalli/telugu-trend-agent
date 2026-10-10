@@ -46,7 +46,14 @@ def send_photo(chat_id: str, photo_path: str, caption: str, buttons: list[list[d
 def get_updates(offset: int) -> list[dict]:
     if not _enabled():
         return []
-    return _call("getUpdates", offset=offset, timeout=0, allowed_updates=["callback_query"]).get("result", [])
+    try:
+        return _call("getUpdates", offset=offset, timeout=0, allowed_updates=["callback_query"]).get("result", [])
+    except requests.HTTPError as exc:
+        # Telegram answers 409 when a webhook is set: taps then arrive via the Vercel function, not polling.
+        if exc.response is not None and exc.response.status_code == 409:
+            print("[telegram] webhook is active, skipping getUpdates polling")
+            return []
+        raise
 
 
 def answer_callback(callback_id: str, text: str) -> None:

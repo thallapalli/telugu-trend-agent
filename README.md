@@ -67,6 +67,8 @@ You need a Meta developer app that is yours. While the app stays in Development 
 
 Start with 1 post/day and approval on, and check the first few results on Instagram before raising the volume.
 
+**Want Approve in Telegram to publish right away, without opening GitHub?** Set up the free Vercel webhook: [docs/INSTANT_APPROVAL.md](docs/INSTANT_APPROVAL.md).
+
 ## Run locally
 
 ```bash
