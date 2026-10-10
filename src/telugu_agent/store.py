@@ -58,11 +58,13 @@ def get_post(post_id: str) -> dict | None:
 
 def recent_topics(days: int | None = None) -> list[str]:
     cutoff = datetime.now(timezone.utc) - timedelta(days=days or config.RECENT_DAYS)
-    return [
-        p["topic"]
-        for p in load_posts()
-        if datetime.fromisoformat(p["created_at"]) >= cutoff
-    ]
+    out: list[str] = []
+    for p in load_posts():
+        if datetime.fromisoformat(p["created_at"]) >= cutoff:
+            out.append(p["topic"])
+            if p.get("source_title"):
+                out.append(p["source_title"])
+    return out
 
 
 def load_state() -> dict:

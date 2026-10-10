@@ -1,4 +1,8 @@
-"""The three LLM agents: Picker (what to post), Writer (the post), Reviewer (quality + safety)."""
+"""The three LLM agents: Picker (what to post), Writer (the post), Reviewer (quality + safety + accuracy).
+
+Facts never come from the model's memory: the writer and reviewer are handed a SOURCE text
+(a Wikipedia article or a curated proverb entry) and must stay inside it.
+"""
 import json
 
 from . import config, llm
@@ -12,32 +16,39 @@ def _prompt(name: str, **values) -> str:
     return text
 
 
-def pick_topics(trends: list[dict], recent: list[str], n: int) -> list[dict]:
+def pick_topics(trends: list[dict], recent: list[str], slots: list[str]) -> list[dict]:
+    """Pick one Wikipedia-backed subject per slot (slots are pillar names like 'ancient_secrets')."""
     result = llm.complete_json(
         "pick",
         _prompt(
             "picker",
             trends=[{k: t[k] for k in ("title", "source", "summary", "traffic")} for t in trends],
             recent=recent,
-            n=str(n),
-            formats=", ".join(config.FORMATS),
+            slots=slots,
+            n=str(len(slots)),
         ),
         temperature=0.6,
     )
-    return result.get("picks", [])[:n]
+    return result.get("picks", [])
 
 
-def write_post(pick: dict) -> dict:
+def write_post(pick: dict, source_text: str) -> dict:
     return llm.complete_json(
         "write",
-        _prompt("writer", topic=pick["topic"], angle=pick.get("angle", ""), format=pick["format"]),
-        temperature=0.95,
+        _prompt(
+            "writer",
+            topic=pick["topic"],
+            angle=pick.get("angle", ""),
+            format=pick["format"],
+            source=source_text,
+        ),
+        temperature=0.7,
     )
 
 
-def review_post(pick: dict, draft: dict) -> dict:
+def review_post(pick: dict, draft: dict, source_text: str) -> dict:
     return llm.complete_json(
         "review",
-        _prompt("reviewer", topic=pick["topic"], format=pick["format"], draft=draft),
-        temperature=0.2,
+        _prompt("reviewer", topic=pick["topic"], format=pick["format"], draft=draft, source=source_text),
+        temperature=0.1,
     )

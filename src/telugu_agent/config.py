@@ -43,8 +43,11 @@ TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID", "")  # optional
 POSTS_PER_DAY = int(os.getenv("POSTS_PER_DAY", "3"))
 AUTO_PUBLISH = _bool("AUTO_PUBLISH", False)
 RECENT_DAYS = 7  # don't repeat a topic used in the last N days
-MIN_TELUGU_QUALITY = 3  # reviewer score (1-5) below this => post is dropped
+MIN_TELUGU_QUALITY = 4  # reviewer score (1-5) below this => post is dropped
+MIN_ACCURACY = 4  # reviewer's source-faithfulness score (1-5) below this => post is dropped
+SOURCE_MAX_CHARS = 4000  # how much Wikipedia text the writer and reviewer are given
 
+# One pillar per slot, rotating daily so POSTS_PER_DAY=1 still covers all three over time.
 FORMATS = ["saametha", "ancient_secrets", "history_heritage"]
 
 # --- Cultural & Heritage sources (all free, no API key). ---

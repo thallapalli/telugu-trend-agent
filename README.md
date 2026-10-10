@@ -80,9 +80,21 @@ python -m telugu_agent dry-run      # offline, no keys: renders cards into data/
 
 Telugu rendering needs libraqm (bundled in Pillow wheels on most platforms; on Linux `apt install libraqm0` if the renderer complains).
 
+## Where the facts come from (accuracy)
+
+The AI is never trusted to remember facts. Each post is written from a source text it must stay inside:
+
+- **Heritage and history posts:** the English Wikipedia article for the subject. News headlines are only used to spark ideas. The caption ends with `Source: <article link>` and the Telegram approval card shows the same link so you can check it in seconds.
+- **Saamethalu:** only proverbs listed in `content/saamethalu.json`. The AI may explain them but cannot invent one. **Please have a native speaker check that file** and then set `reviewed_by_native` to `true`. Add more proverbs there any time.
+- **Code checks before the reviewer:** every number in a post must appear in the source, and the exact proverb must appear in a saametha post.
+- **Reviewer:** scores accuracy and lists unsupported claims; any unsupported claim, accuracy below 4, or Telugu quality below 4 drops the post.
+- If nothing passes the checks, the run fails (red in Actions) instead of posting something weak.
+
+This greatly reduces invented facts but cannot remove them. Keep approval on and glance at the source link before tapping Approve.
+
 ## Customizing
 
-- Trend sources, blocklist, formats, quality threshold: `src/telugu_agent/config.py`
+- Trend sources, blocklist, formats, quality thresholds: `src/telugu_agent/config.py`
 - Tone, humor rules, safety rules: `prompts/style_guide.md`. Add 10-15 of your favorite Telugu posts as examples; this is the biggest quality lever.
 - Card look (colors, sizes, footer): `src/telugu_agent/imagegen.py`
 

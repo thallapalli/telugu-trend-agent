@@ -6,8 +6,9 @@ committed and pushed, because Instagram downloads the image from a public URL.
 """
 import json
 import re
+from datetime import datetime, timezone
 
-from . import agents, config, imagegen, instagram, store, telegram, trends
+from . import agents, config, guards, imagegen, instagram, sources, store, telegram, trends
 
 MAX_HASHTAGS = 30  # Instagram's limit
 DECISION_ID = re.compile(r"^[a-f0-9]{8}$")
@@ -20,6 +21,8 @@ def _hashtags(tags: list[str]) -> str:
 
 def _caption(post: dict) -> str:
     caption = post["text"]
+    if post.get("source_url"):
+        caption += f"\n\nSource: {post['source_url']}"
     if post.get("hashtags"):
         caption += "\n\n" + _hashtags(post["hashtags"])
     return caption[:2200]  # Instagram caption limit
@@ -32,7 +35,14 @@ def _owner_note(text: str) -> None:
 def _send_for_approval(post: dict, image_path) -> None:
     review = post["review"]
     caption = f"📝 Draft {post['id']} · {post['format']} · {post['topic']}\n\n{_caption(post)}\n\n"
-    caption += f"Reviewer: Telugu {review.get('telugu_quality', '?')}/5, safety {review.get('safety', '?')}"
+    caption += (
+        f"Reviewer: accuracy {review.get('accuracy', '?')}/5, Telugu {review.get('telugu_quality', '?')}/5, "
+        f"safety {review.get('safety', '?')}"
+    )
+    if post.get("source_url"):
+        caption += f"\nVerify against the source: {post['source_url']}"
+    elif post["format"] == "saametha":
+        caption += "\nProverb is from content/saamethalu.json (check it is genuine)"
     if review.get("issues"):
         caption += "\nNotes: " + "; ".join(review["issues"])
     if config.AUTO_PUBLISH:
@@ -59,39 +69,121 @@ def publish(post: dict) -> str | None:
     return media_id
 
 
+def _slots(n: int) -> list[str]:
+    """One pillar per post, rotating daily so every pillar gets covered even at 1 post a day."""
+    day = datetime.now(timezone.utc).toordinal()
+    return [config.FORMATS[(day + i) % len(config.FORMATS)] for i in range(n)]
+
+
+def _candidates(slots: list[str], headlines: list[dict]) -> list[dict]:
+    """Choose what to write about AND fetch its source text first. A post is only ever written from a source."""
+    cands: list[dict] = []
+    recent = store.recent_topics()
+    recent_lower = {r.lower() for r in recent}
+
+    wiki_slots = [s for s in slots if s != "saametha"]
+    if wiki_slots:
+        for pick in agents.pick_topics(headlines, recent, wiki_slots)[: len(wiki_slots)]:
+            if pick.get("format") not in wiki_slots:
+                print(f"[pipeline] skipped pick with unexpected format: {pick}")
+                continue
+            src = sources.wikipedia_extract(pick.get("wikipedia_title") or pick.get("topic", ""))
+            if not src:
+                print(f"[pipeline] skipped, no usable Wikipedia source for: {pick}")
+                continue
+            if src["title"].lower() in recent_lower:
+                print(f"[pipeline] skipped, posted recently: {src['title']}")
+                continue
+            cands.append(
+                {
+                    "topic": pick["topic"],
+                    "angle": pick.get("angle", ""),
+                    "format": pick["format"],
+                    "source_text": f"{src['title']}\n\n{src['text']}",
+                    "source_title": src["title"],
+                    "source_url": src["url"],
+                    "proverb": None,
+                }
+            )
+
+    taken: set[str] = set()
+    for _ in [s for s in slots if s == "saametha"]:
+        item = sources.pick_proverb(exclude=taken)
+        if not item:
+            break
+        taken.add(item["proverb"])
+        cands.append(
+            {
+                "topic": item["proverb"],
+                "angle": item["lesson_en"],
+                "format": "saametha",
+                "source_text": sources.proverb_source_text(item),
+                "source_title": None,
+                "source_url": None,
+                "proverb": item["proverb"],
+            }
+        )
+    return cands
+
+
+def _gate(review: dict) -> str | None:
+    """Reason to drop the post, or None if the reviewer's verdict passes."""
+    if review.get("verdict") == "reject" or review.get("safety") != "ok":
+        return f"reviewer rejected: {review.get('issues')}"
+    if review.get("unsupported_claims"):
+        return f"unsupported claims: {review['unsupported_claims']}"
+    if int(review.get("accuracy") or 0) < config.MIN_ACCURACY:
+        return f"accuracy {review.get('accuracy')} < {config.MIN_ACCURACY}"
+    if int(review.get("telugu_quality") or 0) < config.MIN_TELUGU_QUALITY:
+        return f"Telugu quality {review.get('telugu_quality')} < {config.MIN_TELUGU_QUALITY}"
+    return None
+
+
 def generate() -> int:
-    items = trends.collect()
-    print(f"[pipeline] {len(items)} trend items collected")
-    if not items:
-        # Fail the run so a broken feed shows up red in GitHub Actions instead of a silent "success".
-        raise RuntimeError("no trend items collected: all feeds failed or were filtered out")
+    headlines = trends.collect()
+    print(f"[pipeline] {len(headlines)} headlines collected (inspiration only, never a source of facts)")
+    if not headlines:
+        print("[pipeline] warning: no headlines today; picking evergreen subjects without them")
 
-    picks = agents.pick_topics(items, store.recent_topics(), config.POSTS_PER_DAY)
     created = 0
-    for pick in picks:
-        if pick.get("format") not in config.FORMATS:
-            print(f"[pipeline] skipped, not one of the allowed pillars {config.FORMATS}: {pick}")
-            continue
-        draft = agents.write_post(pick)
-        review = agents.review_post(pick, draft)
-
-        if review.get("verdict") == "reject" or review.get("safety") != "ok":
-            print(f"[pipeline] rejected by reviewer: {pick['topic']} {review.get('issues')}")
-            continue
-        if int(review.get("telugu_quality", 0)) < config.MIN_TELUGU_QUALITY:
-            print(f"[pipeline] Telugu quality too low: {pick['topic']}")
+    for cand in _candidates(_slots(config.POSTS_PER_DAY), headlines):
+        pick = {"topic": cand["topic"], "angle": cand["angle"], "format": cand["format"]}
+        draft = agents.write_post(pick, cand["source_text"])
+        text = (draft.get("text") or "").strip()
+        if draft.get("skip") or not text:
+            print(f"[pipeline] writer skipped (not enough in the source): {cand['topic']}")
             continue
 
-        post_id = store.new_id(pick["topic"])
-        text = review.get("final_text") or draft["text"]
-        image_path = imagegen.render(text, post_id, config.DATA_DIR / "images")
+        problems = guards.check_post(text, cand["source_text"], cand["proverb"])
+        if problems:
+            print(f"[pipeline] guard rejected {cand['topic']}: {'; '.join(problems)}")
+            continue
+
+        review = agents.review_post(pick, draft, cand["source_text"])
+        reason = _gate(review)
+        if reason:
+            print(f"[pipeline] dropped {cand['topic']}: {reason}")
+            continue
+
+        final = (review.get("final_text") or "").strip() or text
+        if final != text:  # a polished rewrite must pass the same code checks
+            problems = guards.check_post(final, cand["source_text"], cand["proverb"])
+            if problems:
+                print(f"[pipeline] guard rejected the reviewer's rewrite of {cand['topic']}: {'; '.join(problems)}")
+                continue
+
+        post_id = store.new_id(cand["topic"])
+        image_path = imagegen.render(final, post_id, config.DATA_DIR / "images")
         post = {
             "id": post_id,
-            "topic": pick["topic"],
-            "format": pick["format"],
-            "text": text,
+            "topic": cand["topic"],
+            "format": cand["format"],
+            "text": final,
             "hashtags": draft.get("hashtags", []),
             "image": str(image_path.relative_to(config.ROOT)),
+            "source_title": cand["source_title"],
+            "source_url": cand["source_url"],
+            "facts_used": draft.get("facts_used", []),
             "review": review,
             "status": "approved" if config.AUTO_PUBLISH else "pending",
             "created_at": store.now(),
@@ -99,7 +191,11 @@ def generate() -> int:
         store.add_post(post)
         created += 1
         _send_for_approval(post, image_path)
+
     print(f"[pipeline] {created} posts created")
+    if created == 0:
+        # Show red in GitHub Actions instead of a silent success when nothing passed the checks.
+        raise RuntimeError("no post passed the source, guard and review checks today")
     return created
 
 
