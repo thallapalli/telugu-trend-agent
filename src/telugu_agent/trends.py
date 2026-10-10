@@ -47,9 +47,24 @@ def collect() -> list[dict]:
     """Return de-duplicated trend items across all feeds."""
     if config.DRY_RUN:
         return [
-            {"title": "India vs Australia T20 series", "source": "dry_run", "summary": "Cricket", "traffic": "500K+"},
-            {"title": "Dasara festival sales", "source": "dry_run", "summary": "Festival shopping", "traffic": "200K+"},
-            {"title": "New Telugu movie trailer released", "source": "dry_run", "summary": "Cinema", "traffic": "100K+"},
+            {
+                "title": "పిట్ట కొంచెం కూత ఘనం - సామెత వెనుక జీవన సత్యం",
+                "source": "dry_run",
+                "summary": "తెలుగు సామెత తాత్పర్యం",
+                "traffic": "500K+",
+            },
+            {
+                "title": "లేపాక్షి వీరభద్ర ఆలయం - వేలాడే స్తంభం అద్భుత ఇంజనీరింగ్ రహస్యం",
+                "source": "dry_run",
+                "summary": "పురాతన ఆలయ వాస్తు విజ్ఞానం",
+                "traffic": "300K+",
+            },
+            {
+                "title": "రాణి రుద్రమదేవి కాకతీయ వీరగాథ మరియు చారిత్రక వైభవం",
+                "source": "dry_run",
+                "summary": "భారతీయ చరిత్ర మరియు వారసత్వం",
+                "traffic": "250K+",
+            },
         ]
     seen, out = set(), []
     for feed in config.FEEDS:

@@ -1,19 +1,22 @@
-## Voice and style guide (Telugu)
+## Voice and Cultural Style Guide (Telugu)
 
-- Write natural, spoken, everyday Telugu (వ్యావహారిక భాష), the way friends talk. Avoid stiff textbook/grandhika Telugu.
-- Tenglish is welcome: mix common English words (match, phone, traffic, reels, weekend) the way real Telugu speakers do. Write Telugu words in Telugu script, not transliterated, except for brand names and hashtags.
-- Keep it short: 1 to 4 lines for jokes and quotes, up to 6 lines for facts or explainers. Mobile-first.
-- Humor: observational, family and everyday-life, cinema references, cricket, festivals, office life, traffic, food. Light and warm.
-- One or two emojis at most. Never a wall of emojis.
-- Never mock any caste, religion, region, gender, appearance, disability, or real individuals. No politics or party content. No tragedies, deaths, crimes, or disasters. No adult content.
-- Facts must be true and checkable. If unsure of a number or date, leave it out rather than guess.
-- Don't copy movie dialogues or song lyrics verbatim. Allude to them lightly instead.
-- Hashtags: 2 to 4, mixing Telugu and English, relevant to the topic.
+- **Tone and Voice**: Dignified, reverent, intellectually stimulating, and culturally inspiring (గౌరవప్రదమైన, స్ఫూర్తిదాయకమైన, విజ్ఞానదాయకమైన శైలి). Celebrate the glory of Telugu culture and Indian heritage with pride and depth.
+- **Language**: Elevated conversational Telugu (శిష్ట వ్యవహారిక భాష). Use pure, evocative Telugu vocabulary in clean Telugu script. Avoid cheap street slang, broken English/Tenglish slang, or overly obscure archaic textbook dialect.
+- **Card Length Budget**: Strictly **3 to 5 lines** total. The text is rendered directly onto an Instagram graphic card; brevity and visual punch are paramount.
+- **Accuracy**: Facts, temple features, dynasty timelines, and proverbs must be historically, architecturally, and culturally authentic.
+- **Sensitivity & Safety**: Strictly no politics, elections, communal disputes, violence, tragedies, caste debates, or modern cinema gossip. Pure cultural pride and wisdom only.
+- **Hashtags**: 3 to 5 relevant, high-reach cultural hashtags mixing Telugu and English (e.g., `#TeluguHeritage`, `#TeluguCulture`, `#TeluguSaamethalu`, `#AncientIndia`, `#IndianArchitecture`, `#TeluguHistory`).
 
-## Format guide
+## Format Guide
 
-- joke: setup and punchline in everyday Telugu. The punchline lands in the last line.
-- fact: "మీకు తెలుసా?" style, one surprising true fact connected to the trend.
-- tenglish_meme: a short relatable caption, as if on a meme image, Telugu-English mix.
-- quote: a short motivational or wise line in simple Telugu, tied loosely to the trend.
-- explainer: explain why the topic is trending in 3 to 5 simple lines, neutral tone.
+### 1. `saametha` (తెలుగు సామెతలు & జీవన సత్యాలు)
+- **Line 1 (Title/Proverb)**: Prominent proverb in quotes (e.g. "పిట్ట కొంచెం కూత ఘనం").
+- **Lines 2–4 (Essence & Application)**: The deep philosophical meaning (తాత్పర్యం) followed by how it guides human character and daily life (జీవన సత్యం).
+
+### 2. `ancient_secrets` (పురాతన రహస్యాలు & ఆలయ వాస్తుశిల్పం)
+- **Line 1 (Title/Wonder)**: Name of the temple/wonder (e.g. "లేపాక్షి ఆలయం: వేలాడే స్తంభం రహస్యం").
+- **Lines 2–4 (Engineering Marvel)**: The astonishing architectural mystery, acoustic/astronomical science, or ancient engineering feat that defies modern explanation.
+
+### 3. `history_heritage` (భారతీయ చరిత్ర & వైభవం)
+- **Line 1 (Title/Heritage)**: Dynasty, king/queen, or historic triumph (e.g. "కాకతీయుల గొలుసుకట్టు చెరువుల ఇంజనీరింగ్").
+- **Lines 2–4 (Historical Glory)**: The glorious historical achievement, civilizational genius, and timeless inspiration for future generations.
