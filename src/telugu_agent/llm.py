@@ -51,17 +51,30 @@ def _stub(task: str) -> dict:
     if task == "pick":
         return {
             "picks": [
-                {"topic": "India vs Australia T20 series", "angle": "TV ముందు కూర్చున్న నాన్న", "format": "joke"},
-                {"topic": "Dasara festival sales", "angle": "పండగ షాపింగ్ చిట్కాలు", "format": "fact"},
+                {
+                    "topic": "పిట్ట కొంచెం కూత ఘనం",
+                    "angle": "సామర్థ్యం రూపంలో కాదు సాధనలో ఉంటుంది",
+                    "format": "saametha",
+                },
+                {
+                    "topic": "లేపాక్షి వీరభద్ర ఆలయం వేలాడే స్తంభం",
+                    "angle": "పురాతన భారతీయ వాస్తు ఇంజనీరింగ్ అద్భుతం",
+                    "format": "ancient_secrets",
+                },
+                {
+                    "topic": "రాణి రుద్రమదేవి కాకతీయ వీరగాథ",
+                    "angle": "ఓరుగల్లు వీర నారి చారిత్రక శౌర్యం",
+                    "format": "history_heritage",
+                },
             ]
         }
     if task == "write":
         return {
-            "text": "క్రికెట్ మ్యాచ్ మొదలైతే నాన్న రిమోట్ వదలరు... అమ్మ మాత్రం 'భోజనం చల్లారిపోతోంది' అంటూనే ఉంటుంది 😄",
-            "hashtags": ["#తెలుగు", "#ట్రెండింగ్", "#క్రికెట్"],
+            "text": "\"పిట్ట కొంచెం కూత ఘనం\"\nరూపంలో చిన్నదైనా ప్రతిభలో గొప్పగా ఉండవచ్చనేది ఈ సామెత అంతరార్థం.\nమనిషి ఔన్నత్యం బాహ్య రూపంలో కాదు, వారు చేసే సత్కార్యాలలోనే దాగి ఉంటుంది.",
+            "hashtags": ["#TeluguHeritage", "#TeluguSaamethalu", "#TeluguCulture", "#AncientWisdom"],
         }
     if task == "review":
-        return {"verdict": "approve", "safety": "ok", "telugu_quality": 4, "issues": [], "final_text": ""}
+        return {"verdict": "approve", "safety": "ok", "telugu_quality": 5, "issues": [], "final_text": ""}
     raise LLMError(f"no stub for {task}")
 
 

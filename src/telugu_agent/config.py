@@ -43,25 +43,34 @@ AUTO_PUBLISH = _bool("AUTO_PUBLISH", False)
 RECENT_DAYS = 7  # don't repeat a topic used in the last N days
 MIN_TELUGU_QUALITY = 3  # reviewer score (1-5) below this => post is dropped
 
-FORMATS = ["joke", "fact", "tenglish_meme", "quote", "explainer"]
+FORMATS = ["saametha", "ancient_secrets", "history_heritage"]
 
-# --- Trend sources (all free, no API key). Edit freely. ---
+# --- Cultural & Heritage sources (all free, no API key). ---
 FEEDS = [
-    {"name": "google_trends_in", "url": "https://trends.google.com/trending/rss?geo=IN"},
-    {"name": "news_telugu_top", "url": "https://news.google.com/rss?hl=te&gl=IN&ceid=IN:te"},
     {
-        "name": "news_telugu_entertainment",
-        "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=te&gl=IN&ceid=IN:te",
+        "name": "telugu_culture_literature",
+        "url": "https://news.google.com/rss/search?q=%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B1%81%E0%B0%97%E0%B1%81+%E0%B0%B8%E0%B0%82%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B1%83%E0%B0%A4%E0%B0%BF+OR+%E0%B0%B8%E0%B0%BE%E0%B0%AE%E0%B1%86%E0%B0%A4%E0%B0%B2%E0%B1%81+OR+%E0%B0%B8%E0%B0%BE%E0%B0%B9%E0%B0%BF%E0%B0%A4%E0%B1%8D%E0%B0%AF%E0%B0%82&hl=te&gl=IN&ceid=IN:te",
     },
     {
-        "name": "news_telugu_sports",
-        "url": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=te&gl=IN&ceid=IN:te",
+        "name": "temple_architecture_secrets",
+        "url": "https://news.google.com/rss/search?q=ancient+Indian+temple+architecture+OR+Indian+heritage+archaeology&hl=en-IN&gl=IN&ceid=IN:en",
+    },
+    {
+        "name": "indian_history_heritage",
+        "url": "https://news.google.com/rss/search?q=ancient+Indian+history+OR+Indian+heritage+archaeology+OR+Indian+dynasties&hl=en-IN&gl=IN&ceid=IN:en",
+    },
+    {
+        "name": "telugu_heritage_temples",
+        "url": "https://news.google.com/rss/search?q=%E0%B0%AA%E0%B1%81%E0%B0%B0%E0%B0%BE%E0%B0%A4%E0%B0%A8+%E0%B0%A6%E0%B1%87%E0%B0%B5%E0%B0%BE%E0%B0%B2%E0%B0%AF%E0%B0%BE%E0%B0%B2%E0%B1%81+OR+%E0%B0%B6%E0%B0%BF%E0%B0%B2%E0%B1%8D%E0%B0%AA%E0%B0%95%E0%B0%B3+OR+%E0%B0%9A%E0%B0%B0%E0%B0%BF%E0%B0%A4%E0%B1%8D%E0%B0%B0&hl=te&gl=IN&ceid=IN:te",
     },
 ]
 MAX_PER_FEED = 12
 
-# Cheap deterministic pre-filter (the LLM picker and reviewer also check safety).
+# Deterministic safety and category filter (drops tragedies, modern politics, film gossip, crimes)
 BLOCKLIST = [
     "died", "death", "dead", "killed", "murder", "rape", "suicide", "accident", "blast", "riot",
+    "arrest", "scam", "election", "bjp", "congress", "ysrcp", "tdp", "janasena", "cinema review",
+    "box office", "collections", "ott release", "remand", "jail",
     "మృతి", "మరణ", "హత్య", "ఆత్మహత్య", "అత్యాచార", "ప్రమాదం", "పేలుడు", "అల్లర్లు",
+    "అరెస్ట్", "ఎన్నికలు", "రాజకీయ", "రివ్యూ", "బాక్సాఫీస్", "కలెక్షన్లు", "రిమాండ్", "జైలు",
 ]
