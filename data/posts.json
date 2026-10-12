@@ -696,5 +696,197 @@
     },
     "status": "pending",
     "created_at": "2026-10-11T06:23:09+00:00"
+  },
+  {
+    "id": "6f6705ab",
+    "topic": "Satavahana Dynasty",
+    "format": "history_heritage",
+    "text": "శాతవాహన సామ్రాజ్య వైభవం\nపురాణాలలో 'ఆంధ్రులు'గా పేర్కొనబడిన శాతవాహనులు, ప్రతిష్ఠానపురం మరియు అమరావతి కేంద్రాలుగా దక్కన్ ప్రాంతాన్ని పాలించారు.\nతమ పాలకుల చిత్రాలతో నాణేలను ముద్రించి, విదేశీ దండయాత్రలను నిరోధించి శాంతిని నెలకొల్పారు.\nగంగా మైదానం నుండి దక్షిణ భారతదేశం వరకు వాణిజ్యానికి మరియు సంస్కృతుల మార్పిడికి వారధిగా నిలిచారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Satavahanas",
+      "#AncientIndia",
+      "#IndianHistory"
+    ],
+    "image": "data/images/6f6705ab.jpg",
+    "source_title": "Satavahana dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
+    "facts_used": [
+      "The Satavahanas were referred to as the Andhras in the Puranas and had capitals including Pratishthana and Amaravati.",
+      "They were early issuers of Indian state coinage struck with images of their rulers and resisted foreign invaders to establish peace in the Deccan.",
+      "They formed a cultural bridge and played a vital role in trade and the transfer of ideas and culture between the Indo-Gangetic Plain and southern India."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-12T06:20:13+00:00"
+  },
+  {
+    "id": "201fe150",
+    "topic": "Eastern Chalukyas",
+    "format": "history_heritage",
+    "text": "తూర్పు చాళుక్యుల చారిత్రక వైభవం\n7వ శతాబ్దం నుండి 12వ శతాబ్దం వరకు దక్షిణ భారతదేశంలోని వేంగి రాజ్యాన్ని ఏలిన ఘనమైన పాలకులు తూర్పు చాళుక్యులు.\nపిష్టపురం, వేంగి, రాజమహేంద్రవరాలను రాజధానులుగా చేసుకుని, ఐదు శతాబ్దాల పాటు ఈ ప్రాంతాన్ని సమైక్యం చేశారు.\nవీరి పాలనా కాలంలో తెలుగు సంస్కృతి, సాహిత్యం, కవిత్వం మరియు కళలు మహోన్నతంగా వికసించాయి.",
+    "hashtags": [
+      "#EasternChalukyas",
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#VengiDynasty"
+    ],
+    "image": "data/images/201fe150.jpg",
+    "source_title": "Eastern Chalukyas",
+    "source_url": "https://en.wikipedia.org/wiki/Eastern_Chalukyas",
+    "facts_used": [
+      "The Eastern Chalukyas ruled parts of South India including the Vengi region between the 7th and 12th centuries.",
+      "Their capitals were Pishtapura, Vengi, and later Rajamahendravaram.",
+      "Their five centuries of rule consolidated the region into a unified whole.",
+      "The later half of their rule saw the efflorescence of Telugu culture, literature, poetry, and art."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-12T06:24:05+00:00"
+  },
+  {
+    "id": "471af2bb",
+    "topic": "Warangal Fort",
+    "format": "ancient_secrets",
+    "text": "వారంగల కోట: రాయి వలయ గోడలు మరియు కాకతీయ కళా థోరణం\nకాకతీయ రాజుల కాలంలో రాయి గోడల రెండు అంతర్గత వలయాలు నిర్మించబడి, మొట్టుతో చుట్టబడినవి\nకోటకు నాలుగు అలంకారిక ద్వారాలు, కాకతీయ కళా థోరణం అని పిలుస్తారు; ఇవి తెలంగాణ చిహ్నంగా కూడా ఎంపిక చేయబడ్డాయి",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#WarangalFort",
+      "#KakatiyaArchitecture",
+      "#AncientIndia"
+    ],
+    "image": "data/images/471af2bb.jpg",
+    "source_title": "Warangal Fort",
+    "source_url": "https://en.wikipedia.org/wiki/Warangal_Fort",
+    "facts_used": [
+      "Warangal Fort has two inner circles of fortifications that exist today",
+      "The inner fortress was built of stone and surrounded by a moat",
+      "The fort has four ornamental gates known as Kakatiya Kala Thoranam",
+      "The Kakatiyan arch has been adopted and officially incorporated into the emblem of Telangana"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Use of '&' instead of Telugu conjunction",
+        "Use of English loanword 'మోట్'; replace with Telugu term"
+      ],
+      "final_text": "వారంగల కోట: రాయి వలయ గోడలు మరియు కాకతీయ కళా థోరణం\nకాకతీయ రాజుల కాలంలో రాయి గోడల రెండు అంతర్గత వలయాలు నిర్మించబడి, మొట్టుతో చుట్టబడినవి\nకోటకు నాలుగు అలంకారిక ద్వారాలు, కాకతీయ కళా థోరణం అని పిలుస్తారు; ఇవి తెలంగాణ చిహ్నంగా కూడా ఎంపిక చేయబడ్డాయి"
+    },
+    "status": "pending",
+    "created_at": "2026-10-12T06:27:18+00:00"
+  },
+  {
+    "id": "696fb719",
+    "topic": "అందని ద్రాక్ష పుల్లన",
+    "format": "saametha",
+    "text": "అందని ద్రాక్ష పుల్లన\nదూరంలో ఉన్న ద్రాక్ష పండ్లు పుల్లగా ఉంటాయి; చేరలేని వాటిని మనుషులు తక్కువగా భావిస్తారు.\nనిజాయితీతో స్వయంను చూసి, సాధించలేనిదానికి నిందించకుండా ఉండాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/696fb719.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The grapes that are out of reach are sour.",
+      "People run down what they cannot have.",
+      "Be honest with yourself and avoid belittling what you could not achieve."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; should match proverb exactly.",
+        "Minor phrasing improvement for dignified tone."
+      ],
+      "final_text": "అందని ద్రాక్ష పుల్లన\nదూరంలో ఉన్న ద్రాక్ష పండ్లు పుల్లగా ఉంటాయి; చేరలేని వాటిని మనుషులు తక్కువగా భావిస్తారు.\nనిజాయితీతో స్వయంను చూసి, సాధించలేనిదానికి నిందించకుండా ఉండాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-12T06:28:38+00:00"
+  },
+  {
+    "id": "b16f64f7",
+    "topic": "అతి సర్వత్ర వర్జయేత్",
+    "format": "saametha",
+    "text": "అతి సర్వత్ర వర్జయేత్\nఅధికం ఏ చోటైనా నివారించాలి; మంచి విషయం అయినా అతిగా ఉంటే హాని కలుగుతుంది.\nఅందువల్ల జీవనంలో సమతౌల్యము, మితిమాత్రం పాటించడం అవసరం.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/b16f64f7.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Excess is to be avoided everywhere",
+      "Too much of anything, even a good thing, causes harm",
+      "Seek balance and moderation in everything"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; should be exactly the proverb without quotes."
+      ],
+      "final_text": "అతి సర్వత్ర వర్జయేత్\nఅధికం ఏ చోటైనా నివారించాలి; మంచి విషయం అయినా అతిగా ఉంటే హాని కలుగుతుంది.\nఅందువల్ల జీవనంలో సమతౌల్యము, మితిమాత్రం పాటించడం అవసరం."
+    },
+    "status": "pending",
+    "created_at": "2026-10-12T06:29:01+00:00"
+  },
+  {
+    "id": "7494bdb7",
+    "topic": "తనదాకా వస్తే గానీ తెలియదు",
+    "format": "saametha",
+    "text": "\"తనదాకా వస్తే గానీ తెలియదు\"\nఇతరుల కష్టాన్ని మనమే అనుభవించినప్పుడు మాత్రమే పూర్తిగా గ్రహించగలం.\nకష్టాన్ని అనుభవించడానికి ముందు, దయను, అనుకంపను అభ్యాసించండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#Empathy"
+    ],
+    "image": "data/images/7494bdb7.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "One does not understand until it comes to oneself.",
+      "Practice empathy before you have to learn it the hard way."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-12T06:29:35+00:00"
   }
 ]
