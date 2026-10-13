@@ -888,5 +888,295 @@
     },
     "status": "pending",
     "created_at": "2026-10-12T06:29:35+00:00"
+  },
+  {
+    "id": "49ffddc6",
+    "topic": "Thousand Pillar Temple",
+    "format": "ancient_secrets",
+    "text": "హనుమకొండ వెయ్యి స్తంభాల గుడి వాస్తు వైభవం\nకాకతీయ రుద్రదేవుని కాలంలో నిర్మితమైన ఈ త్రికూటాలయం విశిష్టమైన నక్షత్రాకార శైలిలో రూపుదిద్దుకుంది.\nశాండ్‌బాక్స్ విధానంతో పునాదులను పటిష్ఠపరిచి, వెయ్యి స్తంభాలతో ఈ ఆలయాన్ని అద్భుతంగా నిర్మించారు.\nడోలరైట్, గ్రానైట్ రాళ్లపై సానపట్టిన నునుపైన మెరుగులు, దంతపు చెక్కడాల వంటి సున్నిత శిల్పరీతులు కాకతీయుల ప్రతిభకు నిదర్శనం.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#KakatiyaArchitecture",
+      "#AncientIndia",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/49ffddc6.jpg",
+    "source_title": "Thousand Pillar Temple",
+    "source_url": "https://en.wikipedia.org/wiki/Thousand_Pillar_Temple",
+    "facts_used": [
+      "The Thousand Pillar Temple in Hanamakonda was constructed by the order of Kakatiya king Rudra Deva.",
+      "It was built in a star-shaped, triple-shrined (Trikutalaya) style with one thousand pillars.",
+      "The foundations were strengthened using the sandbox technique.",
+      "Kakatiya sculptors demonstrated flawless ivory carving technique along with lathe-turned and shiny polish in dolerite and granite stone sculptures."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "'లేత్-టర్న్డ్' వంటి ఆంగ్ల పద లిప్యంతరీకరణ స్థానంలో సహజమైన, హుందాతనంతో కూడిన తెలుగు పదజాలంతో మరింత శోభ చేకూర్చవచ్చు."
+      ],
+      "final_text": "హనుమకొండ వెయ్యి స్తంభాల గుడి వాస్తు వైభవం\nకాకతీయ రుద్రదేవుని కాలంలో నిర్మితమైన ఈ త్రికూటాలయం విశిష్టమైన నక్షత్రాకార శైలిలో రూపుదిద్దుకుంది.\nశాండ్‌బాక్స్ విధానంతో పునాదులను పటిష్ఠపరిచి, వెయ్యి స్తంభాలతో ఈ ఆలయాన్ని అద్భుతంగా నిర్మించారు.\nడోలరైట్, గ్రానైట్ రాళ్లపై సానపట్టిన నునుపైన మెరుగులు, దంతపు చెక్కడాల వంటి సున్నిత శిల్పరీతులు కాకతీయుల ప్రతిభకు నిదర్శనం."
+    },
+    "status": "pending",
+    "created_at": "2026-10-13T06:58:09+00:00"
+  },
+  {
+    "id": "17d998a2",
+    "topic": "Vijayanagara Empire",
+    "format": "history_heritage",
+    "text": "విజయనగర సామ్రాజ్యం: దక్షిణ భారత సాంస్కృతిక వైభవం\n1336లో ప్రారంభమైన ఈ సామ్రాజ్యం, దక్షిణ మరియు మధ్య భారతీయ నిర్మాణ రీతులను సమ్మిళితం చేసి విశిష్ట శిల్ప శైలిని రూపొందించింది.\nశ్రీకృష్ణదేవరాయల పాలనలో పతాక స్థాయికి చేరి, తెలుగు, సంస్కృతం, కన్నడ మరియు తమిళ భాషా సాహిత్యాలను నూతన శిఖరాలకు తీసుకెళ్లింది.\nసమర్థవంతమైన నీటి నిర్వహణ వ్యవస్థలతో పాటు దక్షిణ భారత శాస్త్రీయ కర్ణాటక సంగీత వికాసానికి ఈ యుగం పునాదిగా నిలిచింది.",
+    "hashtags": [
+      "#VijayanagaraEmpire",
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/17d998a2.jpg",
+    "source_title": "Vijayanagara Empire",
+    "source_url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+    "facts_used": [
+      "The Vijayanagara Empire was established in 1336.",
+      "Different temple building traditions in South and Central India were merged into the Vijayanagara architectural style.",
+      "At its peak in the early 16th century under Krishnadevaraya, the empire's patronage enabled literature to reach new heights in Kannada, Telugu, Tamil, and Sanskrit.",
+      "Efficient administration brought water management systems for irrigation, and Carnatic music evolved into its current form."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-13T06:59:03+00:00"
+  },
+  {
+    "id": "c5d79fb0",
+    "topic": "Amaravati Stupa",
+    "format": "ancient_secrets",
+    "text": "అమరావతి మహాచైత్యం: ప్రాచీన శిల్పకళా అద్భుతం\nప్రాచీన శాసనాలలో 'మహాచైత్యం'గా పేర్కొనబడిన ఈ నిర్మాణం, ఆసియా బౌద్ధ కట్టడాలలో అత్యున్నతమైనదిగా వెలుగొందింది.\nస్తూపం చుట్టూ అమర్చిన విశిష్టమైన ఉబ్బెత్తు శిల్ప ఫలకాలు, ప్రాచీన భారతీయ కళామకుటంలో రత్నంగా నిలిచాయి.\nమథుర, గాంధార శైలులతో సమానమైన అమరావతి శిల్ప శైలి, దక్షిణ భారతదేశం మరియు ఆగ్నేయాసియా కళలపై గొప్ప ప్రభావాన్ని చూపింది.",
+    "hashtags": [
+      "#Amaravati",
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/c5d79fb0.jpg",
+    "source_title": "Amaravati Stupa",
+    "source_url": "https://en.wikipedia.org/wiki/Amaravati_Stupa",
+    "facts_used": [
+      "In ancient inscriptions, the monument was called the mahācetiya.",
+      "It was for some time the greatest monument in Buddhist Asia and the jewel in the crown of early Indian art.",
+      "The stupa was adorned with carved slabs around the drum and railings, with the great majority of sculptures in relief.",
+      "Amaravati art is regarded as one of three major styles of ancient Indian art alongside Mathura and Gandhara, influencing art in South India and South-East Asia."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-13T07:00:55+00:00"
+  },
+  {
+    "id": "0407b440",
+    "topic": "Rajaraja Narendra",
+    "format": "history_heritage",
+    "text": "తూర్పు చాళుక్య రాజు - రాజరాజ నరేంద్రుడు\nవేంగి రాజ్యాన్ని పాలించిన ఈ మహారాజు రాజమహేంద్రవరం నగరాన్ని స్థాపించారు.\nతన గురువు, ఆస్థాన కవి నన్నయ భట్టారకుడిని మహాభారతాన్ని తెలుగులోకి 'ఆంధ్ర మహాభారతం'గా అనువదించమని కోరారు.\nతెలుగు, సంస్కృత భాషలను ప్రోత్సహించి సాంస్కృతిక వారసత్వానికి విశేష సేవలందించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#RajarajaNarendra",
+      "#AndhraMahabharatam"
+    ],
+    "image": "data/images/0407b440.jpg",
+    "source_title": "Rajaraja Narendra",
+    "source_url": "https://en.wikipedia.org/wiki/Rajaraja_Narendra",
+    "facts_used": [
+      "Rajaraja Narendra was an Eastern Chalukya king of the Vengi kingdom.",
+      "He founded the city of Rajahmahendravaram.",
+      "He requested his teacher and court poet Nannayya Bhattaraka to translate the Mahabharata into Telugu as Andhra Mahabharatam.",
+      "He promoted the Telugu and Sanskrit languages."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-13T07:02:00+00:00"
+  },
+  {
+    "id": "1e8a3f56",
+    "topic": "Belum Caves",
+    "format": "ancient_secrets",
+    "text": "బెలూం గుహలు: భూగర్భ సహజ వింత\nనంద్యాల జిల్లాలో 3.23 కిలోమీటర్ల మేర విస్తరించిన ఈ సున్నపురాతి గుహలు, భారతదేశంలోనే రెండవ అతిపెద్ద గుహల వ్యవస్థ.\nప్రీ-ప్లయోసీన్ కాలపు జల ప్రవాహాలు, చారిత్రక చిత్రావతి నది నిక్షేపాల వల్ల ఇక్కడ సహజసిద్ధమైన స్టాలగ్టైట్లు, స్టాలగ్మైట్లు ఏర్పడ్డాయి.\nక్రీస్తుపూర్వం 4500 నాటి మానవ ఉనికి ఆధారాలు కలిగిన ఈ ప్రాంతం, ఆ తర్వాత కాలంలో బౌద్ధ, జైన సన్యాసుల నిలయంగా విలసిల్లింది.",
+    "hashtags": [
+      "#BelumCaves",
+      "#TeluguHeritage",
+      "#AndhraPradesh",
+      "#AncientIndia",
+      "#IndianArchaeology"
+    ],
+    "image": "data/images/1e8a3f56.jpg",
+    "source_title": "Belum Caves",
+    "source_url": "https://en.wikipedia.org/wiki/Belum_Caves",
+    "facts_used": [
+      "Belum Caves are a limestone cave system in Nandyal district of Andhra Pradesh, extending over 3.23 km as the second-largest cave network in India.",
+      "The caves formed during the Pre-Pliocene period and feature stalactites, stalagmites, and sediment deposited by the historical Chitravathi River.",
+      "Archaeological evidence indicates human activity dating back to 4500 BCE, and the site was later occupied by Buddhist and Jain ascetics."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-13T07:05:12+00:00"
+  },
+  {
+    "id": "92d5c4f9",
+    "topic": "Reddi Kingdom",
+    "format": "history_heritage",
+    "text": "రెడ్డి రాజుల గిరిదుర్గాల వైభవం\n1325 లో ప్రోలయ వేమారెడ్డి స్థాపించిన ఈ రాజ్యం, అద్దంకి మరియు కొండవీడులను రాజధానులుగా చేసుకుని శతాబ్దానికి పైగా సాగింది.\nకొండవీడు, కొండపల్లి, వినుకొండ వంటి పటిష్టమైన గిరిదుర్గాల నిర్మాణ నైపుణ్యంతో ఈ పాలకులు ప్రసిద్ధి చెందారు.\nశ్రీశైల ఆలయానికి కృష్ణా నది నుండి మెట్ల మార్గాన్ని నిర్మించడంతో పాటు 108 శివాలయాలను నిర్మించి ఘనమైన వారసత్వాన్ని అందించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#Kondavidu",
+      "#IndianHistory"
+    ],
+    "image": "data/images/92d5c4f9.jpg",
+    "source_title": "Reddi Kingdom",
+    "source_url": "https://en.wikipedia.org/wiki/Reddi_Kingdom",
+    "facts_used": [
+      "The Reddi Kingdom was established by Prolaya Vema Reddi in 1325 and ruled for over a hundred years.",
+      "The initial capital was Addanki and later moved to the fortified Kondavidu.",
+      "The Reddis were known for their fortifications and fort building skill, including hill forts like Kondapalli, Kondavidu, and Vinukonda.",
+      "Prolaya Vema Reddi built a flight of steps from the Krishna River to the Srisailam temple and built 108 temples for Shiva."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-13T07:07:56+00:00"
+  },
+  {
+    "id": "261db58b",
+    "topic": "కందకు లేని దురద కత్తిపీటకెందుకు",
+    "format": "saametha",
+    "text": "కందకు లేని దురద కత్తిపీటకెందుకు\nదుంపకు స్వయంగా దురద లేకపోతే, కత్తి కూడా దురదను అనుభవించదు; విషయం స్వయంగా చింతించకపోతే, మనం కూడా చింతించకూడదు.\nఇతరుల విషయంలో అవసరం లేని ఆందోళనను వదిలి, మన స్వంత పనిపై దృష్టి పెట్టుదాం.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/261db58b.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "If the yam itself does not itch, why should the cutting knife?",
+      "Why worry about a matter when the person concerned does not mind.",
+      "Avoid needless worry and interfering in what is not your concern."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Proverb line had extra quotation marks; removed for exact match."
+      ],
+      "final_text": "కందకు లేని దురద కత్తిపీటకెందుకు\nదుంపకు స్వయంగా దురద లేకపోతే, కత్తి కూడా దురదను అనుభవించదు; విషయం స్వయంగా చింతించకపోతే, మనం కూడా చింతించకూడదు.\nఇతరుల విషయంలో అవసరం లేని ఆందోళనను వదిలి, మన స్వంత పనిపై దృష్టి పెట్టుదాం."
+    },
+    "status": "pending",
+    "created_at": "2026-10-13T07:15:23+00:00"
+  },
+  {
+    "id": "1367a789",
+    "topic": "పనిలేని మంగలి పిల్లి తల గొరిగినట్లు",
+    "format": "saametha",
+    "text": "\"పనిలేని మంగలి పిల్లి తల గొరిగినట్లు\"\nఏ పనీ లేనివారు అర్థం లేని నిరుపయోగమైన పనులలో నిమగ్నమవుతుంటారు.\nఅందుకే మనల్ని మనం ఎల్లప్పుడూ అర్థవంతమైన పనులలో నిమగ్నం చేసుకోవాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/1367a789.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The proverb is 'పనిలేని మంగలి పిల్లి తల గొరిగినట్లు'.",
+      "People with nothing to do busy themselves with pointless things.",
+      "Keep yourself engaged in meaningful work."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-13T07:16:18+00:00"
+  },
+  {
+    "id": "e5f59225",
+    "topic": "పిట్ట కొంచెం కూత ఘనం",
+    "format": "saametha",
+    "text": "పిట్ట కొంచెం కూత ఘనం\nపక్షి పరిమాణంలో చిన్నదైనా దాని స్వరం ఎంతో గొప్పగా ఉంటుంది.\nఅలాగే సాధారణంగా కనిపించే వ్యక్తుల్లో కూడా అపారమైన సామర్థ్యం, గొప్ప ప్రభావం ఉండవచ్చు.\nరూపాన్ని, పరిమాణాన్ని లేదా వయసును బట్టి ఎవరి సామర్థ్యాన్ని అంచనా వేయకూడదు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/e5f59225.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The bird is small but its call is mighty.",
+      "A small person can have great ability or presence.",
+      "Do not judge ability by size or age."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 includes extra quotation marks; should be exactly the proverb without quotes."
+      ],
+      "final_text": "పిట్ట కొంచెం కూత ఘనం\nపక్షి పరిమాణంలో చిన్నదైనా దాని స్వరం ఎంతో గొప్పగా ఉంటుంది.\nఅలాగే సాధారణంగా కనిపించే వ్యక్తుల్లో కూడా అపారమైన సామర్థ్యం, గొప్ప ప్రభావం ఉండవచ్చు.\nరూపాన్ని, పరిమాణాన్ని లేదా వయసును బట్టి ఎవరి సామర్థ్యాన్ని అంచనా వేయకూడదు."
+    },
+    "status": "pending",
+    "created_at": "2026-10-13T07:17:06+00:00"
   }
 ]
