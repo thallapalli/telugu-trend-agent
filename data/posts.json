@@ -1320,5 +1320,206 @@
     },
     "status": "pending",
     "created_at": "2026-10-14T05:22:01+00:00"
+  },
+  {
+    "id": "76c1841b",
+    "topic": "Kakatiya Dynasty",
+    "format": "history_heritage",
+    "text": "కాకతీయుల పాలనా వైభవం: తెలుగు నేలల ఏకీకరణ\n12 మరియు 14వ శతాబ్దాల మధ్య కాకతీయులు తెలుగు మాట్లాడే మెట్ట, మైదాన ప్రాంతాల సంస్కృతులను సమైక్యం చేశారు.\nవ్యవసాయం కోసం మెట్ట ప్రాంతాలలో వీరు నిర్మించిన చెరువులు నేటికీ వినియోగంలో ఉన్నాయి.\nపుట్టుకతో నిమిత్తం లేకుండా ఎవరికైనా నాయక హోదాను అందించి, రైతులకు సైన్యంలో స్థానం కల్పిస్తూ సామాజిక ఉన్నతికి బాటలు వేశారు.",
+    "hashtags": [
+      "#KakatiyaDynasty",
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#IndianHistory"
+    ],
+    "image": "data/images/76c1841b.jpg",
+    "source_title": "Kakatiya dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Kakatiya_dynasty",
+    "facts_used": [
+      "The Kakatiya dynasty ruled between the 12th and 14th centuries.",
+      "The Kakatiyas unified the distinct upland and lowland cultures of Telugu lands.",
+      "The Kakatiya period introduced the construction of reservoirs for irrigation in the uplands called tanks, many of which are still in use today.",
+      "Anyone, regardless of birth, could acquire the nayaka title, and recruiting peasants into the military provided social mobility."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-15T04:59:40+00:00"
+  },
+  {
+    "id": "2cebd5c9",
+    "topic": "Yaganti Temple",
+    "format": "ancient_secrets",
+    "text": "యాగంటి శ్రీ ఉమామహేశ్వర ఆలయం\nకొండ దిగువ నుంచి నంది ముఖం ద్వారా పుష్కరిణిలోకి ఏడాది పొడవునా నీరు ఎలా చేరుతుందో ఎవరికీ తెలియదు.\nఇక్కడి రాతి నంది విగ్రహం పరిమాణం నిరంతరం పెరుగుతోందని భక్తులు విశ్వసిస్తారు.\nఆ నంది పరిమాణం పెరగడం వల్లే పూర్వం ఉన్న ఒక స్తంభాన్ని ఆలయ సిబ్బంది తొలగించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#YagantiTemple"
+    ],
+    "image": "data/images/2cebd5c9.jpg",
+    "source_title": "Yaganti temple",
+    "source_url": "https://en.wikipedia.org/wiki/Yaganti_temple",
+    "facts_used": [
+      "Water flows into the Pushkarini from the bottom of the hill through the mouth of a Nandi, and no one knows how the water reaches the pond all year round.",
+      "Devotees believe that the Nandi murti in front of the temple is continuously increasing its size.",
+      "The temple staff has already removed one pillar as the size of the Nandi has increased."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-15T05:00:06+00:00"
+  },
+  {
+    "id": "a19c3eb7",
+    "topic": "Andhra Ikshvaku Dynasty",
+    "format": "history_heritage",
+    "text": "ఆంధ్ర ఇక్ష్వాకులు: విజయపురి వైభవం\nక్రీస్తుశకం 3, 4 శతాబ్దాలలో కృష్ణా నదీ లోయలోని విజయపురి (నేటి నాగార్జునకొండ) కేంద్రంగా ఇక్ష్వాకులు పాలన సాగించారు.\nరాజులు శైవులై అశ్వమేధ, వాజపేయ వంటి వైదిక యజ్ఞాలు నిర్వహించినప్పటికీ, వీరి ఏలుబడిలో బౌద్ధమతం గొప్పగా విలసిల్లింది.\nరాజవంశానికి చెందిన శాంతశ్రీ వంటి ప్రముఖుల ప్రోత్సాహంతో నాగార్జునకొండలో మహాచైత్యం, విశిష్ట బౌద్ధ కట్టడాలు నిర్మితమయ్యాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AndhraIkshvakus",
+      "#Nagarjunakonda",
+      "#IndianHistory"
+    ],
+    "image": "data/images/a19c3eb7.jpg",
+    "source_title": "Andhra Ikshvaku",
+    "source_url": "https://en.wikipedia.org/wiki/Andhra_Ikshvaku",
+    "facts_used": [
+      "The Ikshvaku dynasty ruled in the eastern Krishna River valley from their capital Vijayapuri (modern Nagarjunakonda) during the 3rd and 4th centuries CE.",
+      "The Ikshvaku kings were Shaivites and performed Vedic sacrifices such as Ashvamedha and Vajapeya, but Buddhism also flourished during their reign.",
+      "Royal figures like Chamtasri contributed to the construction of Buddhist monuments and a mahachaitya at Nagarjunakonda."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-15T05:01:57+00:00"
+  },
+  {
+    "id": "b72ec2a3",
+    "topic": "Vishnukundina Dynasty",
+    "format": "history_heritage",
+    "text": "విష్ణుకుండిన రాజవంశ వైభవం\n5వ శతాబ్దం నుండి 7వ శతాబ్దం వరకు ఆంధ్రప్రదేశ్, తెలంగాణలతో కూడిన దక్కన్ ప్రాంతాన్ని పాలించిన ప్రసిద్ధ రాజవంశం.\nరెండవ మాధవ వర్మ పాలనలో దెందులూరు, అమరావతి కేంద్రాలుగా ఈ రాజ్యం తన స్వర్ణయుగాన్ని చూసింది.\nశాలంకాయనుల వేంగి రాజ్యాన్ని, ఆనంద గోత్రికుల ప్రాంతాలను జయించి విశాలమైన సామ్రాజ్యంగా విస్తరించింది.",
+    "hashtags": [
+      "#Vishnukundina",
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#TeluguHistory",
+      "#DeccanHistory"
+    ],
+    "image": "data/images/b72ec2a3.jpg",
+    "source_title": "Vishnukundina dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Vishnukundina_dynasty",
+    "facts_used": [
+      "The Vishnukundina dynasty ruled over parts of present-day Andhra Pradesh, Telangana and southern India between the 5th and 7th centuries.",
+      "Madhava Varma II was the most powerful ruler and his reign was the dynasty's golden age.",
+      "The dynasty established capitals at Denduluru and Amarapura (modern Amaravati).",
+      "The Vishnukundinas annexed the Vengi kingdom from the Salankayanas and conquered areas from the Ananda Gotrikas."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-15T05:03:44+00:00"
+  },
+  {
+    "id": "085739c3",
+    "topic": "కొండను తవ్వి ఎలుకను పట్టినట్లు",
+    "format": "saametha",
+    "text": "\"కొండను తవ్వి ఎలుకను పట్టినట్లు\"\nపర్వతాన్ని తవ్వి ఎలుకను పట్టుకోవడం లాంటి విపరీతమైన శ్రమ, చిన్న ఫలితం.\nలక్ష్యానికి అనుగుణంగా శ్రమను సమతౌల్యం చేసి, ముందుగా ప్రణాళిక రూపొందించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#LifeLesson"
+    ],
+    "image": "data/images/085739c3.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Digging up a mountain to catch a mouse is a huge effort that gives a tiny result",
+      "Match the effort to the goal and plan before starting"
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-15T05:06:20+00:00"
+  },
+  {
+    "id": "34b0b046",
+    "mode": "hacks",
+    "topic": "Chrome keyboard shortcuts",
+    "format": "hack",
+    "text": "Use Ctrl + Shift + T to bring back any closed tab instantly.\nJump to any site fast with Ctrl + L, Alt + D, or F6.\nComment \"HACK\" if you're trying this today.\nOfficial steps: https://support.google.com/chrome/answer/157179",
+    "slides": {
+      "hook": "Unlock **Chrome shortcuts** for instant browsing power",
+      "problem": "Losing **closed tabs** or stuck on a page? No more manual clicks",
+      "step1": "Press **Ctrl + Shift + T** to instantly reopen your last closed tab",
+      "step2": "Hit **Ctrl + L** (or **Alt + D**) to jump straight to the address bar",
+      "cta": "**SAVE** this post and **SHARE** with a friend who needs faster browsing"
+    },
+    "hashtags": [
+      "#ChromeTips",
+      "#KeyboardShortcuts",
+      "#ProductivityHack",
+      "#WebTools",
+      "#TechTips"
+    ],
+    "image": "data/images/34b0b046_1.jpg",
+    "images": [
+      "data/images/34b0b046_1.jpg",
+      "data/images/34b0b046_2.jpg",
+      "data/images/34b0b046_3.jpg",
+      "data/images/34b0b046_4.jpg",
+      "data/images/34b0b046_5.jpg"
+    ],
+    "source_title": "Chrome keyboard shortcuts",
+    "source_url": "https://support.google.com/chrome/answer/157179",
+    "facts_used": [
+      "Ctrl + Shift + T reopens previously closed tabs in the order they were closed.",
+      "Ctrl + L, Alt + D, or F6 jumps to the address bar."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": []
+    },
+    "status": "pending",
+    "created_at": "2026-10-15T05:06:43+00:00"
   }
 ]
