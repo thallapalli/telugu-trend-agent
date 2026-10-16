@@ -1521,5 +1521,144 @@
     },
     "status": "pending",
     "created_at": "2026-10-15T05:06:43+00:00"
+  },
+  {
+    "id": "00b2389e",
+    "topic": "Ellora Caves",
+    "format": "ancient_secrets",
+    "text": "కైలాస్ దేవాలయం – ప్రపంచంలో అతిపెద్ద ఏక-శిల్ప నిర్మాణం\nబాసాల్ట్ గోడ నుండి త్రవ్వి, శివునికి అంకితం చేసిన రథ-ఆకారపు దేవాలయం; గోడలపై హిందూ దేవతల విగ్రహాలు, రెండు మహాభారత‑రామాయణ సారాంశాలు చెక్కబడ్డాయి\nఏలొరా గుహలు 600‑1000 ఏడి మధ్యకాలంలో రాష్ట్రకుతుల (753‑982 ఏడి) కాలంలో నిర్మించబడ్డాయి; 100 కంటే ఎక్కువ గుహలలో 34 మాత్రమే ప్రజలకు తెరిచారు",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#ElloraCaves"
+    ],
+    "image": "data/images/00b2389e.jpg",
+    "source_title": "Ellora Caves",
+    "source_url": "https://en.wikipedia.org/wiki/Ellora_Caves",
+    "facts_used": [
+      "Cave 16 features the largest single monolithic rock excavation in the world, the Kailash temple",
+      "The Kailash temple is a chariot-shaped monument dedicated to the god Shiva",
+      "The Kailash temple includes sculptures of various Hindu deities and relief panels summarizing the two major Hindu epics",
+      "Ellora caves contain artwork dating from AD 600–1000",
+      "All of the Ellora monuments were built during the Rashtrakuta dynasty (r. 753-982 AD)",
+      "There are over 100 caves at the site, 34 of which are open to the public"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "misspelled dynasty name \"రాష్ట్రకుతుల\"; refined phrasing for elegance"
+      ],
+      "final_text": "కైలాస్ దేవాలయం – ప్రపంచంలో అతిపెద్ద ఏక-శిల్ప నిర్మాణం\nబాసాల్ట్ గోడ నుండి త్రవ్వి, శివునికి అంకితం చేసిన రథ-ఆకారపు దేవాలయం; గోడలపై హిందూ దేవతల విగ్రహాలు, రెండు మహాభారత‑రామాయణ సారాంశాలు చెక్కబడ్డాయి\nఏలొరా గుహలు 600‑1000 ఏడి మధ్యకాలంలో రాష్ట్రకుతుల (753‑982 ఏడి) కాలంలో నిర్మించబడ్డాయి; 100 కంటే ఎక్కువ గుహలలో 34 మాత్రమే ప్రజలకు తెరిచారు"
+    },
+    "status": "pending",
+    "created_at": "2026-10-16T05:06:25+00:00"
+  },
+  {
+    "id": "05fea25b",
+    "topic": "Nizam of Hyderabad",
+    "format": "history_heritage",
+    "text": "అసాఫ్ జాహి వంశం – హైదరాబాదులో పరసీ‑తెలుగు సంస్కృతి కలయిక\n1724లో ముఘల్ శక్తి బలహీనపడగా, అసాఫ్ జాహి హైదరాబాదులో స్వతంత్ర రాజ్యాన్ని స్థాపించి, పరసీ 'నిజాం‑ఉల్‑ముల్క్' శీర్షికను పొందాడు.\nఈ రాష్ట్రం నేటి తెలంగాణ, మహారాష్ట్రలోని మారథ్వాడా, కర్నాటకలోని కల్యాణ‑కర్నాటక ప్రాంతాన్ని కలిగి, పరసీ వారసత్వాన్ని తెలుగుతో సమన్వయం చేసింది.\n17 సెప్టెంబర్ 1948లో భారత యూనియన్‌లో చేరినప్పుడు, నిజాములు అంతర్గత శక్తిని వదిలి, ఈ మహాకావ్యం ముగిసింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#NizamLegacy",
+      "#IndianHistory",
+      "#Hyderabad"
+    ],
+    "image": "data/images/05fea25b.jpg",
+    "source_title": "Nizam of Hyderabad",
+    "source_url": "https://en.wikipedia.org/wiki/Nizam_of_Hyderabad",
+    "facts_used": [
+      "In 1724 Mughal control weakened, and Asaf Jah became virtually independent and established an independent realm based in Hyderabad.",
+      "The title Nizam comes from the Persian word نظام meaning 'order' or 'arrangement'.",
+      "Hyderabad State covered the present Telangana, the Marathwada region of Maharashtra, and the Kalyana‑Karnataka region of Karnataka.",
+      "The Nizams retained internal power until 17 September 1948, when Hyderabad was integrated into the Indian Union.",
+      "The Asaf Jahi dynasty was founded by Chin Qilich Khan (Asaf Jah I)."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Spelling error: \"నజాం\" should be \"నిజాం\".",
+        "Use of \"కన్నడలోని\" is inaccurate; replace with \"కర్నాటకలోని\"."
+      ],
+      "final_text": "అసాఫ్ జాహి వంశం – హైదరాబాదులో పరసీ‑తెలుగు సంస్కృతి కలయిక\n1724లో ముఘల్ శక్తి బలహీనపడగా, అసాఫ్ జాహి హైదరాబాదులో స్వతంత్ర రాజ్యాన్ని స్థాపించి, పరసీ 'నిజాం‑ఉల్‑ముల్క్' శీర్షికను పొందాడు.\nఈ రాష్ట్రం నేటి తెలంగాణ, మహారాష్ట్రలోని మారథ్వాడా, కర్నాటకలోని కల్యాణ‑కర్నాటక ప్రాంతాన్ని కలిగి, పరసీ వారసత్వాన్ని తెలుగుతో సమన్వయం చేసింది.\n17 సెప్టెంబర్ 1948లో భారత యూనియన్‌లో చేరినప్పుడు, నిజాములు అంతర్గత శక్తిని వదిలి, ఈ మహాకావ్యం ముగిసింది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-16T05:07:04+00:00"
+  },
+  {
+    "id": "500834cc",
+    "topic": "ఆలస్యం అమృతం విషం",
+    "format": "saametha",
+    "text": "ఆలస్యం అమృతం విషం\nవిలంబం మధురాన్ని విషంగా మార్చుతుంది.\nసమయానికి చేయని మంచి కూడా నష్టపోతుంది.\nకాబట్టి సమయానికి చర్య తీసుకోవాలి; ఆలస్యం అమృతం విలువను కోల్పోతుంది.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#LifeLesson",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/500834cc.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Delay turns nectar into poison.",
+      "Even a good thing is spoiled if it is done too late.",
+      "Act on time; postponing good work wastes its value."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; remove them.",
+        "Line 4 has a grammatical mismatch; use \"ఆలస్యం అమృతం\" instead of \"ఆలస్యం అమృతాన్ని\"."
+      ],
+      "final_text": "ఆలస్యం అమృతం విషం\nవిలంబం మధురాన్ని విషంగా మార్చుతుంది.\nసమయానికి చేయని మంచి కూడా నష్టపోతుంది.\nకాబట్టి సమయానికి చర్య తీసుకోవాలి; ఆలస్యం అమృతం విలువను కోల్పోతుంది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-16T05:07:40+00:00"
+  },
+  {
+    "id": "65c223b2",
+    "topic": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు",
+    "format": "saametha",
+    "text": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు\nఇల్లు నిర్మించేటప్పుడు, పెళ్లి ఏర్పాటు చేయేటప్పుడు మాత్రమే వాటి నిజమైన కష్టతను గ్రహించవచ్చు.\nఈ విధంగా పెద్ద పనుల వెనుక ఉన్న శ్రమను అనుభవించాలి.\nఅందువల్ల, ఏదైనా పని గురించి తీర్పు ఇవ్వడానికి ముందు దాని కృషిని గౌరవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/65c223b2.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Build a house and see; arrange a wedding and see.",
+      "Some tasks show their true difficulty only when you do them yourself.",
+      "Respect the effort behind big undertakings before judging them."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it must match the proverb exactly."
+      ],
+      "final_text": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు\nఇల్లు నిర్మించేటప్పుడు, పెళ్లి ఏర్పాటు చేయేటప్పుడు మాత్రమే వాటి నిజమైన కష్టతను గ్రహించవచ్చు.\nఈ విధంగా పెద్ద పనుల వెనుక ఉన్న శ్రమను అనుభవించాలి.\nఅందువల్ల, ఏదైనా పని గురించి తీర్పు ఇవ్వడానికి ముందు దాని కృషిని గౌరవించాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-16T05:08:15+00:00"
   }
 ]
