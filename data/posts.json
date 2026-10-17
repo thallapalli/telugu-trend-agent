@@ -1660,5 +1660,321 @@
     },
     "status": "pending",
     "created_at": "2026-10-16T05:08:15+00:00"
+  },
+  {
+    "id": "dc6170b9",
+    "topic": "Nagarjunakonda",
+    "format": "ancient_secrets",
+    "text": "నాగార్జునకొండ: ప్రాచీన బౌద్ధ విద్యా కేంద్రం\nఇక్ష్వాకుల రాజధాని 'విజయపురి'గా వర్ధిల్లిన ఈ నేల, ముప్పైకి పైగా బౌద్ధ విహారాలకు నిలయంగా నిలిచింది.\nచైనా, గాంధార, శ్రీలంకల నుండి విద్యార్థులను ఆకర్షించిన బౌద్ధ విశ్వవిద్యాలయ సముదాయమిది.\nఇక్కడి శిల్పాలలో విశిష్ట అమరావతి శైలితో పాటు ప్రాచీన రోమన్ ప్రభావం కూడా కనిపిస్తుంది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Nagarjunakonda",
+      "#AncientIndia",
+      "#TeluguHistory"
+    ],
+    "image": "data/images/dc6170b9.jpg",
+    "source_title": "Nagarjunakonda",
+    "source_url": "https://en.wikipedia.org/wiki/Nagarjunakonda",
+    "facts_used": [
+      "The site's original name was Vijayapuri, established as the capital by the Ikshvaku dynasty.",
+      "During early centuries, Nagarjunakonda housed more than 30 Buddhist viharas.",
+      "It had a Buddhist monastic university complex that attracted students from as far as China, Gandhara, and Sri Lanka.",
+      "The site's sculptures represent the Amaravati style and certain reliefs show Roman influence."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:48:41+00:00"
+  },
+  {
+    "id": "fb63a258",
+    "topic": "Musunuri Nayakas",
+    "format": "history_heritage",
+    "text": "ముసునూరి నాయకులు: వరంగల్ విముక్తి\n14వ శతాబ్దంలో కాకతీయుల పతనం తర్వాత, కాపయ నాయకుడు ఆంధ్ర నాయకులను ఏకం చేశారు.\nడెబ్బై ఐదుగురు నాయకుల సహకారంతో 1336లో తుగ్లక్ పాలకులను వరంగల్ నుండి తరిమివేశారు.\nధర్మ రక్షణ కోసం కాశీ విశ్వేశ్వరుని ఆదేశంతో తాము నియమితులైనట్లు వీరు ప్రకటించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#Warangal",
+      "#IndianHistory"
+    ],
+    "image": "data/images/fb63a258.jpg",
+    "source_title": "Musunuri Nayakas",
+    "source_url": "https://en.wikipedia.org/wiki/Musunuri_Nayakas",
+    "facts_used": [
+      "Musunuri Nayakas were Telugu warrior kings of 14th-century South India.",
+      "After the fall of the Kakatiyas, Kapaya Nayaka took a leadership role among Andhra chieftains against Tughluq rule.",
+      "Kapaya Nayaka was assisted by 75 Nayakas and drove Tughluq rule out of Warangal in 1336.",
+      "Kapaya Nayaka claimed that he was divinely appointed by Lord Visweswara of Kashi to protect the dharma."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:51:32+00:00"
+  },
+  {
+    "id": "95a817e4",
+    "topic": "Bojjannakonda",
+    "format": "ancient_secrets",
+    "text": "బొజ్జన్నకొండ: శైలకృత బౌద్ధ క్షేత్రం\nఅనకాపల్లి శంకరం వద్ద కొండను తొలిచి నిర్మించిన ఏకశిలా స్తూపాలు, ఆరు శైలకృత గుహలు ప్రాచీన శిల్పకళా వైభవానికి ప్రతీకలు.\nపదహారు స్తంభాల ప్రధాన గుహలో ప్రదక్షిణా పథం కలిగిన ఏకశిలా స్తూపం, పైకప్పుపై చెక్కిన ఛత్రం కొలువై ఉన్నాయి.\nహీనయాన, మహాయాన మరియు వజ్రయాన బౌద్ధ సంప్రదాయాల విశేషాలు ఒకేచోట దర్శనమివ్వడం ఈ కొండ ప్రత్యేకత.",
+    "hashtags": [
+      "#Bojjannakonda",
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#BuddhistHeritage"
+    ],
+    "image": "data/images/95a817e4.jpg",
+    "source_title": "Bojjannakonda",
+    "source_url": "https://en.wikipedia.org/wiki/Bojjannakonda",
+    "facts_used": [
+      "Bojjannakonda has rock-cut caves and monolithic stupas near Sankaram in Anakapalle.",
+      "There are six rock-cut caves on Bojjannakonda hill.",
+      "One main cave has sixteen pillars, a monolithic stupa with a pradakshina-patha, and a chhatra carved on the ceiling.",
+      "The site features all three phases of Buddhism: Hinayana, Mahayana, and Vajrayana."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:51:55+00:00"
+  },
+  {
+    "id": "a4e03015",
+    "topic": "Chola Dynasty",
+    "format": "history_heritage",
+    "text": "చోళ సామ్రాజ్య చారిత్రక వైభవం\nకావేరీ నదీ లోయను కేంద్రంగా చేసుకుని విస్తరించిన చోళుల ప్రస్తావన అశోకుని శాసనాలు మరియు మహాభారతంలో కనిపిస్తుంది.\nతుంగభద్ర నదికి దక్షిణాన ఉన్న భారతదేశాన్ని ఏకం చేసి, క్రీ.శ. 907 నుండి 1215 వరకు మూడు శతాబ్దాల పాటు పరిపాలించారు.\nమొదటి రాజరాజ, రాజేంద్ర చోళుల పాలనలో దక్షిణాసియా మరియు ఆగ్నేయాసియాలలో సైనిక, ఆర్థిక, సాంస్కృతిక శక్తిగా వెలుగొందారు.",
+    "hashtags": [
+      "#AncientIndia",
+      "#IndianHistory",
+      "#CholaDynasty",
+      "#చరిత్ర"
+    ],
+    "image": "data/images/a4e03015.jpg",
+    "source_title": "Chola dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Chola_dynasty",
+    "facts_used": [
+      "The heartland of the Cholas was the fertile valley of the Kaveri River.",
+      "The Cholas are referenced in Ashokan inscriptions from the 3rd century BCE and in the Mahabharata.",
+      "They unified peninsular India south of the Tungabhadra River as one state for three centuries between 907 and 1215 CE.",
+      "Under Rajaraja I and successors like Rajendra I, the empire became a military, economic and cultural powerhouse in South Asia and Southeast Asia."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:52:15+00:00"
+  },
+  {
+    "id": "38e8fb89",
+    "topic": "Kallanai Dam",
+    "format": "ancient_secrets",
+    "text": "కల్లణై ఆనకట్ట (గ్రాండ్ ఆనికట్)\nచోళ రాజు కరికాలుడు సా.శ. 100-150 మధ్య కావేరీ నదిపై నిర్మించిన ఈ రాతి నిర్మాణం, భారతదేశంలో ఇప్పటికీ వినియోగంలో ఉన్న అత్యంత పురాతన ఆనకట్ట.\nప్రవహించే నీటిలోనే చెక్కని రాళ్లతో 329 మీటర్ల పొడవు, 20 మీటర్ల వెడల్పు, 5.4 మీటర్ల ఎత్తుతో ఇది నిర్మించబడింది.\nప్రపంచంలోనే నాల్గవ పురాతన నీటి మళ్లింపు నిర్మాణమైన కల్లణై, 19వ శతాబ్దంలో సర్ ఆర్థర్ కాటన్ వంటి ఇంజనీర్లకు ఆదర్శ నమూనాగా నిలిచింది.",
+    "hashtags": [
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#KallanaiDam",
+      "#IndianHeritage"
+    ],
+    "image": "data/images/38e8fb89.jpg",
+    "source_title": "Kallanai Dam",
+    "source_url": "https://en.wikipedia.org/wiki/Kallanai_Dam",
+    "facts_used": [
+      "Kallanai was built across the Kaveri river by King Karikalan of the Chola dynasty in c. 100 – c. 150 CE.",
+      "It is the oldest water-diversion structure in India that is still in use and the fourth oldest in the world.",
+      "It was constructed in running water from unhewn stone, measuring 329 m long, 20 m wide, and 5.4 m high.",
+      "The dam supplied a model to later engineers, including Sir Arthur Cotton in the 19th century."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:52:32+00:00"
+  },
+  {
+    "id": "980db3b8",
+    "topic": "Gautamiputra Satakarni",
+    "format": "history_heritage",
+    "text": "గౌతమీపుత్ర శాతకర్ణి: శాతవాహన సామ్రాజ్య వైభవం\nదక్కన్ పీఠభూమిని పరిపాలించిన శాతవాహన చక్రవర్తులలో గౌతమీపుత్ర శాతకర్ణి అత్యంత గొప్ప పాలకుడు.\nశకులు, పహ్లవులు, యవనులను జయించి క్షీణించిన శాతవాహన శక్తిని తిరిగి నిలబెట్టారు.\nనాసిక్ ప్రశస్తి ప్రకారం ఉత్తరాన మాల్వా, సౌరాష్ట్రల నుండి దక్షిణాన కృష్ణా నది వరకు తన రాజ్యాన్ని విస్తరించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#SatavahanaDynasty",
+      "#AncientIndia",
+      "#TeluguHistory"
+    ],
+    "image": "data/images/980db3b8.jpg",
+    "source_title": "Gautamiputra Satakarni",
+    "source_url": "https://en.wikipedia.org/wiki/Gautamiputra_Satakarni",
+    "facts_used": [
+      "Gautamiputra Satakarni was a ruler of the Satavahana Empire in the Deccan region and is regarded as its greatest ruler.",
+      "He revived Satavahana power after Saka invasions by defeating the Shakas, Pahlavas, and Yavanas.",
+      "According to the Nashik prashasti inscription, his rule extended from Malwa and Saurashtra in the north to the Krishna River in the south."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:53:29+00:00"
+  },
+  {
+    "id": "7855b77e",
+    "topic": "Srikalahasteeswara Temple",
+    "format": "ancient_secrets",
+    "text": "శ్రీకాళహస్తీశ్వరాలయం: వాయు లింగ వైభవం\nపంచభూత స్థలాలలో వాయు తత్వ లింగంగా, దక్షిణ కైలాసంగా పూజలందుకుంటున్న పవిత్ర క్షేత్రం.\nస్వర్ణముఖీ నది వద్ద వెలసిన ఈ ఆలయానికి చోళులు, రెడ్డి రాజులు, విజయనగర చక్రవర్తులు నిర్మాణాలు గావించారు.\nక్రీ.శ. 1516లో శ్రీకృష్ణదేవరాయలు ఇక్కడ 120 అడుగుల గోపురాన్ని, నూరు స్తంభాల మండపాన్ని నిర్మింపజేశారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Srikalahasti",
+      "#IndianArchitecture",
+      "#AncientIndia"
+    ],
+    "image": "data/images/7855b77e.jpg",
+    "source_title": "Srikalahasteeswara temple",
+    "source_url": "https://en.wikipedia.org/wiki/Srikalahasteeswara_temple",
+    "facts_used": [
+      "Srikalahasti temple is one of the Pancha Bhuta Sthalams representing the wind (Vayu Lingam) and is regarded as Dakshina Kailasam.",
+      "The temple is situated along the Swarnamukhi river and received contributions from the Chola dynasty, Reddi kingdom, and Vijayanagar Empire.",
+      "In 1516 CE, Vijayanagara ruler Krishnadevaraya commissioned the 120 feet high main gopuram and the hundred-pillared hall."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:53:50+00:00"
+  },
+  {
+    "id": "aad94741",
+    "topic": "తాను ఒకటి తలిస్తే దైవం ఒకటి తలుస్తుంది",
+    "format": "saametha",
+    "text": "\"తాను ఒకటి తలిస్తే దైవం ఒకటి తలుస్తుంది\"\nమనం ఒకటి తలచి ప్రణాళిక వేస్తే, విధి మరొక నిర్ణయం తీసుకోవచ్చు; ఫలితాలు మనం అనుకున్నదానికి భిన్నంగా రావచ్చు.\nఅయినప్పటికీ చక్కటి ప్రణాళికతో, చిత్తశుద్ధితో కష్టపడి పనిచేయాలి.\nఫలితాలు మారినప్పుడు నిరాశ చెందక ప్రశాంతంగా ఉండటమే నిజమైన వివేకం.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/aad94741.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "One plans one thing, fate decides another.",
+      "Results may differ from what we planned.",
+      "Plan well, work hard, and stay calm when outcomes differ."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:54:03+00:00"
+  },
+  {
+    "id": "5fca43de",
+    "topic": "చేతులు కాలాక ఆకులు పట్టుకున్నట్లు",
+    "format": "saametha",
+    "text": "\"చేతులు కాలాక ఆకులు పట్టుకున్నట్లు\"\nచేతులు కాలిన తర్వాత ఆకులు పట్టుకోవడం అనేది చాలా ఆలస్యమైన నివారణా చర్యను సూచిస్తుంది.\nముప్పు లేదా కష్టం ముంచుకొచ్చిన తర్వాత కాకుండా, సమస్య రాకముందే సిద్ధపడి నివారించడమే ముఖ్యమైన కర్తవ్యమని ఈ సామెత తెలియజేస్తుంది.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/5fca43de.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Proverb: చేతులు కాలాక ఆకులు పట్టుకున్నట్లు.",
+      "Meaning: Grabbing leaves after the hands are already burnt, which is a remedy applied too late.",
+      "Lesson: Prepare and prevent before trouble arrives."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:54:18+00:00"
+  },
+  {
+    "id": "2bf5081d",
+    "topic": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు",
+    "format": "saametha",
+    "text": "\"ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు\"\nఇంటి లోపల ఉండే దొంగను పట్టుకోవడం ఆ దేవుడికి కూడా సాధ్యం కాదు.\nమన సొంత వర్గంలోని వారి నుంచే కలిగే హానిని అడ్డుకోవడం అత్యంత కష్టం.\nఅందుకే, ముఖ్యమైన విషయాలలో ఎవరిని నమ్మాలో ఎల్లప్పుడూ జాగ్రత్తగా ఉండాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/2bf5081d.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Even God cannot catch the thief inside the house.",
+      "It is very hard to guard against harm from someone within one's own circle.",
+      "Be careful whom you trust with access to what matters."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-17T04:54:30+00:00"
   }
 ]
