@@ -1976,5 +1976,260 @@
     },
     "status": "pending",
     "created_at": "2026-10-17T04:54:30+00:00"
+  },
+  {
+    "id": "999ff485",
+    "topic": "Qutb Shahi Dynasty",
+    "format": "history_heritage",
+    "text": "కుతుబ్ షాహీ వంశం - దక్కన్ చారిత్రక వైభవం\n17వ శతాబ్దంలో తెలుగును అధికారిక భాషగా చేసి, తమను 'తెలుగు సుల్తానులు'గా భావిస్తూ తెలుగు సాహిత్యాన్ని పోషించారు.\nచార్మినార్ నిర్మాణంతో హైదరాబాద్‌ను, గోల్కొండ నగరాన్ని ఎంతో వైభవంగా తీర్చిదిద్దారు.\nగోల్కొండ వజ్రాల గుత్తాధిపత్యంతో, మచిలీపట్నం రేవు ద్వారా ఎగుమతులు సాగిస్తూ అపార సంపదను ఆర్జించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#GolcondaHistory",
+      "#DeccanHeritage"
+    ],
+    "image": "data/images/999ff485.jpg",
+    "source_title": "Golconda Sultanate",
+    "source_url": "https://en.wikipedia.org/wiki/Golconda_Sultanate",
+    "facts_used": [
+      "In the early 17th century, the Telugu language was elevated to the status of official language, with rulers considering themselves as 'Telugu sultans' and patronising Telugu literature.",
+      "Golconda and, with the construction of the Char Minar, Hyderabad served as capitals and both cities were embellished by the Qutb Shahi sultans.",
+      "The sultanate profited from its monopoly on diamond production (dubbed Golconda diamonds) and used the seaport of Masulipatnam for diamond export."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-18T04:55:02+00:00"
+  },
+  {
+    "id": "cccb669a",
+    "topic": "Rani ki Vav",
+    "format": "ancient_secrets",
+    "text": "రాణీ కీ వావ్: ప్రాచీన భూగర్భ జల నిర్మాణ వైభవం\nగుజరాత్‌లోని సరస్వతీ నది ఒడ్డున 11వ శతాబ్దంలో రాణి ఉదయమతి చేత నిర్మించబడిన అద్భుతమైన మెట్లబావి ఇది.\nనీటి పవిత్రతను చాటుతూ భూగర్భ ఆలయ రూపంలో, మారు-గుర్జర శైలిలో ఏడు అంతస్తులుగా ఇది రూపుదిద్దుకుంది.\nఈ కట్టడంలో 500కు పైగా ప్రధాన శిల్పాలు మరియు వెయ్యికి పైగా లఘు శిల్పాలు మన ప్రాచీన కళా నైపుణ్యాన్ని తెలియజేస్తాయి.",
+    "hashtags": [
+      "#RanikiVav",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#StepwellsOfIndia"
+    ],
+    "image": "data/images/cccb669a.jpg",
+    "source_title": "Rani ki Vav",
+    "source_url": "https://en.wikipedia.org/wiki/Rani_ki_Vav",
+    "facts_used": [
+      "Rani ki Vav is a stepwell situated in Patan, Gujarat, on the banks of the Saraswati River.",
+      "Its construction is attributed to Queen Udayamati, spouse of the 11th-century Chaulukya king Bhima I.",
+      "It is designed as an underground shrine symbolizing the sanctity of water, built in the Maru-Gurjara architecture style across seven stair levels.",
+      "The stepwell features more than 500 principal sculptures and over a thousand minor ones."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-18T04:55:32+00:00"
+  },
+  {
+    "id": "2aecf103",
+    "topic": "Pallava Dynasty",
+    "format": "history_heritage",
+    "text": "పల్లవ సామ్రాజ్య వైభవం\nశాతవాహనుల పతనం అనంతరం దక్షిణ తెలుగు ప్రాంతంతో పాటు కంచి రాజధానిగా ఆరు శతాబ్దాల పాటు పాలించారు.\nమామల్లపురంలోని తీర దేవాలయం వంటి విశిష్ట నిర్మాణాలతో మధ్యయుగ దక్షిణ భారత ఆలయ వాస్తుకళకు బలమైన పునాది వేశారు.\nవీరు రూపొందించిన పల్లవ లిపి నుంచే తమిళ, గ్రంథ లిపులతో పాటు ఖ్మేర్ వంటి ఆగ్నేయాసియా లిపులు ఉద్భవించాయి.",
+    "hashtags": [
+      "#TeluguHistory",
+      "#IndianArchitecture",
+      "#Pallavas",
+      "#AncientIndia"
+    ],
+    "image": "data/images/2aecf103.jpg",
+    "source_title": "Pallava dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Pallava_dynasty",
+    "facts_used": [
+      "The Pallavas rose to prominence after the downfall of the Satavahana Empire and dominated the southern Telugu region for about six centuries with Kanchipuram as their capital.",
+      "The Pallavas established the foundations of medieval southern Indian architecture, with the Shore Temple in Mamallapuram being a prime example.",
+      "They developed the Pallava script, which gave form to Tamil and Grantha scripts and gave rise to Southeast Asian scripts like Khmer."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-18T04:55:53+00:00"
+  },
+  {
+    "id": "ad2ff335",
+    "topic": "Konark Sun Temple",
+    "format": "ancient_secrets",
+    "text": "కోణార్క్ సూర్య దేవాలయం: అద్భుత రాతి రథం\n1250 CE కాలంలో తూర్పు గంగ వంశపు రాజు మొదటి నరసింహదేవ నిర్మించిన ఈ క్షేత్రం కళింగ శిల్పకళా వైభవానికి నిదర్శనం.\nసూర్య భగవానుడికి అంకితమైన ఈ మహా మందిరం రాతితో చెక్కిన ఏడు గుర్రాలు, బృహత్తర చక్రాలతో కూడిన రథం రూపంలో ఉంటుంది.\nఈ రథానికి ఉన్న పన్నెండు జతల రాతి చక్రాలు హిందూ కాలెండర్‌లోని పన్నెండు నెలలకు ప్రతీకలుగా నిలుస్తాయి.",
+    "hashtags": [
+      "#KonarkSunTemple",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/ad2ff335.jpg",
+    "source_title": "Konark Sun Temple",
+    "source_url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+    "facts_used": [
+      "The Konark Sun Temple was built around 1250 CE during the reign of Eastern Ganga King Narasingha Deva I.",
+      "The temple reflects the pinnacle of Kalinga architecture and is dedicated to the Sun-god Surya.",
+      "The temple was built in the form of a chariot drawn by seven horses with immense wheels carved from stone.",
+      "The chariot's twelve pairs of wheels correspond to the 12 months of the Hindu calendar."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-18T04:56:43+00:00"
+  },
+  {
+    "id": "bd99e869",
+    "topic": "Golconda Fort",
+    "format": "history_heritage",
+    "text": "గోల్కొండ కోట\n11వ శతాబ్దంలో కాకతీయులు మట్టితో నిర్మించిన ఈ రక్షణ కోటకు 'గొల్లకొండ' అనే పేరు మూలం.\nకుతుబ్ షాహీ పాలకుల కాలంలో 7 కిలోమీటర్ల బాహ్య గోడతో భారీ గ్రానైట్ కోటగా విస్తరించింది.\nకోహి‑నూర్, హోప్ వంటి ప్రపంచ ప్రసిద్ధ వజ్రాలను భద్రపరిచిన ఖజానాగా ఇది చరిత్రలో నిలిచింది.",
+    "hashtags": [
+      "#GolcondaFort",
+      "#TeluguHeritage",
+      "#DeccanHistory",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/bd99e869.jpg",
+    "source_title": "Golconda",
+    "source_url": "https://en.wikipedia.org/wiki/Golconda",
+    "facts_used": [
+      "The fort originated in the 11th century as a mud fort built by Kakatiya ruler Prataparudra.",
+      "The name Golconda is thought to originate from the Telugu word Gollakonda.",
+      "The Qutb Shahis expanded the fort into a massive granite fortification with a 7 km outer wall enclosing the city.",
+      "Golconda fort had a vault where the famous Koh-i-Noor and Hope diamonds were stored."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "minor wording improvements for elevated, dignified Telugu style"
+      ],
+      "final_text": "గోల్కొండ కోట\n11వ శతాబ్దంలో కాకతీయులు మట్టితో నిర్మించిన ఈ రక్షణ కోటకు 'గొల్లకొండ' అనే పేరు మూలం.\nకుతుబ్ షాహీ పాలకుల కాలంలో 7 కిలోమీటర్ల బాహ్య గోడతో భారీ గ్రానైట్ కోటగా విస్తరించింది.\nకోహి‑నూర్, హోప్ వంటి ప్రపంచ ప్రసిద్ధ వజ్రాలను భద్రపరిచిన ఖజానాగా ఇది చరిత్రలో నిలిచింది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-18T04:57:36+00:00"
+  },
+  {
+    "id": "7ffe6a7b",
+    "topic": "Gajapati Empire",
+    "format": "history_heritage",
+    "text": "గజపతి సామ్రాజ్యం: సూర్యవంశ వైభవం\nక్రీ.శ. 1434 నుండి 1541 వరకు కటకం రాజధానిగా కపిలేంద్ర దేవుడు స్థాపించిన గజపతి సామ్రాజ్యం గొప్ప సైనిక రాజ్యంగా విలసిల్లింది.\nఉత్తరాన గంగా తీరం నుండి దక్షిణాన కావేరి వరకు విస్తరించిన ఈ సామ్రాజ్యం అపారమైన గజబలంతో ప్రసిద్ధి చెందింది.\nవీరు వాస్తుశిల్పాన్ని, సాహిత్యాన్ని పోషిస్తూ వైష్ణవాన్ని, జగన్నాథ సంస్కృతిని విశేషంగా వ్యాప్తి చేశారు.",
+    "hashtags": [
+      "#GajapatiEmpire",
+      "#IndianHistory",
+      "#TeluguHistory",
+      "#AncientIndia"
+    ],
+    "image": "data/images/7ffe6a7b.jpg",
+    "source_title": "Gajapati Empire",
+    "source_url": "https://en.wikipedia.org/wiki/Gajapati_Empire",
+    "facts_used": [
+      "The Gajapati Empire was founded by Kapilendra Deva of Suryavamsa lineage and reigned from c.1434 to 1541 with Kataka as its capital.",
+      "The empire extended from the Ganges in the north to the Kaveri in the south and was built on the lines of a military state.",
+      "Gajapati means a king with an army of elephants.",
+      "They patronized art, architecture, literature, Vaishnavite Hinduism, and spread the Jagannath cult."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-18T04:58:18+00:00"
+  },
+  {
+    "id": "5086bdc9",
+    "topic": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు",
+    "format": "saametha",
+    "text": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు\nఇల్లు లోని దొంగను దేవుడు కూడా పట్టలేనట్టు, అంతర్గత వలయాల నుంచి వచ్చే హాని నివారించడం కష్టం.\nఅందువల్ల, ముఖ్యమైన విషయాలకు ఎవరు ప్రవేశించాలో జాగ్రత్తగా చూసుకోవాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/5086bdc9.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Even God cannot catch the thief inside the house.",
+      "It is very hard to guard against harm from someone within one's own circle.",
+      "Be careful whom you trust with access to what matters."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; should match proverb exactly"
+      ],
+      "final_text": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు\nఇల్లు లోని దొంగను దేవుడు కూడా పట్టలేనట్టు, అంతర్గత వలయాల నుంచి వచ్చే హాని నివారించడం కష్టం.\nఅందువల్ల, ముఖ్యమైన విషయాలకు ఎవరు ప్రవేశించాలో జాగ్రత్తగా చూసుకోవాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-18T04:59:10+00:00"
+  },
+  {
+    "id": "e6bbec51",
+    "topic": "ఏరు దాటాక తెప్ప తగలేసినట్లు",
+    "format": "saametha",
+    "text": "\"ఏరు దాటాక తెప్ప తగలేసినట్లు\"\nనది దాటిన తర్వాత నౌకను కాల్చి వేయడం లాగా, సహాయం పొందిన తర్వాత దాన్ని మరచిపోవడం.\nసహాయము ఇచ్చినవారిని ఎల్లప్పుడూ గుర్తించి, గౌరవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#Respect",
+      "#CulturalWisdom"
+    ],
+    "image": "data/images/e6bbec51.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Burning the raft after crossing the river.",
+      "Forgetting or discarding the help that got you across once the need is over.",
+      "Remember and respect those who helped you."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-18T04:59:33+00:00"
   }
 ]
