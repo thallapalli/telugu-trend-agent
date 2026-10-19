@@ -2231,5 +2231,323 @@
     },
     "status": "pending",
     "created_at": "2026-10-18T04:59:33+00:00"
+  },
+  {
+    "id": "890d2ef9",
+    "topic": "Veerabhadra Temple, Lepakshi",
+    "format": "ancient_secrets",
+    "text": "లేపాక్షి వీరభద్రాలయం: విజయనగర శిల్ప వైభవం\n16వ శతాబ్దంలో కూర్మశైలంపై నిర్మితమైన ఈ క్షేత్రం విజయనగర నిర్మాణ శైలికి అద్భుత నిదర్శనం.\nముఖమండప స్తంభాలు, పైకప్పులపై రామాయణ, మహాభారత, పురాణ దృశ్యాల వర్ణచిత్రాలు, శిల్పాలు అలరారుతాయి.\nఆలయానికి 200 మీటర్ల దూరంలో ఒకే రాతితో చెక్కిన భారీ నంది ప్రపంచంలోనే అతిపెద్ద వాటిలో ఒకటి.",
+    "hashtags": [
+      "#Lepakshi",
+      "#TeluguHeritage",
+      "#VijayanagaraArchitecture",
+      "#IndianHeritage"
+    ],
+    "image": "data/images/890d2ef9.jpg",
+    "source_title": "Veerabhadra Temple, Lepakshi",
+    "source_url": "https://en.wikipedia.org/wiki/Veerabhadra_Temple,_Lepakshi",
+    "facts_used": [
+      "Veerabhadra temple at Lepakshi was built in the 16th century in Vijayanagara style on a granite hillock called Kurma Saila.",
+      "The Mukha mantapa has carvings and well-preserved fresco paintings of scenes from the Ramayana, Mahabharata, and Puranas on its columns and ceiling.",
+      "About 200 metres away from the temple is a very large Nandi carved from a single block of stone, said to be one of the largest of its type in the world."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:03:39+00:00"
+  },
+  {
+    "id": "8413d418",
+    "topic": "Krishnadevaraya",
+    "format": "history_heritage",
+    "text": "విజయనగర చక్రవర్తి శ్రీకృష్ణదేవరాయలు\nతెలుగు సాహిత్యానికి స్వర్ణయుగాన్ని తెచ్చిన ఈ 'ఆంధ్రభోజుడు' స్వయంగా 'ఆముక్తమాల్యద' అనే విశిష్ట కావ్యాన్ని రచించారు.\nఅల్లసాని పెద్దన, ముక్కు తిమ్మనలతో కూడిన అష్టదిగ్గజ కవులను పోషిస్తూ, ప్రధానమంత్రి తిమ్మరుసు మార్గదర్శకత్వంలో రాజ్యపాలన చేశారు.\nమొఘల్ చక్రవర్తి బాబర్‌చే ఆ కాలపు భారతదేశంలోనే అత్యంత శక్తివంతమైన చక్రవర్తిగా ఈయన గుర్తించబడ్డారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Krishnadevaraya",
+      "#TeluguHistory",
+      "#VijayanagaraEmpire"
+    ],
+    "image": "data/images/8413d418.jpg",
+    "source_title": "Krishnadevaraya",
+    "source_url": "https://en.wikipedia.org/wiki/Krishnadevaraya",
+    "facts_used": [
+      "Krishnadevaraya was the emperor of the Vijayanagara Empire.",
+      "His reign is regarded as a golden age of Telugu literature.",
+      "He composed the Telugu poetic work Amuktamalyada and held the title Andhra Bhoja.",
+      "His court was home to the Ashtadiggajas, eight legendary Telugu poets including Allasani Peddana and Mukku Timmana.",
+      "He was guided by his prime minister Timmarusu.",
+      "Mughal emperor Babur considered Krishnadevaraya the most powerful ruler in India."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:04:29+00:00"
+  },
+  {
+    "id": "09fed010",
+    "topic": "Undavalli Caves",
+    "format": "ancient_secrets",
+    "text": "ఉండవల్లి గుహలు: ఏకశిలా రాతి నిర్మాణ వైభవం\n4-5వ శతాబ్దాలలో విష్ణుకుండినుల కాలంలో ఇసుకరాయి కొండను తొలిచి నాలుగు అంతస్తుల గుహాలయంగా మలిచారు.\nరెండవ అంతస్తులో ఏకశిల నుండి చెక్కిన ఐదు మీటర్ల పొడవైన శయన భంగిమలోని విష్ణుమూర్తి శిల్పం కొలువై ఉంది.\nకృష్ణా నది సమీపాన విలసిల్లిన ఈ క్షేత్రం ప్రాచీన గుప్త శైలి రాతి శిల్పకళా నైపుణ్యానికి ప్రతీక.",
+    "hashtags": [
+      "#UndavalliCaves",
+      "#TeluguHeritage",
+      "#IndianArchitecture",
+      "#AncientIndia"
+    ],
+    "image": "data/images/09fed010.jpg",
+    "source_title": "Undavalli Caves",
+    "source_url": "https://en.wikipedia.org/wiki/Undavalli_Caves",
+    "facts_used": [
+      "The Undavalli Caves are a four-storey rock-cut temple carved out of solid sandstone hills in the 4th-5th centuries CE during the Vishnukundina dynasty era.",
+      "The second floor houses a 5-meter long statue of Vishnu in a reclining posture sculpted from a single block.",
+      "The caves overlook the Krishna River and exhibit the Gupta style of rock-cut architecture carved by skilled craftsmen."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:04:54+00:00"
+  },
+  {
+    "id": "22fe1f84",
+    "topic": "Rudrama Devi",
+    "format": "history_heritage",
+    "text": "కాకతీయ పాలకురాలు రుద్రమదేవి\n'రుద్రదేవ మహారాజు' నామంతో పాలన సాగిస్తూ, సేవునులు మరియు గజపతుల దండయాత్రలను తిప్పికొట్టారు.\nఓరుగల్లు కోట లోపలి గోడను ఎత్తు చేసి, చుట్టూ కందకంతో కూడిన బాహ్య ప్రాకారాన్ని నిర్మించి రక్షణను పటిష్ఠపరిచారు.\nకాకతీయ సైన్యంలో కులీనేతరులైన వీరుల ఎదుగుదలకు విశేష అవకాశం కల్పించారు.",
+    "hashtags": [
+      "#RudramaDevi",
+      "#KakatiyaDynasty",
+      "#TeluguHeritage",
+      "#TeluguHistory"
+    ],
+    "image": "data/images/22fe1f84.jpg",
+    "source_title": "Rudrama Devi",
+    "source_url": "https://en.wikipedia.org/wiki/Rudrama_Devi",
+    "facts_used": [
+      "Rudrama Devi ruled under the regnal name Rudra-deva Maharaja.",
+      "She repulsed invasions by the Seunas (Yadavas) and the Gajapatis.",
+      "She strengthened the Warangal Fort by raising its inner wall and constructing an outer wall surrounded by a moat.",
+      "Her reign was remarkable for the rise of several non-aristocratic warriors in the Kakatiya service."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:05:18+00:00"
+  },
+  {
+    "id": "d180ca88",
+    "topic": "Ramappa Temple",
+    "format": "ancient_secrets",
+    "text": "రామప్ప దేవాలయం: అద్భుత కాకతీయ నిర్మాణ కౌశలం\nభూకంపాల తాకిడిని తట్టుకునేలా ఇసుక ఆధారిత 'శాండ్‌బాక్స్' పునాదిని నిర్మించారు.\nవిమాన గోపురం కోసం నీటిపై తేలియాడే తేలికపాటి మట్టి ఇటుకలను ఉపయోగించారు.\nకాకతీయుల శిల్పకళా చాతుర్యానికి ఈ దేవాలయం నిలువెత్తు నిదర్శనం.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#RamappaTemple",
+      "#IndianArchitecture",
+      "#KakatiyaDynasty"
+    ],
+    "image": "data/images/d180ca88.jpg",
+    "source_title": "Ramappa Temple",
+    "source_url": "https://en.wikipedia.org/wiki/Ramappa_Temple",
+    "facts_used": [
+      "The temple features a sandbox-style foundation designed to absorb seismic loads generated by earthquakes.",
+      "The vimana was built with lightweight, buoyant clay bricks.",
+      "The temple is a prominent example of Kakatiya architecture."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:05:29+00:00"
+  },
+  {
+    "id": "c67470a4",
+    "topic": "Nalanda",
+    "format": "history_heritage",
+    "text": "నలందా మహావిహారం: ప్రాచీన విద్యా వైభవం\nక్రీ.శ. 427లో గుప్త చక్రవర్తి మొదటి కుమారగుప్తునిచే స్థాపించబడిన నలందా, ప్రపంచపు తొలి నివాస విశ్వవిద్యాలయంగా గుర్తింపు పొందింది.\nదాదాపు వెయ్యేళ్ల పాటు ఇక్కడ వేదాలు, తర్కం, గణితం, వైద్యం, ఖగోళశాస్త్రం మరియు బౌద్ధ తత్వాలు బోధించబడ్డాయి.\nనాగార్జునుడు, హ్యుయాన్ త్సాంగ్ వంటి ప్రముఖ పండితులు అనుబంధం కలిగిన ఈ కేంద్రం నేడు యునెస్కో ప్రపంచ వారసత్వ సంపదగా విలసిల్లుతోంది.",
+    "hashtags": [
+      "#Nalanda",
+      "#AncientIndia",
+      "#IndianHistory",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/c67470a4.jpg",
+    "source_title": "Nalanda mahavihara",
+    "source_url": "https://en.wikipedia.org/wiki/Nalanda_mahavihara",
+    "facts_used": [
+      "Nalanda was established by emperor Kumaragupta I of the Gupta Empire around 427 CE.",
+      "It is often referred to as the world's first residential university.",
+      "It operated for almost a thousand years, teaching subjects including the Vedas, logic, mathematics, medicine, astronomy, and Buddhist philosophies.",
+      "Scholars associated with it included Nagarjuna and Xuanzang, and it is a UNESCO World Heritage Site."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Draft used the transliterated English word 'రెసిడెన్షియల్' instead of the proper Telugu term 'నివాస'."
+      ],
+      "final_text": "నలందా మహావిహారం: ప్రాచీన విద్యా వైభవం\nక్రీ.శ. 427లో గుప్త చక్రవర్తి మొదటి కుమారగుప్తునిచే స్థాపించబడిన నలందా, ప్రపంచపు తొలి నివాస విశ్వవిద్యాలయంగా గుర్తింపు పొందింది.\nదాదాపు వెయ్యేళ్ల పాటు ఇక్కడ వేదాలు, తర్కం, గణితం, వైద్యం, ఖగోళశాస్త్రం మరియు బౌద్ధ తత్వాలు బోధించబడ్డాయి.\nనాగార్జునుడు, హ్యుయాన్ త్సాంగ్ వంటి ప్రముఖ పండితులు అనుబంధం కలిగిన ఈ కేంద్రం నేడు యునెస్కో ప్రపంచ వారసత్వ సంపదగా విలసిల్లుతోంది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:06:03+00:00"
+  },
+  {
+    "id": "c0f12740",
+    "topic": "నిదానమే ప్రధానం",
+    "format": "saametha",
+    "text": "\"నిదానమే ప్రధానం\"\nపనులలో నిదానమే అత్యంత ముఖ్యమైనది; జాగ్రత్తగా, ఓర్పుతో సాగే పురోగతి తొందరపాటు చర్యలను అధిగమిస్తుంది.\nఆతురత మరియు తొందరపాటు తరచుగా తప్పులకు దారితీస్తాయి.\nనిలకడగా, ఆలోచనాత్మకంగా చేసే పనే కలకాలం నిలుస్తుంది.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/c0f12740.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Proverb: నిదానమే ప్రధానం",
+      "Steadiness is what matters most.",
+      "Careful, patient progress beats hasty action.",
+      "Haste often causes mistakes; steady, thoughtful work lasts."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:06:16+00:00"
+  },
+  {
+    "id": "aee31b8e",
+    "topic": "ఏరు దాటాక తెప్ప తగలేసినట్లు",
+    "format": "saametha",
+    "text": "\"ఏరు దాటాక తెప్ప తగలేసినట్లు\"\nనదిని దాటిన తర్వాత సహాయపడిన తెప్పను తగులబెట్టినట్లు, అవసరం తీరిపోగానే అందిన సాయాన్ని విస్మరించడం దీని భావం.\nకష్టకాలంలో మనకు చేయూతనందించి తోడ్పడిన వారిని ఎల్లప్పుడూ గుర్తుంచుకోవాలి, వారిని సదా గౌరవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/aee31b8e.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The proverb means burning the raft after crossing the river, or forgetting/discarding the help that got you across once the need is over.",
+      "The lesson is to remember and respect those who helped you."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:06:29+00:00"
+  },
+  {
+    "id": "8bed379e",
+    "topic": "తాను ఒకటి తలిస్తే దైవం ఒకటి తలుస్తుంది",
+    "format": "saametha",
+    "text": "\"తాను ఒకటి తలిస్తే దైవం ఒకటి తలుస్తుంది\"\nమనం ఒక విధంగా ప్రణాళిక వేసుకుంటే, విధి మరొక నిర్ణయం తీసుకుంటుంది.\nఫలితాలు మనం అనుకున్నదానికంటే భిన్నంగా ఉండవచ్చు.\nచక్కగా ప్రణాళిక రచించి, కష్టపడి పనిచేస్తూ, ఫలితాలు వేరైనా ప్రశాంతంగా నిలబడాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/8bed379e.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Proverb: తాను ఒకటి తలిస్తే దైవం ఒకటి తలుస్తుంది",
+      "One plans one thing, fate decides another",
+      "Results may differ from what we planned",
+      "Plan well, work hard, and stay calm when outcomes differ"
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:07:06+00:00"
+  },
+  {
+    "id": "6a264b85",
+    "topic": "పిట్ట కొంచెం కూత ఘనం",
+    "format": "saametha",
+    "text": "\"పిట్ట కొంచెం కూత ఘనం\"\nపిట్ట చిన్నదైనా దాని కూత ఎంతో గొప్పగా, బలంగా ఉంటుంది.\nచిన్న వ్యక్తి అయినా గొప్ప సామర్థ్యాన్ని, ప్రభావాన్ని చూపగలరు.\nపరిమాణాన్ని గానీ, వయస్సును గానీ చూసి ఎవరి సామర్థ్యాన్ని అంచనా వేయకూడదు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/6a264b85.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The bird is small but its call is mighty.",
+      "A small person can have great ability or presence.",
+      "Do not judge ability by size or age."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-19T05:07:28+00:00"
   }
 ]
