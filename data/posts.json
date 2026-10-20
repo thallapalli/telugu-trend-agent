@@ -2549,5 +2549,134 @@
     },
     "status": "pending",
     "created_at": "2026-10-19T05:07:28+00:00"
+  },
+  {
+    "id": "3cab9215",
+    "topic": "Warangal Fort",
+    "format": "ancient_secrets",
+    "text": "ఓరుగల్లు కోట: కాకతీయుల రాతి నిర్మాణ వైభవం\nపూర్వపు ఇటుక గోడల స్థానంలో గణపతిదేవుడు, రుద్రమదేవి పటిష్ఠమైన రాతి ప్రాకారాలను, బురుజులను నిర్మించారు.\nఇక్కడి నాలుగు ప్రసిద్ధ కాకతీయ కళాతోరణాలు ఒకనాటి గొప్ప శివాలయానికి ప్రవేశ ద్వారాలుగా నిలిచాయి.\nబయటి మట్టి కోట, లోపలి రాతి ప్రాకారం కాకతీయుల రక్షణ వ్యూహానికి మరియు నిర్మాణ కౌశలానికి నిదర్శనాలు.",
+    "hashtags": [
+      "#WarangalFort",
+      "#KakatiyaDynasty",
+      "#TeluguHeritage",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/3cab9215.jpg",
+    "source_title": "Warangal Fort",
+    "source_url": "https://en.wikipedia.org/wiki/Warangal_Fort",
+    "facts_used": [
+      "An earlier brick-walled structure was replaced with stone by Ganapatideva and completed by Rudrama Devi, who added gateways and square bastions.",
+      "The fort has four ornamental gates known as Kakatiya Kala Thoranam, which originally formed entrances to a great Shiva temple.",
+      "The fortifications consisted of an outer mud structure and an inner fortress built of stone."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-20T05:07:52+00:00"
+  },
+  {
+    "id": "f453aeb0",
+    "topic": "Eastern Chalukyas",
+    "format": "history_heritage",
+    "text": "ఈశాన్య చలుక్యులు (వెంగి)\n7వ శతాబ్దం నుంచి 12వ శతాబ్దం వరకు, వెంగి (ఇప్పటి ఆంధ్రప్రదేశ్) లో ఐదు శతాబ్దాల పాలన.\nపిష్టాపురం, వెంగి, రాజమహేంద్రవరం రాజధానిలుగా మార్చి, ప్రాంతాన్ని ఏకీకృతం చేశారు.\nఈ కాలంలో తెలుగు సాహిత్యం, కవిత్వం, కళల వికాసం వికసించి, సంస్కృతి వారసత్వాన్ని బలపరిచారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#EasternChalukyas",
+      "#Vengi"
+    ],
+    "image": "data/images/f453aeb0.jpg",
+    "source_title": "Eastern Chalukyas",
+    "source_url": "https://en.wikipedia.org/wiki/Eastern_Chalukyas",
+    "facts_used": [
+      "The Eastern Chalukyas ruled parts of South India between the 7th and 12th centuries.",
+      "They ruled the Vengi region of present-day Andhra Pradesh for five centuries.",
+      "Their capital was originally at Pishtapura, then moved to Vengi, and later to Rajamahendravaram.",
+      "During their rule, Telugu culture, literature, poetry and art flourished."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor spelling correction (సంస్కృతి) and consistent place name spelling."
+      ],
+      "final_text": "ఈశాన్య చలుక్యులు (వెంగి)\n7వ శతాబ్దం నుంచి 12వ శతాబ్దం వరకు, వెంగి (ఇప్పటి ఆంధ్రప్రదేశ్) లో ఐదు శతాబ్దాల పాలన.\nపిష్టాపురం, వెంగి, రాజమహేంద్రవరం రాజధానిలుగా మార్చి, ప్రాంతాన్ని ఏకీకృతం చేశారు.\nఈ కాలంలో తెలుగు సాహిత్యం, కవిత్వం, కళల వికాసం వికసించి, సంస్కృతి వారసత్వాన్ని బలపరిచారు."
+    },
+    "status": "pending",
+    "created_at": "2026-10-20T05:15:01+00:00"
+  },
+  {
+    "id": "30f1a5dc",
+    "topic": "Guntupalli Caves",
+    "format": "ancient_secrets",
+    "text": "గుంటుపల్లి బౌద్ధ గుహలు: ప్రాచీన రాతి శిల్ప కళా చాతుర్యం\nఏలూరు జిల్లాలో వెలసిన ఈ బౌద్ధ క్షేత్రం ప్రధానంగా క్రీ.పూ. 200–0 కాలానికి చెందినది.\nఇక్కడి చైత్య గృహంలో కొయ్య నిర్మాణ శైలిని ప్రతిబింబించే అరుదైన రాతి ప్రవేశ ద్వారం ఉంది.\nప్రదక్షిణ మార్గం కలిగిన రాతి స్తూపం, ఇటుకలతో నిర్మించిన విహారాలు ఇక్కడి విశేషాలు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#GuntupalliCaves"
+    ],
+    "image": "data/images/30f1a5dc.jpg",
+    "source_title": "Guntupalli Group of Buddhist Monuments",
+    "source_url": "https://en.wikipedia.org/wiki/Guntupalli_Group_of_Buddhist_Monuments",
+    "facts_used": [
+      "The Guntupalli Group of Buddhist Monuments is located in Eluru district, Andhra Pradesh.",
+      "The monuments mostly date to 200-0 BCE.",
+      "The chaitya hall has a rare carved stone entrance replicating wooden architecture.",
+      "The site features a stone stupa with an enclosed path around it for ritual parikrama and remains of brick viharas."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-20T05:17:57+00:00"
+  },
+  {
+    "id": "49335142",
+    "topic": "Vikramashila",
+    "format": "history_heritage",
+    "text": "విక్రమశిల విశ్వవిద్యాలయ వైభవం\nపాల చక్రవర్తి ధర్మపాలుడిచే స్థాపించబడిన విక్రమశిల, ప్రాచీన భారతదేశపు మహోన్నత బౌద్ధ విద్యాపీఠం.\nవంద మందికి పైగా ఆచార్యులు, వెయ్యి మంది విద్యార్థులతో తత్వశాస్త్రం, తర్కం మరియు వ్యాకరణం ఇక్కడ బోధించబడ్డాయి.\nఇక్కడ విద్యాభ్యాసం చేసిన అతిశ వంటి ప్రసిద్ధ పండితులను విజ్ఞాన వ్యాప్తి కోసం విదేశాలు సైతం ఆహ్వానించాయి.",
+    "hashtags": [
+      "#Vikramashila",
+      "#AncientIndia",
+      "#IndianHistory",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/49335142.jpg",
+    "source_title": "Vikramashila",
+    "source_url": "https://en.wikipedia.org/wiki/Vikramashila",
+    "facts_used": [
+      "Vikramashila was established by the Pala emperor Dharmapala.",
+      "It was one of the largest Buddhist mahaviharas, with more than one hundred teachers and about one thousand students.",
+      "Subjects like philosophy, grammar, metaphysics, Indian logic etc. were taught here.",
+      "It produced eminent scholars who were often invited by foreign countries to spread Buddhist learning, culture and religion including Atisa."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-20T05:23:44+00:00"
   }
 ]
