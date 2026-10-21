@@ -2678,5 +2678,344 @@
     },
     "status": "pending",
     "created_at": "2026-10-20T05:23:44+00:00"
+  },
+  {
+    "id": "61e32f1e",
+    "topic": "Reddy Dynasty",
+    "format": "history_heritage",
+    "text": "కొండవీటి రెడ్డి రాజుల ఘన చరిత్ర\nక్రీ.శ. 1325 నుండి 1448 వరకు సాగిన రెడ్డి రాజుల పాలన గిరిదుర్గాల నిర్మాణ నైపుణ్యానికి ప్రతీకగా నిలిచింది.\nకొండవీడు, కొండపల్లి కోటలను పటిష్ఠపరచి, కృష్ణా నది నుండి శ్రీశైల మల్లికార్జున స్వామి ఆలయానికి మెట్ల మార్గాన్ని నిర్మించారు.\nశివునికి 108 ఆలయాలను నిర్మించడంతో పాటు అహోబిలం, తిరుమల వంటి ప్రముఖ పుణ్యక్షేత్రాలకు విశేష సేవలు అందించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#ReddyDynasty",
+      "#IndianHistory"
+    ],
+    "image": "data/images/61e32f1e.jpg",
+    "source_title": "Reddi Kingdom",
+    "source_url": "https://en.wikipedia.org/wiki/Reddi_Kingdom",
+    "facts_used": [
+      "The Reddy Kingdom existed from 1325 to 1448 CE.",
+      "Two major hill forts, Kondapalli and Kondavidu, stand testimony to the fort building skill of the Reddi kings.",
+      "Prolaya Vema Reddi had a flight of steps built from the Krishna River to the Srisailam Mallikarjuna Swami temple.",
+      "Prolaya Vema Reddi built 108 temples for Shiva.",
+      "The Hindu temples of Tirumala and Ahobilam were provided with facilities, and Ahobilam temple was built during his reign."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:07:41+00:00"
+  },
+  {
+    "id": "88d63724",
+    "topic": "Thousand Pillar Temple",
+    "format": "ancient_secrets",
+    "text": "హనుమకొండ వెయ్యి స్తంభాల గుడి నిర్మాణ నైపుణ్యం\nకాకతీయ రాజు రుద్రదేవుని కాలంలో నిర్మితమైన ఈ త్రికూటాలయం విశిష్టమైన నక్షత్రాకార శైలిలో అలరారుతోంది.\nఆలయ పునాదులను పటిష్టం చేయడానికి కాకతీయులు శాండ్‌బాక్స్ (ఇసుక తిన్నెల) సాంకేతికతను ఉపయోగించారు.\nడోలరైట్, గ్రానైట్ రాతి స్తంభాలపై లేత్ యంత్రంతో తిప్పినట్లుగా ఉండే నునుపైన మెరుపు వీరి శిల్పకళా చాతుర్యానికి నిదర్శనం.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#KakatiyaArchitecture",
+      "#AncientIndia",
+      "#ThousandPillarTemple"
+    ],
+    "image": "data/images/88d63724.jpg",
+    "source_title": "Thousand Pillar Temple",
+    "source_url": "https://en.wikipedia.org/wiki/Thousand_Pillar_Temple",
+    "facts_used": [
+      "The Thousand Pillar Temple is located in Hanamakonda.",
+      "It was constructed by the order of Kakatiya king Rudra Deva as a star-shaped and triple-shrined (Trikutalaya) temple.",
+      "The temple used the sandbox technique for strengthening its foundations.",
+      "Kakatiya sculptors created lathe-turned and shiny polished dolerite and granite stone sculptures and pillars."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:08:08+00:00"
+  },
+  {
+    "id": "9e381efd",
+    "topic": "Rajaraja Narendra",
+    "format": "history_heritage",
+    "text": "రాజరాజ నరేంద్రుడు - తూర్పు చాళుక్య వైభవం\nవేంగి రాజ్యాన్ని పరిపాలించిన ఈ రాజు రాజమహేంద్రవరం నగరాన్ని స్థాపించారు.\nతెలుగు, సంస్కృత భాషలను ఆదరించి విశేష సాంస్కృతిక సేవ చేశారు.\nతన గురువు, ఆస్థాన కవి నన్నయ్య భట్టారకుని చేత మహాభారతాన్ని 'ఆంధ్ర మహాభారతం'గా తెలుగులోకి అనువదింపజేశారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#RajarajaNarendra",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/9e381efd.jpg",
+    "source_title": "Rajaraja Narendra",
+    "source_url": "https://en.wikipedia.org/wiki/Rajaraja_Narendra",
+    "facts_used": [
+      "Rajaraja Narendra was an Eastern Chalukya king of the Vengi kingdom.",
+      "He founded the city of Rajahmahendravaram.",
+      "He promoted the Telugu and Sanskrit languages and contributed to cultural heritage.",
+      "He requested his teacher and court poet Nannayya Bhattaraka to translate the Mahabharata into Telugu as Andhra Mahabharatam."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:08:27+00:00"
+  },
+  {
+    "id": "e373c6d4",
+    "topic": "Chand Baori",
+    "format": "ancient_secrets",
+    "text": "చాంద్ బావోరి: ప్రాచీన మెట్లబావి అద్భుతం\nరాజస్థాన్‌లోని అభనేరిలో 8-9 శతాబ్దాల కాలానికి చెందిన ఈ బావి సుమారు 30 మీటర్ల లోతు కలిగి ఉంది.\nతలకిందులైన పిరమిడ్ శైలిలో 13 అంతస్తులు, 3,500 మెట్లతో నీటి సంరక్షణ కోసం దీనిని నిర్మించారు.\nతీవ్రమైన ఎండల్లో కూడా ఇక్కడి అడుగుభాగంలో గాలి ఉపరితలం కంటే 5 నుండి 6 డిగ్రీల సెల్సియస్ చల్లగా ఉంటుంది.",
+    "hashtags": [
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#ChandBaori",
+      "#IndianHeritage"
+    ],
+    "image": "data/images/e373c6d4.jpg",
+    "source_title": "Chand Baori",
+    "source_url": "https://en.wikipedia.org/wiki/Chand_Baori",
+    "facts_used": [
+      "Chand Baori is a stepwell situated in Abhaneri, Rajasthan dating to the 8th-9th centuries.",
+      "It extends approximately 30 m into the ground.",
+      "It consists of 3,500 steps over 13 stories constructed in an upside-down pyramid style to conserve water.",
+      "At the bottom of the well, the air remains 5-6 °C cooler than at the surface."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:08:42+00:00"
+  },
+  {
+    "id": "e191ff28",
+    "topic": "Madurai Nayak Dynasty",
+    "format": "history_heritage",
+    "text": "మధురై నాయక వంశ వైభవం\n16వ శతాబ్దం నుండి 18వ శతాబ్దం వరకు మధురై రాజధానిగా పాలించిన తెలుగు పాలకుల చరిత్ర ఇది.\n1529లో విశ్వనాథ నాయకునితో ప్రారంభమైన వీరి పాలనలో ఆలయాల పునర్నిర్మాణం విస్తృతంగా జరిగింది.\nవిశాలమైన స్తంభాల మండపాలు, ప్రత్యేకమైన రాజభవనాల నిర్మాణంతో విశిష్టమైన వాస్తు శైలిని తీర్చిదిద్దారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#IndianArchitecture",
+      "#MaduraiNayaks"
+    ],
+    "image": "data/images/e191ff28.jpg",
+    "source_title": "Madurai Nayak dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Madurai_Nayak_dynasty",
+    "facts_used": [
+      "The Madurai Nayaks were a Telugu-speaking dynasty who ruled between the 16th and 18th centuries with Madurai as their capital.",
+      "The dynasty was founded by Viswanatha Nayak around 1529.",
+      "Their rule was characterised by temple reconstruction.",
+      "They developed distinct architectural forms such as large pillared mandapas and palace complexes."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:09:07+00:00"
+  },
+  {
+    "id": "2dfddb7a",
+    "topic": "Taxila",
+    "format": "history_heritage",
+    "text": "ప్రాచీన తక్షశిల వైభవం\nగాంధార నాగరికత రాజధానులలో ఒకటైన తక్షశిల, క్రీస్తుపూర్వం 1000 నాటికే వెలసిన అత్యంత ప్రాచీన నగరం.\nపాణిని రచనలలో ప్రస్తావించబడిన ఈ నగరం, దక్షిణాసియాలోని తొలి విద్యా కేంద్రాలలో ఒకటిగా పేరుగాంచింది.\nబౌద్ధ గ్రంథాల ప్రకారం, మౌర్య అశోకుడు చక్రవర్తి కాకముందు ఇక్కడ గవర్నర్‌గా బాధ్యతలు నిర్వర్తించారు.",
+    "hashtags": [
+      "#AncientIndia",
+      "#Taxila",
+      "#IndianHistory",
+      "#HistoryHeritage"
+    ],
+    "image": "data/images/2dfddb7a.jpg",
+    "source_title": "Taxila",
+    "source_url": "https://en.wikipedia.org/wiki/Taxila",
+    "facts_used": [
+      "Taxila was founded around c. 1000 BC and is one of the oldest cities in South Asia.",
+      "Ancient Taxila was one of the capitals of the Gandhara civilisation.",
+      "Taxila is named in the writings of Panini.",
+      "Some scholars consider ancient Taxila to be one of the earliest universities or education centres in South Asia.",
+      "As per Buddhist texts, Ashoka was the governor at Taxila before becoming king."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:09:51+00:00"
+  },
+  {
+    "id": "47601bcc",
+    "topic": "అందని ద్రాక్ష పుల్లన",
+    "format": "saametha",
+    "text": "\"అందని ద్రాక్ష పుల్లన\"\nఅందని ద్రాక్షపండ్లు పుల్లనని అనుకోవడం అంటే, తమకు దక్కని దానిని చులకన చేయడమే.\nసాధించలేకపోయిన వాటిని తక్కువ చేసి మాట్లాడకుండా, మనతో మనం నిజాయితీగా ఉండాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/47601bcc.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The grapes that are out of reach are sour.",
+      "People run down what they cannot have.",
+      "Be honest with yourself and avoid belittling what you could not achieve."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:10:03+00:00"
+  },
+  {
+    "id": "f9daa514",
+    "topic": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు",
+    "format": "saametha",
+    "text": "\"ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు\"\nఇల్లు నిర్మించడం, పెళ్లి జరిపించడం వంటి పనుల్లోని అసలైన కష్టం స్వయంగా చేస్తేనే తెలుస్తుంది.\nపెద్ద బాధ్యతల గురించి తీర్పు చెప్పేముందు, వాటి వెనుక ఉన్న శ్రమను గుర్తించి గౌరవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/f9daa514.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Build a house and see; arrange a wedding and see.",
+      "Some tasks show their true difficulty only when you do them yourself.",
+      "Respect the effort behind big undertakings before judging them."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:11:56+00:00"
+  },
+  {
+    "id": "61877c3f",
+    "topic": "ఏరు దాటాక తెప్ప తగలేసినట్లు",
+    "format": "saametha",
+    "text": "ఏరు దాటాక తెప్ప తగలేసినట్లు\nనదిని దాటిన తర్వాత మనల్ని ఒడ్డుకు చేర్చిన తెప్పను తగలబెట్టడం లాంటిది.\nఅవసరం తీరిపోగానే సహాయాన్ని మరచిపోకూడదు.\nమనకు సహాయం చేసిన వారిని ఎల్లప్పుడూ గుర్తుంచుకుని గౌరవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/61877c3f.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Proverb: ఏరు దాటాక తెప్ప తగలేసినట్లు",
+      "Meaning: Burning the raft after crossing the river; forgetting or discarding the help that got you across once the need is over.",
+      "Lesson: Remember and respect those who helped you."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it must match the proverb exactly.",
+        "Line 3 phrasing is a bit awkward; simplify while keeping the original meaning."
+      ],
+      "final_text": "ఏరు దాటాక తెప్ప తగలేసినట్లు\nనదిని దాటిన తర్వాత మనల్ని ఒడ్డుకు చేర్చిన తెప్పను తగలబెట్టడం లాంటిది.\nఅవసరం తీరిపోగానే సహాయాన్ని మరచిపోకూడదు.\nమనకు సహాయం చేసిన వారిని ఎల్లప్పుడూ గుర్తుంచుకుని గౌరవించాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:12:14+00:00"
+  },
+  {
+    "id": "d51fed56",
+    "mode": "hacks",
+    "topic": "Google Maps offline maps",
+    "format": "hack",
+    "text": "Offline driving routes will not show alternate routes or live traffic info.\nTransit, bicycling, and walking directions are unavailable while offline.\nGoogle Maps tries to automatically update downloaded maps on Wi-Fi when they expire in 15 days or less.\n\nComment \"HACK\" if you're trying this today.\nOfficial steps: https://support.google.com/maps/answer/6291838",
+    "slides": {
+      "hook": "How to use **Google Maps** without an active internet connection.",
+      "problem": "You can navigate if the entire route is within the **offline map**.",
+      "step1": "Stay signed in online, tap your **profile picture**, then **Offline maps**.",
+      "step2": "Tap **Select your own map**, adjust the area, and tap **Download**.",
+      "cta": "**Save** this post and **share** it with a friend who travels."
+    },
+    "hashtags": [
+      "#GoogleMaps",
+      "#TravelHacks",
+      "#OfflineMaps",
+      "#AndroidTips",
+      "#TechTricks",
+      "#TravelTips"
+    ],
+    "image": "data/images/d51fed56_1.jpg",
+    "images": [
+      "data/images/d51fed56_1.jpg",
+      "data/images/d51fed56_2.jpg",
+      "data/images/d51fed56_3.jpg",
+      "data/images/d51fed56_4.jpg",
+      "data/images/d51fed56_5.jpg"
+    ],
+    "source_title": "Google Maps offline maps",
+    "source_url": "https://support.google.com/maps/answer/6291838",
+    "facts_used": [
+      "To download an offline map you must be connected to the internet and signed in.",
+      "Tap your profile picture or initial, then Offline maps, then Select your own map, adjust the area, and tap Download.",
+      "Offline maps can guide you as long as the entire route is within the offline map.",
+      "Transit, bicycling, and walking directions are unavailable offline.",
+      "Offline driving has no traffic info or alternate routes.",
+      "Google Maps tries to update offline maps automatically when they expire in 15 days or less and you are on Wi-Fi."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": []
+    },
+    "status": "pending",
+    "created_at": "2026-10-21T05:12:38+00:00"
   }
 ]
