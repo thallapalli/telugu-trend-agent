@@ -3017,5 +3017,162 @@
     },
     "status": "pending",
     "created_at": "2026-10-21T05:12:38+00:00"
+  },
+  {
+    "id": "88cdb10a",
+    "topic": "Vijayanagara Empire",
+    "format": "history_heritage",
+    "text": "విజయనగర సామ్రాజ్య సాంస్కృతిక వైభవం\nదక్షిణ మరియు మధ్య భారతదేశ ఆలయ నిర్మాణ సంప్రదాయాలను ఈ సామ్రాజ్యం మేళవించింది.\nవీరి ఆదరణతో తెలుగు, కన్నడ, తమిళ, సంస్కృత భాషల్లో సాహిత్యం మరియు లలిత కళలు విశేషంగా వర్ధిల్లాయి.\nకర్ణాటక సంగీతం ప్రస్తుత రూపాన్ని సంతరించుకోగా, ఖగోళం, గణితం, వైద్యం, నాటక రంగాలు ప్రాచుర్యం పొందాయి.",
+    "hashtags": [
+      "#VijayanagaraEmpire",
+      "#TeluguHeritage",
+      "#IndianHistory",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/88cdb10a.jpg",
+    "source_title": "Vijayanagara Empire",
+    "source_url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+    "facts_used": [
+      "Different temple building traditions in South and Central India were merged into the Vijayanagara architectural style.",
+      "The empire's patronage enabled fine arts and literature to reach new heights in Kannada, Telugu, Tamil, and Sanskrit.",
+      "The classical music of Southern India, Carnatic music, evolved into its current form, while astronomy, mathematics, medicine, and theater gained popularity."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-22T05:20:08+00:00"
+  },
+  {
+    "id": "bf6f7ff7",
+    "topic": "Satavahana dynasty",
+    "format": "history_heritage",
+    "text": "శాతవాహనుల సాంస్కృతిక, వాణిజ్య వైభవం\nప్రతిష్ఠానపురం, అమరావతిలను రాజధానులుగా చేసుకుని పాలించిన శాతవాహనులు, తమ పాలకుల చిత్రాలతో నాణేలను ముద్రించారు.\nగంగా మైదానం నుండి దక్షిణాది వరకు వాణిజ్యం, సంస్కృతి మరియు ఆలోచనల మార్పిడిలో వీరు విశిష్టమైన వారధిగా నిలిచారు.\nదక్కన్ ప్రాంతంలో శాంతిని నెలకొల్పి విదేశీ దండయాత్రలను నిలువరించిన ఈ వంశం, గౌతమీపుత్ర శాతకర్ణి పాలనలో అత్యున్నత స్థాయికి చేరింది.",
+    "hashtags": [
+      "#Satavahanas",
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianHistory"
+    ],
+    "image": "data/images/bf6f7ff7.jpg",
+    "source_title": "Satavahana dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
+    "facts_used": [
+      "The Satavahana dynasty had different capital cities including Pratishthana and Amaravati.",
+      "The Satavahanas were early issuers of Indian state coinage struck with images of their rulers.",
+      "They formed a cultural bridge and played a vital role in trade and the transfer of ideas and culture to and from the Indo-Gangetic Plain to the southern tip of India.",
+      "The Satavahanas established peace in the Deccan region, resisted foreign invaders, and reached their zenith under Gautamiputra Satakarni."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-22T05:21:36+00:00"
+  },
+  {
+    "id": "65e75d84",
+    "topic": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు",
+    "format": "saametha",
+    "text": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు\nఇల్లు లోని దొంగను దేవుడు కూడా పట్టలేనట్టుగా, పరిచయ వలయాల్లో హాని నివారించడం కష్టమని సూచిస్తుంది.\nనమ్మకాన్ని ఇవ్వడానికి, ఎవరు ఏ విషయానికి ప్రవేశం కలిగిస్తారు అనేది జాగ్రత్తగా ఎంపిక చేసుకోవాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/65e75d84.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Even God cannot catch the thief inside the house.",
+      "It is very hard to guard against harm from someone within one's own circle.",
+      "Be careful whom you trust with access to what matters."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it should match the proverb exactly."
+      ],
+      "final_text": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు\nఇల్లు లోని దొంగను దేవుడు కూడా పట్టలేనట్టుగా, పరిచయ వలయాల్లో హాని నివారించడం కష్టమని సూచిస్తుంది.\nనమ్మకాన్ని ఇవ్వడానికి, ఎవరు ఏ విషయానికి ప్రవేశం కలిగిస్తారు అనేది జాగ్రత్తగా ఎంపిక చేసుకోవాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-22T05:21:59+00:00"
+  },
+  {
+    "id": "fdc8be35",
+    "topic": "మొక్కై వంగనిది మానై వంగునా",
+    "format": "saametha",
+    "text": "\"మొక్కై వంగనిది మానై వంగునా\"\nవృక్షం చిన్నపుడే వంగకపోతే, పెద్దవిగా వంగదు; ఇది చిన్ననాటి అలవాట్లు, విలువలు బలంగా నిలుస్తాయని సూచిస్తుంది.\nమంచి అలవాట్లు, నైతిక విలువలను చిన్నవయసులోనే నేర్పడం సులభం.\nఅందుకే మనం, పిల్లలలోనే సక్రమ జీవన శైలి, శిష్టాచారం వృద్ధి చేయాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#GoodHabits",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/fdc8be35.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "What does not bend as a sapling will not bend as a tree.",
+      "Good habits and values are easiest to teach when young.",
+      "Build good habits early, in yourself and in children."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-22T05:22:57+00:00"
+  },
+  {
+    "id": "652f2349",
+    "topic": "గోరంత దీపం కొండంత వెలుగు",
+    "format": "saametha",
+    "text": "\"గోరంత దీపం కొండంత వెలుగు\"\nచిన్న దీపం కూడా పర్వతంలా ప్రకాశిస్తుంది, చిన్న సహాయం పెద్ద మార్పు తెస్తుంది.\nచిన్న దయా చర్యను కూడా తక్కువగా భావించకండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#Kindness",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/652f2349.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "A tiny lamp gives a mountain of light.",
+      "A small help or good deed can make a great difference.",
+      "Never think a small act of kindness is too small to matter."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-22T05:23:33+00:00"
   }
 ]
