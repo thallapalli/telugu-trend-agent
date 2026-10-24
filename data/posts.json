@@ -3393,5 +3393,310 @@
     },
     "status": "pending",
     "created_at": "2026-10-23T05:28:58+00:00"
+  },
+  {
+    "id": "55f8e895",
+    "topic": "Musunuri Nayaks",
+    "format": "history_heritage",
+    "text": "ముసునూరి నాయకులు: ఓరుగల్లు పునరుద్ధరణ\n14వ శతాబ్దంలో కాకతీయుల వారసత్వంతో ఆంధ్ర నాయకులను ఏకం చేసిన యోధులు ముసునూరి పాలకులు.\nక్రీ.శ. 1336లో కాపయ నాయకుడు 75 మంది నాయకుల సహకారంతో ఢిల్లీ సుల్తానేట్ పాలకులను ఓరుగల్లు నుండి తరిమికొట్టారు.\nతెలుగు నేలలో అల్లకల్లోలాన్ని తొలగించి, ధర్మాన్ని తిరిగి నిలబెట్టిన ఘనమైన చరిత్ర వీరిది.",
+    "hashtags": [
+      "#TeluguHistory",
+      "#MusunuriNayaks",
+      "#TeluguHeritage",
+      "#WarangalHistory"
+    ],
+    "image": "data/images/55f8e895.jpg",
+    "source_title": "Musunuri Nayakas",
+    "source_url": "https://en.wikipedia.org/wiki/Musunuri_Nayakas",
+    "facts_used": [
+      "Musunuri Nayakas were 14th-century Telugu warrior kings who claimed heritage from the Kakatiyas.",
+      "Musunuri Kapaya Nayaka united Andhra chieftains and was assisted by 75 Nayakas.",
+      "Kapaya Nayaka drove the Tughluq / Delhi Sultanate rule out of Warangal in 1336.",
+      "The rulers sought to restore order from devastation in the Telugu country and protect dharma."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-24T04:59:29+00:00"
+  },
+  {
+    "id": "846e93e0",
+    "topic": "Alampur Navabrahma Temples",
+    "format": "ancient_secrets",
+    "text": "ఆలంపూర్ నవబ్రహ్మ దేవాలయాలు\nతుంగభద్ర తీరంలో బాదామి చాళుక్యులు 7వ శతాబ్దం నుండి నిర్మించిన తొమ్మిది ఆలయాల సముదాయం ఇది.\nశివునికి అంకితమైన ఈ ఆలయాలు తొలి నాగర శైలి రాతి నిర్మాణ రీతికి అద్దం పడతాయి.\nఇక్కడ శైవ, వైష్ణవ, శాక్త సాంప్రదాయాల శిల్పాలతో పాటు పంచతంత్ర కథల చిత్రణలు కొలువుదీరాయి.",
+    "hashtags": [
+      "#AlampurTemples",
+      "#BadamiChalukya",
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/846e93e0.jpg",
+    "source_title": "Alampur Navabrahma Temples",
+    "source_url": "https://en.wikipedia.org/wiki/Alampur_Navabrahma_Temples",
+    "facts_used": [
+      "Alampur Navabrahma Temples are a group of nine temples built by the Badami Chalukyas close to the Tungabhadra river, dating from the 7th century.",
+      "Though called Nava-Brahma temples, they are dedicated to Shiva and exemplify early Nagara style architecture with cut rock.",
+      "The temples feature intricate carvings of themes of Shaivism, Vaishnavism, Shaktism, and friezes narrating Panchatantra fables."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-24T05:01:49+00:00"
+  },
+  {
+    "id": "d0de60a4",
+    "topic": "Chola Dynasty",
+    "format": "history_heritage",
+    "text": "చోళ సామ్రాజ్యం: ప్రాచీన సముద్ర సామ్రాజ్య వైభవం\nకావేరీ నదీ లోయను కేంద్రంగా చేసుకుని ఎదిగిన చోళులు విస్తారమైన నావికా సామ్రాజ్యాన్ని పాలించారు.\nరాజరాజ I, రాజేంద్ర I వంటి పాలకుల ఆధ్వర్యంలో దక్షిణ మరియు ఆగ్నేయాసియాలో బలమైన సైనిక, ఆర్థిక శక్తిగా నిలిచారు.\nక్రీ.శ. 907 నుండి 1215 మధ్య తుంగభద్రకు దక్షిణాన ఉన్న భారత ద్వీపకల్పాన్ని ఒకే రాజ్యంగా ఏకం చేశారు.",
+    "hashtags": [
+      "#CholaDynasty",
+      "#IndianHistory",
+      "#AncientIndia",
+      "#MaritimeHistory"
+    ],
+    "image": "data/images/d0de60a4.jpg",
+    "source_title": "Chola dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Chola_dynasty",
+    "facts_used": [
+      "The Chola empire was an expansive maritime empire originating from Southern India.",
+      "The heartland of the Cholas was the fertile valley of the Kaveri River.",
+      "Under Rajaraja I and his successors such as Rajendra I, the empire became a military, economic and cultural powerhouse in South Asia and Southeast Asia.",
+      "They unified peninsular India south of the Tungabhadra River and held the territory as one state between 907 and 1215 CE."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-24T05:04:41+00:00"
+  },
+  {
+    "id": "70bda302",
+    "topic": "Kallanai Dam",
+    "format": "ancient_secrets",
+    "text": "కల్లణై: ప్రాచీన ఇంజనీరింగ్ అద్భుతం\nక్రీ.శ. 100–150 కాలంలో చోళ రాజు కరికాలుడు కావేరి నదిపై చెక్కని రాళ్లతో ఈ ఆనకట్టను నిర్మించారు.\nఇది భారతదేశంలో నేటికీ వినియోగంలో ఉన్న అత్యంత పురాతనమైన, ప్రపంచంలో నాల్గవ ప్రాచీన నీటి మళ్లింపు నిర్మాణం.\nవ్యవసాయానికి నీటిని మళ్లించడానికి ప్రవహించే నదిపై నిర్మితమైన ఈ కట్టడం, సర్ ఆర్థర్ కాటన్ వంటి ఇంజనీర్లకు కూడా ఆదర్శ నమూనాగా నిలిచింది.",
+    "hashtags": [
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#KallanaiDam",
+      "#IndianHistory"
+    ],
+    "image": "data/images/70bda302.jpg",
+    "source_title": "Kallanai Dam",
+    "source_url": "https://en.wikipedia.org/wiki/Kallanai_Dam",
+    "facts_used": [
+      "Kallanai was built by King Karikalan of the Chola Dynasty in c. 100 – c. 150 CE across the Kaveri river using unhewn stone.",
+      "It is the fourth oldest water-diversion structure in the world and the oldest in India that is still in use.",
+      "The purpose of the dam was to divert water across the delta region for irrigation.",
+      "It was built in running water and supplied a model to later engineers, including Sir Arthur Cotton."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-24T05:06:52+00:00"
+  },
+  {
+    "id": "253c1b5f",
+    "topic": "Vishnukundina Dynasty",
+    "format": "history_heritage",
+    "text": "విష్ణుకుండిన సామ్రాజ్యం\nక్రీస్తుశకం 5 నుండి 7వ శతాబ్దాల మధ్య ఆంధ్రప్రదేశ్, తెలంగాణ, మహారాష్ట్ర, ఒడిశా ప్రాంతాలను పాలించిన ప్రముఖ రాజవంశం.\nమాధవ వర్మ పాలనలో స్వతంత్ర రాజ్యంగా ఆవిర్భవించి, దెందులూరు మరియు అమరావతి కేంద్రాలుగా దక్కన్ చరిత్రను తీర్చిదిద్దారు.\nరెండవ మాధవ వర్మ కాలంలో అత్యున్నత ప్రాదేశిక విస్తరణతో ఈ సామ్రాజ్యం స్వర్ణయుగాన్ని చూసింది.",
+    "hashtags": [
+      "#Vishnukundina",
+      "#TeluguHistory",
+      "#AncientIndia",
+      "#IndianHeritage"
+    ],
+    "image": "data/images/253c1b5f.jpg",
+    "source_title": "Vishnukundina dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Vishnukundina_dynasty",
+    "facts_used": [
+      "The Vishnukundina dynasty ruled over parts of present-day Andhra Pradesh, Telangana, Maharashtra, and Odisha between the 5th and 7th centuries.",
+      "During the reign of Madhava Varma, they emerged as an independent power, shaped Deccan history, and ruled with capitals including Denduluru and Amaravathi.",
+      "Madhava Varma II was the most powerful ruler whose reign was the dynasty's golden age and reached its greatest territorial extent."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-24T05:08:03+00:00"
+  },
+  {
+    "id": "31bad6f4",
+    "topic": "Kailasa Temple at Ellora",
+    "format": "ancient_secrets",
+    "text": "ఎల్లోరా కైలాస దేవాలయం: అద్భుత ఏకశిలా నిర్మాణం\nఎల్లోరాలోని ఒకే రాతిని తొలిచి మలిచిన అత్యంత విశాలమైన ఏకశిలా హిందూ దేవాలయం ఇది.\nఎనిమిదవ శతాబ్దపు రాష్ట్రకూట రాజు మొదటి కృష్ణుడు నిర్మించినట్లు చెప్పబడే ఈ ఆలయంలో పల్లవ, చాళుక్య శిల్ప శైలులు కనిపిస్తాయి.\nఆలయ ప్రాంగణం నుండి 32.6 మీటర్ల ఎత్తుతో నిలిచే ఈ క్షేత్రం, భారతీయ రాతి శిల్పకళా వైభవానికి పరాకాష్ఠగా నిలుస్తుంది.",
+    "hashtags": [
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#KailasaTemple",
+      "#IndianHistory"
+    ],
+    "image": "data/images/31bad6f4.jpg",
+    "source_title": "Kailasa Temple, Ellora",
+    "source_url": "https://en.wikipedia.org/wiki/Kailasa_Temple,_Ellora",
+    "facts_used": [
+      "Kailasa temple is the largest of the rock-cut Hindu temples at Ellora Caves, sculpted from a single rock.",
+      "Excavation of the temple is generally attributed to the eighth century Rashtrakuta king Krishna I.",
+      "The temple architecture shows traces of Pallava and Chalukya styles.",
+      "The top of the structure over the sanctuary is 32.6 metres above the level of the court below and is called the climax of the rock-cut phase of Indian architecture."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "'మొదటి కృష్ణ' కంటే 'మొదటి కృష్ణుడు' అని రాయడం సరైన శిష్ట వ్యాకరణ రూపం."
+      ],
+      "final_text": "ఎల్లోరా కైలాస దేవాలయం: అద్భుత ఏకశిలా నిర్మాణం\nఎల్లోరాలోని ఒకే రాతిని తొలిచి మలిచిన అత్యంత విశాలమైన ఏకశిలా హిందూ దేవాలయం ఇది.\nఎనిమిదవ శతాబ్దపు రాష్ట్రకూట రాజు మొదటి కృష్ణుడు నిర్మించినట్లు చెప్పబడే ఈ ఆలయంలో పల్లవ, చాళుక్య శిల్ప శైలులు కనిపిస్తాయి.\nఆలయ ప్రాంగణం నుండి 32.6 మీటర్ల ఎత్తుతో నిలిచే ఈ క్షేత్రం, భారతీయ రాతి శిల్పకళా వైభవానికి పరాకాష్ఠగా నిలుస్తుంది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-24T05:08:42+00:00"
+  },
+  {
+    "id": "5f47d4d4",
+    "topic": "కొండను తవ్వి ఎలుకను పట్టినట్లు",
+    "format": "saametha",
+    "text": "\"కొండను తవ్వి ఎలుకను పట్టినట్లు\"\nఎలుకను పట్టేందుకు కొండను తవ్వినట్లు, విపరీతమైన శ్రమకు అతి స్వల్ప ఫలితం ఇది సూచిస్తుంది.\nఏదైనా పని ప్రారంభించే ముందే సరైన ప్రణాళికను రూపొందించుకోవాలి.\nలక్ష్యానికి తగినట్లుగా శ్రమను సమతుల్యం చేయాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#TeluguWisdom"
+    ],
+    "image": "data/images/5f47d4d4.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The proverb is 'కొండను తవ్వి ఎలుకను పట్టినట్లు'.",
+      "The meaning is digging up a mountain to catch a mouse, or a huge effort that gives a tiny result.",
+      "The lesson is to plan before starting.",
+      "The lesson is to match the effort to the goal."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor typographical error and wording refined for dignified tone."
+      ],
+      "final_text": "\"కొండను తవ్వి ఎలుకను పట్టినట్లు\"\nఎలుకను పట్టేందుకు కొండను తవ్వినట్లు, విపరీతమైన శ్రమకు అతి స్వల్ప ఫలితం ఇది సూచిస్తుంది.\nఏదైనా పని ప్రారంభించే ముందే సరైన ప్రణాళికను రూపొందించుకోవాలి.\nలక్ష్యానికి తగినట్లుగా శ్రమను సమతుల్యం చేయాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-24T05:09:59+00:00"
+  },
+  {
+    "id": "a3fecc5d",
+    "topic": "పిట్ట కొంచెం కూత ఘనం",
+    "format": "saametha",
+    "text": "పిట్ట కొంచెం కూత ఘనం\nచిన్న పిట్ట అయినప్పటికీ దాని కూత ఘనంగా వినిపిస్తుంది; చిన్న వ్యక్తి కూడా గొప్ప సామర్థ్యం లేదా ఉనికిని కలిగి ఉండవచ్చు.\nఅందువల్ల పరిమాణం లేదా వయస్సు ఆధారంగా సామర్థ్యాన్ని అంచనా వేయకూడదు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/a3fecc5d.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The bird is small but its call is mighty.",
+      "A small person can have great ability or presence.",
+      "Do not judge ability by size or age."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it must match the proverb exactly as in the source."
+      ],
+      "final_text": "పిట్ట కొంచెం కూత ఘనం\nచిన్న పిట్ట అయినప్పటికీ దాని కూత ఘనంగా వినిపిస్తుంది; చిన్న వ్యక్తి కూడా గొప్ప సామర్థ్యం లేదా ఉనికిని కలిగి ఉండవచ్చు.\nఅందువల్ల పరిమాణం లేదా వయస్సు ఆధారంగా సామర్థ్యాన్ని అంచనా వేయకూడదు."
+    },
+    "status": "pending",
+    "created_at": "2026-10-24T05:10:46+00:00"
+  },
+  {
+    "id": "b6377d93",
+    "mode": "hacks",
+    "topic": "iPhone Back Tap",
+    "format": "hack",
+    "text": "Turn your iPhone into a tap‑activated remote.\nWorks on iPhone 8+ with iOS 14+. Choose Double or Triple Tap for Control Center, screenshots, or shortcuts.\nComment \"HACK\" if you're trying this today.\nOfficial steps: https://support.apple.com/111772",
+    "slides": {
+      "hook": "Secret **Back Tap** shortcut you’ve been missing",
+      "problem": "Access Control Center or screenshots without pressing buttons",
+      "step1": "Go Settings > Accessibility > Touch, tap **Back Tap**",
+      "step2": "Choose Double Tap or Triple Tap, set action like **Control Center**",
+      "cta": "Save this, share with a friend who needs faster shortcuts"
+    },
+    "hashtags": [
+      "#iPhoneTips",
+      "#BackTap",
+      "#iOS14",
+      "#iPhoneHacks",
+      "#TechTips"
+    ],
+    "image": "data/images/b6377d93_1.jpg",
+    "images": [
+      "data/images/b6377d93_1.jpg",
+      "data/images/b6377d93_2.jpg",
+      "data/images/b6377d93_3.jpg",
+      "data/images/b6377d93_4.jpg",
+      "data/images/b6377d93_5.jpg"
+    ],
+    "source_title": "iPhone Back Tap",
+    "source_url": "https://support.apple.com/111772",
+    "facts_used": [
+      "Back Tap works on iPhone 8 or later with iOS 14 or later.",
+      "Go to Settings > Accessibility > Touch, and tap Back Tap.",
+      "Tap Double Tap or Triple Tap and choose an action.",
+      "Apple's examples of what a tap can do: open Control Center, take a screenshot, trigger accessibility actions, or launch an Accessibility Shortcut."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": []
+    },
+    "status": "pending",
+    "created_at": "2026-10-24T05:11:10+00:00"
   }
 ]
