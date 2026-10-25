@@ -3698,5 +3698,103 @@
     },
     "status": "pending",
     "created_at": "2026-10-24T05:11:10+00:00"
+  },
+  {
+    "id": "077ba423",
+    "topic": "Srikalahasti Temple",
+    "format": "ancient_secrets",
+    "text": "శ్రీకాళహస్తి ఆలయం: వాయులింగ అద్భుత శిల్పం\nపంచభూత క్షేత్రాలలో ఒకటైన ఈ ఆలయంలో పరమశివుడు వాయులింగ రూపంలో పూజలందుకుంటున్నాడు.\nఇక్కడి పవిత్ర లింగం ఏనుగు తొండం ఆకారంలో తెల్లని శిలతో రూపొందింది.\nఈ లింగంపై అయిదు పాము పడగలు, ఏనుగు దంతాలు, సాలెపురుగు చెక్కడాలు కొలువై ఉన్నాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#IndianArchitecture",
+      "#AncientIndia",
+      "#Srikalahasti"
+    ],
+    "image": "data/images/077ba423.jpg",
+    "source_title": "Srikalahasteeswara temple",
+    "source_url": "https://en.wikipedia.org/wiki/Srikalahasteeswara_temple",
+    "facts_used": [
+      "Srikalahasti temple is revered as one of the Pancha Bhuta Sthalams where Shiva is worshipped as the Vayu Lingam.",
+      "The presiding Linga is made of white stone in a tall cylindrical shape resembling an elephant trunk.",
+      "The stone has carvings representing the five hoods of a snake, the tusks of an elephant, and a spider."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-25T05:07:48+00:00"
+  },
+  {
+    "id": "f9501d73",
+    "topic": "Nagarjunakonda",
+    "format": "history_heritage",
+    "text": "నాగార్జునకొండ: అంతర్జాతీయ బౌద్ధ విజ్ఞాన కేంద్రం\nఇక్ష్వాకుల రాజధాని 'విజయపురి'గా విలసిల్లిన నాగార్జునకొండ, ప్రాచీన కాలంలో ఒక ప్రసిద్ధ బౌద్ధ విశ్వవిద్యాలయ కేంద్రం.\nముప్పైకి పైగా బౌద్ధ విహారాలు వెలసిన ఈ నేల, చైనా, గాంధార, బెంగాల్ మరియు శ్రీలంకల నుండి విద్యార్థులను ఆకర్షించింది.\nరెండవ శతాబ్దపు మహాయాన బౌద్ధ ఆచార్యుడు నాగార్జునుని పేరిట నిలిచిన ఈ చారిత్రక క్షేత్రం, మన ప్రాచీన విద్యా వైభవానికి ప్రతీక.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Nagarjunakonda",
+      "#AncientIndia",
+      "#TeluguHistory",
+      "#IndianHeritage"
+    ],
+    "image": "data/images/f9501d73.jpg",
+    "source_title": "Nagarjunakonda",
+    "source_url": "https://en.wikipedia.org/wiki/Nagarjunakonda",
+    "facts_used": [
+      "The site was once the location of a large Buddhist monastic university complex, attracting students from as far as China, Gandhara, Bengal and Sri Lanka.",
+      "The original name was Vijayapuri, established as capital by the Ikshvaku dynasty.",
+      "During the early centuries, the site housed more than 30 Buddhist viharas.",
+      "The modern name is after Nagarjuna, a southern Indian master of Mahayana Buddhism who lived in the 2nd century."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-25T05:09:49+00:00"
+  },
+  {
+    "id": "5b0b27a4",
+    "topic": "Pallava dynasty",
+    "format": "history_heritage",
+    "text": "పల్లవ సామ్రాజ్య వైభవం\nశాతవాహనుల సామంతులుగా మొదలై, కాంచీపురం రాజధానిగా, దక్షిణ తెలుగు మరియు ఉత్తర తమిళ ప్రాంతాలను ఆరు శతాబ్దాల పాటు పాలించారు.\nమామలాపురంలో యునెస్కో గుర్తింపు పొందిన తీర దేవాలయాన్ని నిర్మించి, మధ్యయుగ దక్షిణ భారత వాస్తుశిల్పానికి వీరు పునాది వేశారు.\nవీరు అభివృద్ధి చేసిన పల్లవ లిపి నుంచే తమిళ, గ్రంథ మరియు ఆగ్నేయాసియాలోని ఖ్మేర్ లిపులు ఉద్భవించాయి.",
+    "hashtags": [
+      "#PallavaDynasty",
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianHistory"
+    ],
+    "image": "data/images/5b0b27a4.jpg",
+    "source_title": "Pallava dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Pallava_dynasty",
+    "facts_used": [
+      "The Pallavas originally served as feudatories to the Satavahana Empire and established Kanchipuram as their capital.",
+      "They dominated the southern Telugu region and northern Tamil region for about six centuries.",
+      "They built the Shore Temple at Mamallapuram, a UNESCO World Heritage Site, and laid the foundations of medieval southern Indian architecture.",
+      "They developed the Pallava script, from which Tamil, Grantha, and Southeast Asian scripts such as Khmer took form."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor spelling typo corrected (మామలాపురంలో) and punctuation improved."
+      ],
+      "final_text": "పల్లవ సామ్రాజ్య వైభవం\nశాతవాహనుల సామంతులుగా మొదలై, కాంచీపురం రాజధానిగా, దక్షిణ తెలుగు మరియు ఉత్తర తమిళ ప్రాంతాలను ఆరు శతాబ్దాల పాటు పాలించారు.\nమామలాపురంలో యునెస్కో గుర్తింపు పొందిన తీర దేవాలయాన్ని నిర్మించి, మధ్యయుగ దక్షిణ భారత వాస్తుశిల్పానికి వీరు పునాది వేశారు.\nవీరు అభివృద్ధి చేసిన పల్లవ లిపి నుంచే తమిళ, గ్రంథ మరియు ఆగ్నేయాసియాలోని ఖ్మేర్ లిపులు ఉద్భవించాయి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-25T05:17:51+00:00"
   }
 ]
