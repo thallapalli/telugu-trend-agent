@@ -3796,5 +3796,40 @@
     },
     "status": "pending",
     "created_at": "2026-10-25T05:17:51+00:00"
+  },
+  {
+    "id": "1e17ac20",
+    "topic": "Kakatiya dynasty",
+    "format": "history_heritage",
+    "text": "కాకతీయులు: మహా ఆలయాలు, సుసంపన్న సంస్కృతి\n12వ‑14వ శతాబ్దాలలో తూర్పు డెక్కన్‌లో రాజ్యం స్థాపించి, ఒరుగల్లును (వారంగల్) రాజధానిగా చేసుకున్నారు.\nవందల పిళ్ళ ఆలయం, రామప్పా దేవాలయం వంటి శిల్ప మహత్తులను నిర్మించి, నీటి ట్యాంకుల ద్వారా వ్యవసాయాన్ని బలపరిచారు.\nఉప్పటి‑తక్కువ ప్రాంతాల సంస్కృతిని ఏకీకరించి, సమానత్వ యోధులను రూపొందించారు; ఇది తెలుగు గుర్తింపును బలపరిచింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Kakatiya",
+      "#TeluguCulture",
+      "#AncientIndia"
+    ],
+    "image": "data/images/1e17ac20.jpg",
+    "source_title": "Kakatiya dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Kakatiya_dynasty",
+    "facts_used": [
+      "Kakatiya dynasty ruled most of eastern Deccan region between the 12th and 14th centuries.",
+      "Their capital was Orugallu, now known as Warangal.",
+      "They built notable temples such as the Thousand Pillar Temple and Ramappa Temple.",
+      "They introduced construction of irrigation tanks that are still used today.",
+      "They unified upland and lowland Telugu cultures, fostering cultural affinity."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor grammatical and stylistic improvements needed for dignified cadence."
+      ],
+      "final_text": "కాకతీయులు: మహా ఆలయాలు, సుసంపన్న సంస్కృతి\n12వ‑14వ శతాబ్దాలలో తూర్పు డెక్కన్‌లో రాజ్యం స్థాపించి, ఒరుగల్లును (వారంగల్) రాజధానిగా చేసుకున్నారు.\nవందల పిళ్ళ ఆలయం, రామప్పా దేవాలయం వంటి శిల్ప మహత్తులను నిర్మించి, నీటి ట్యాంకుల ద్వారా వ్యవసాయాన్ని బలపరిచారు.\nఉప్పటి‑తక్కువ ప్రాంతాల సంస్కృతిని ఏకీకరించి, సమానత్వ యోధులను రూపొందించారు; ఇది తెలుగు గుర్తింపును బలపరిచింది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-26T05:24:41+00:00"
   }
 ]
