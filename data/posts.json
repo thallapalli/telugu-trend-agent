@@ -3831,5 +3831,37 @@
     },
     "status": "pending",
     "created_at": "2026-10-26T05:24:41+00:00"
+  },
+  {
+    "id": "2972ab79",
+    "topic": "Undavalli Caves",
+    "format": "ancient_secrets",
+    "text": "ఉండవల్లి గుహలు: ప్రాచీన గుహాలయ వాస్తు శిల్పం\n4-5వ శతాబ్దాలలో విష్ణుకుండినుల కాలంలో ఇసుకరాతి కొండను తొలిచి రూపొందించిన అద్భుతమైన నాలుగు అంతస్తుల ఏకశిలా నిర్మాణం ఇది.\nజైన, బౌద్ధ మరియు హిందూ సంప్రదాయాల ప్రభావంతో పాటు గుప్త శైలి రాతి శిల్ప కళను ఇవి ప్రదర్శిస్తాయి.\nరెండవ అంతస్తులో ఒకే గ్రానైట్ రాతితో చెక్కిన 5 మీటర్ల పొడవైన విష్ణుమూర్తి శయన భంగిమ శిల్పం ప్రత్యేక ఆకర్షణగా నిలుస్తుంది.",
+    "hashtags": [
+      "#UndavalliCaves",
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#TeluguHistory"
+    ],
+    "image": "data/images/2972ab79.jpg",
+    "source_title": "Undavalli Caves",
+    "source_url": "https://en.wikipedia.org/wiki/Undavalli_Caves",
+    "facts_used": [
+      "Undavalli Caves were carved out of solid sandstone hills in the 4th–5th centuries CE primarily during the Vishnukundina dynasty era.",
+      "The site is an impressive four-storey rock-cut temple showcasing Gupta style along with Jain, Buddhist, and Hindu influences.",
+      "The second floor houses a 5-meter long statue of Vishnu in a reclining posture sculpted from a single block of granite."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-29T06:19:16+00:00"
   }
 ]
