@@ -3961,5 +3961,200 @@
     },
     "status": "pending",
     "created_at": "2026-10-30T06:24:23+00:00"
+  },
+  {
+    "id": "9c2c1483",
+    "topic": "Vijayanagara Empire",
+    "format": "history_heritage",
+    "text": "విజయనగర సామ్రాజ్యం\n1336లో హరి‑బుక్క రాయలచే స్థాపించబడింది; 1509‑1529 కాలంలో కృష్ణదేవరాయ శిఖర విస్తీర్ణాన్ని సాధించాడు.\nరాజగోపురాలు, మండపాలు వంటి కళా‑వాస్తు శిల్పాలు, అలాగే కన్నడ, తెలుగు, తమిళ, సంస్కృత భాషలలో సాహిత్య వికాసాన్ని ప్రోత్సహించాయి.\nరాష్ట్రం నిర్మించిన కాలువలు, సరస్సులు వ్యవసాయ‑నగరాభివృద్ధిని బలపరిచాయి; కార్నాటిక్ సంగీతం ఈ కాలంలో శాస్త్రీయ రూపాన్ని పొందింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#IndianHistory",
+      "#Vijayanagara",
+      "#TeluguCulture",
+      "#AncientIndia"
+    ],
+    "image": "data/images/9c2c1483.jpg",
+    "source_title": "Vijayanagara Empire",
+    "source_url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+    "facts_used": [
+      "The Vijayanagara Empire was established in 1336 by the brothers Harihara I and Bukka Raya I of the Sangama dynasty.",
+      "At its territorial peak under Krishnadevaraya (r. 1509–1529), it held primacy across the peninsula.",
+      "Its architectural legacy includes tall gateway towers (rajagopurams) and pillared halls (mandapas).",
+      "Court patronage stimulated literary production in Kannada, Telugu, Tamil, and Sanskrit.",
+      "State-sponsored irrigation canals and reservoirs supported intense agriculture and urban growth.",
+      "Carnatic music developed into its classical structural framework during this era."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor spelling and phrasing improvements needed for dignified style (e.g., \"హరి‑బుక్క రాయలచే\", \"కృష్ణదేవరాయ\", \"రాష్ట్రం\" instead of \"సర్కార్\")."
+      ],
+      "final_text": "విజయనగర సామ్రాజ్యం\n1336లో హరి‑బుక్క రాయలచే స్థాపించబడింది; 1509‑1529 కాలంలో కృష్ణదేవరాయ శిఖర విస్తీర్ణాన్ని సాధించాడు.\nరాజగోపురాలు, మండపాలు వంటి కళా‑వాస్తు శిల్పాలు, అలాగే కన్నడ, తెలుగు, తమిళ, సంస్కృత భాషలలో సాహిత్య వికాసాన్ని ప్రోత్సహించాయి.\nరాష్ట్రం నిర్మించిన కాలువలు, సరస్సులు వ్యవసాయ‑నగరాభివృద్ధిని బలపరిచాయి; కార్నాటిక్ సంగీతం ఈ కాలంలో శాస్త్రీయ రూపాన్ని పొందింది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-31T06:13:08+00:00"
+  },
+  {
+    "id": "1098fc7a",
+    "topic": "Golconda Fort",
+    "format": "history_heritage",
+    "text": "గోల్కొండ కోట: దక్కన్ మహా దుర్గం\n11వ శతాబ్దంలో కాకతీయుల మట్టికోటగా ప్రారంభమై, 'గొల్లకొండ' అని పిలువబడిన ఈ కోటను కుతుబ్ షాహీలు విస్తరించారు.\nసుమారు 5 కిలోమీటర్ల చుట్టుకొలత కలిగిన ఘన గ్రానైట్ కోట, 7 కిలోమీటర్ల బాహ్య గోడతో అద్భుత సైనిక కేంద్రంగా నిలిచింది.\nప్రసిద్ధ కోహిన్‑నూర్, హోప్ వజ్రాలను భద్రపరిచిన భాండాగారంగా, అలాగే విలాసవంతమైన వజ్ర వాణిజ్య కేంద్రంగా ఈ కోట ప్రసిద్ధి పొందింది.",
+    "hashtags": [
+      "#GolcondaFort",
+      "#TeluguHeritage",
+      "#DeccanHistory",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/1098fc7a.jpg",
+    "source_title": "Golconda",
+    "source_url": "https://en.wikipedia.org/wiki/Golconda",
+    "facts_used": [
+      "Golconda fort was initially built by Kakatiyas in the 11th century out of mud walls and its name is thought to originate from the Telugu Gollakonda.",
+      "The Qutb Shahs expanded it into a massive fortification of granite extending around 5 km in circumference with a 7 km outer wall.",
+      "The fort had a vault where famous diamonds like Koh-i-Noor and Hope were stored and it flourished as a diamond trade centre."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "minor phrasing improvements for natural flow"
+      ],
+      "final_text": "గోల్కొండ కోట: దక్కన్ మహా దుర్గం\n11వ శతాబ్దంలో కాకతీయుల మట్టికోటగా ప్రారంభమై, 'గొల్లకొండ' అని పిలువబడిన ఈ కోటను కుతుబ్ షాహీలు విస్తరించారు.\nసుమారు 5 కిలోమీటర్ల చుట్టుకొలత కలిగిన ఘన గ్రానైట్ కోట, 7 కిలోమీటర్ల బాహ్య గోడతో అద్భుత సైనిక కేంద్రంగా నిలిచింది.\nప్రసిద్ధ కోహిన్‑నూర్, హోప్ వజ్రాలను భద్రపరిచిన భాండాగారంగా, అలాగే విలాసవంతమైన వజ్ర వాణిజ్య కేంద్రంగా ఈ కోట ప్రసిద్ధి పొందింది."
+    },
+    "status": "pending",
+    "created_at": "2026-10-31T06:19:27+00:00"
+  },
+  {
+    "id": "94500528",
+    "topic": "అందని ద్రాక్ష పుల్లన",
+    "format": "saametha",
+    "text": "\"అందని ద్రాక్ష పుల్లన\"\nదూరంలో ఉన్న ద్రాక్షలు పుల్లగా ఉంటాయి; మనకు అందని వాటిని మనం నిందించుకుంటాం.\nనిజాయితీతో స్వయాన్ని చూసి, సాధించలేనిదాన్ని తక్కువగా చెప్పకుండా ఉండాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/94500528.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The grapes that are out of reach are sour.",
+      "People run down what they cannot have.",
+      "Be honest with yourself and avoid belittling what you could not achieve."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Replace \"స్వయంను\" with the more natural \"స్వయాన్ని\" for smoother flow."
+      ],
+      "final_text": "\"అందని ద్రాక్ష పుల్లన\"\nదూరంలో ఉన్న ద్రాక్షలు పుల్లగా ఉంటాయి; మనకు అందని వాటిని మనం నిందించుకుంటాం.\nనిజాయితీతో స్వయాన్ని చూసి, సాధించలేనిదాన్ని తక్కువగా చెప్పకుండా ఉండాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-31T06:20:22+00:00"
+  },
+  {
+    "id": "42180413",
+    "topic": "గోరంత దీపం కొండంత వెలుగు",
+    "format": "saametha",
+    "text": "\"గోరంత దీపం కొండంత వెలుగు\"\nచిన్న దీపం కూడా కొండంత వెలుగును ప్రసరిస్తుంది; చిన్న సహాయం లేదా మంచి పని కూడా పెద్ద ప్రభావం చూపుతుంది.\nచిన్న దయా చర్యను కూడా తక్కువగా భావించరాదు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#Kindness",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/42180413.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "A tiny lamp gives a mountain of light.",
+      "A small help or good deed can make a great difference.",
+      "Never think a small act of kindness is too small to matter."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-10-31T06:22:26+00:00"
+  },
+  {
+    "id": "564ed70e",
+    "topic": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు",
+    "format": "saametha",
+    "text": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు\nఇంటి లోపల దొంగను దేవుడు కూడా పట్టలేనని, అంతర్గత హాని నిరోధం కష్టమని సూచిస్తుంది.\nవిశ్వాసాన్ని ఇచ్చే వ్యక్తి, ముఖ్యమైన విషయాలకు ప్రవేశాన్ని ఇవ్వడానికి జాగ్రత్తగా ఉండాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/564ed70e.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Even God cannot catch the thief inside the house.",
+      "Be careful whom you trust with access to what matters."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 includes quotation marks; it must match the proverb exactly as in the source."
+      ],
+      "final_text": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు\nఇంటి లోపల దొంగను దేవుడు కూడా పట్టలేనని, అంతర్గత హాని నిరోధం కష్టమని సూచిస్తుంది.\nవిశ్వాసాన్ని ఇచ్చే వ్యక్తి, ముఖ్యమైన విషయాలకు ప్రవేశాన్ని ఇవ్వడానికి జాగ్రత్తగా ఉండాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-31T06:23:30+00:00"
+  },
+  {
+    "id": "0a0c255b",
+    "topic": "ఏరు దాటాక తెప్ప తగలేసినట్లు",
+    "format": "saametha",
+    "text": "ఏరు దాటాక తెప్ప తగలేసినట్లు\nనది దాటిన తర్వాత తెప్పను దహనం చేయడం వంటి నిర్లక్ష్యం, సహాయం పొందిన తర్వాత దానిని మరచిపోవడం.\nసహాయాన్ని ఇచ్చిన వారిని గుర్తుంచుకొని గౌరవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/0a0c255b.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Burning the raft after crossing the river",
+      "Remember and respect those who helped you"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Proverb line includes extra quotation marks; should match source exactly"
+      ],
+      "final_text": "ఏరు దాటాక తెప్ప తగలేసినట్లు\nనది దాటిన తర్వాత తెప్పను దహనం చేయడం వంటి నిర్లక్ష్యం, సహాయం పొందిన తర్వాత దానిని మరచిపోవడం.\nసహాయాన్ని ఇచ్చిన వారిని గుర్తుంచుకొని గౌరవించాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-10-31T06:23:54+00:00"
   }
 ]
