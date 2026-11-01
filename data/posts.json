@@ -4156,5 +4156,42 @@
     },
     "status": "pending",
     "created_at": "2026-10-31T06:23:54+00:00"
+  },
+  {
+    "id": "b035d4c0",
+    "topic": "Grand Anicut",
+    "format": "ancient_secrets",
+    "text": "కల్లనై (గ్రాండ్ అనికుట్)\n150 సి.ఈ.లో చోళ రాజు కారికళ నిర్మించిన ఇది ప్రపంచంలో నాల్గవ పురాతన జలవిభజన నిర్మాణం, భారతంలో అతి పాతది, ఇంకా పనిచేస్తోంది.\n329 మీటర్ల పొడవు, 20 మీటర్ల వెడల్పు, 5.4 మీటర్ల ఎత్తు; 69,000 ఎకరాలు (28,000 హా) భూములకు నీరు అందిస్తుంది.\n1804లో క్యాప్టెన్ కాల్డ్వెల్ 69 సెం.మీ. ఎత్తు పెంచి, మేజర్ సిమ్ సిల్ట్ నివారణకు అండర్‌స్లూస్ జోడించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#GrandAnicut",
+      "#HydraulicEngineering"
+    ],
+    "image": "data/images/b035d4c0.jpg",
+    "source_title": "Kallanai Dam",
+    "source_url": "https://en.wikipedia.org/wiki/Kallanai_Dam",
+    "facts_used": [
+      "Kallanai was built by King Karikalan of the Chola dynasty around 150 CE",
+      "It is the fourth oldest water‑diversion structure in the world and the oldest in India still in use",
+      "The dam is 329 m long, 20 m wide and 5.4 m high",
+      "It irrigates about 69,000 acres (28,000 ha)",
+      "In 1804 Captain Caldwell raised the dam stones by 69 cm to increase capacity",
+      "Major Sim proposed undersluices to prevent silt formation"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor spelling/grammar tweaks: క్యాప్టెన్ instead of కెప్టెన్, అండర్‌స్లూస్ instead of అండర్స్లూస్, భూములకు instead of భూమికి."
+      ],
+      "final_text": "కల్లనై (గ్రాండ్ అనికుట్)\n150 సి.ఈ.లో చోళ రాజు కారికళ నిర్మించిన ఇది ప్రపంచంలో నాల్గవ పురాతన జలవిభజన నిర్మాణం, భారతంలో అతి పాతది, ఇంకా పనిచేస్తోంది.\n329 మీటర్ల పొడవు, 20 మీటర్ల వెడల్పు, 5.4 మీటర్ల ఎత్తు; 69,000 ఎకరాలు (28,000 హా) భూములకు నీరు అందిస్తుంది.\n1804లో క్యాప్టెన్ కాల్డ్వెల్ 69 సెం.మీ. ఎత్తు పెంచి, మేజర్ సిమ్ సిల్ట్ నివారణకు అండర్‌స్లూస్ జోడించారు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-01T06:53:11+00:00"
   }
 ]
