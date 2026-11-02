@@ -4193,5 +4193,109 @@
     },
     "status": "pending",
     "created_at": "2026-11-01T06:53:11+00:00"
+  },
+  {
+    "id": "c287514c",
+    "topic": "Kakatiya dynasty",
+    "format": "history_heritage",
+    "text": "కాకతీయుల చారిత్రక వైభవం\nఓరుగల్లు రాజధానిగా మెట్ట ప్రాంతాల్లో వారు నిర్మించిన సాగునీటి జలాశయాలు నేటికీ సేవలందిస్తున్నాయి.\nతెలుగు నేలలోని మెట్ట, లోతట్టు ప్రాంతాల సంస్కృతులను ఏకం చేసి ప్రజల మధ్య సాంస్కృతిక బంధాన్ని పెంపొందించారు.\nహనుమకొండ వేయి స్తంభాల గుడి, రామప్ప దేవాలయం, ఓరుగల్లు కోట వంటి నిర్మాణాలతో విశిష్ట శిల్పకళా శైలిని ఆవిష్కరించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#KakatiyaDynasty",
+      "#TeluguHistory",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/c287514c.jpg",
+    "source_title": "Kakatiya dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Kakatiya_dynasty",
+    "facts_used": [
+      "Their capital was Orugallu, now known as Warangal.",
+      "The Kakatiya period introduced the construction of reservoirs for irrigation in the uplands called 'tanks', many of which are still in use today.",
+      "The Kakatiyas unified the distinct upland and lowland cultures of Telugu lands, which brought way for the cultural affinity between those who spoke the Telugu language to flourish.",
+      "The Kakatiya era also saw the development of a distinct style of architecture that improved and innovated upon the existing modes, with notable examples like the Thousand Pillar Temple in Hanamkonda, Ramappa Temple in Palampet, and Warangal Fort."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-02T06:42:49+00:00"
+  },
+  {
+    "id": "a11bf5a0",
+    "topic": "Iron Pillar of Delhi",
+    "format": "ancient_secrets",
+    "text": "ఢిల్లీ ఇనుప స్తంభం: తుప్పు పట్టని ప్రాచీన లోహ అద్భుతం\nచంద్రగుప్త II కాలంలో నిర్మితమైన ఈ స్తంభం 7.21 మీటర్ల ఎత్తు, ఆరు టన్నులకు పైగా బరువు కలిగి ఉంది.\nవాతావరణ ప్రభావాలకు తుప్పు పట్టని దీని ప్రత్యేకత శాస్త్రవేత్తల దృష్టిని ఆకర్షించింది.\nఇనుము వెలికితీత, ప్రాసెసింగ్‌లో ప్రాచీన భారతీయ లోహకారుల విశిష్ట నైపుణ్యానికి ఇది అపూర్వ నిదర్శనం.",
+    "hashtags": [
+      "#AncientIndia",
+      "#IndianHeritage",
+      "#DelhiIronPillar",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/a11bf5a0.jpg",
+    "source_title": "Iron pillar of Delhi",
+    "source_url": "https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi",
+    "facts_used": [
+      "The iron pillar of Delhi is 7.21 metres high and weighs more than six tonnes.",
+      "It was constructed by Chandragupta II.",
+      "The metals used in its construction have high resistance to corrosion, attracting the attention of archaeologists and materials scientists.",
+      "It is considered a testimony to the high level of skill achieved by ancient Indian iron smiths in the extraction and processing of iron."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "‘రెండవ చంద్రగుప్తుని’ ను ‘చంద్రగుప్త II’ గా మార్చి స్పష్టతను పెంచండి.",
+        "‘తిరుగులేని నిదర్శనం’ బదులు ‘అపూర్వ నిదర్శనం’ వంటి మరింత సాంప్రదాయ పదాన్ని ఉపయోగించండి."
+      ],
+      "final_text": "ఢిల్లీ ఇనుప స్తంభం: తుప్పు పట్టని ప్రాచీన లోహ అద్భుతం\nచంద్రగుప్త II కాలంలో నిర్మితమైన ఈ స్తంభం 7.21 మీటర్ల ఎత్తు, ఆరు టన్నులకు పైగా బరువు కలిగి ఉంది.\nవాతావరణ ప్రభావాలకు తుప్పు పట్టని దీని ప్రత్యేకత శాస్త్రవేత్తల దృష్టిని ఆకర్షించింది.\nఇనుము వెలికితీత, ప్రాసెసింగ్‌లో ప్రాచీన భారతీయ లోహకారుల విశిష్ట నైపుణ్యానికి ఇది అపూర్వ నిదర్శనం."
+    },
+    "status": "pending",
+    "created_at": "2026-11-02T06:51:14+00:00"
+  },
+  {
+    "id": "22a2adf8",
+    "topic": "Warangal Fort",
+    "format": "history_heritage",
+    "text": "కాకతీయ సామ్రాజ్యపు మహిమ: వరంగల్ కోట\n12వ శతాబ్దంలో కాకతీయుల రాజధానిగా, గణపతిదేవుడు రాయి గోడలను నిర్మించాడు.\nరుద్రామ దేవి దాన్ని పూర్తి చేసి, ప్రతాపరుద్ర II గేట్లు, చతురస్ర బాస్టియన్లు, వలయాకార గోడలను జోడించాడు.\nనాలుగు అలంకార గేట్లు (కాకతీయ కళా థోరాణం) UNESCO వరల్డ్ హెరిటేజ్ తాత్కాలిక జాబితాలో 10/09/2010 తేదీకి చేర్చబడ్డాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#KakatiyaEmpire",
+      "#WarangalFort",
+      "#UNESCO",
+      "#Telangana"
+    ],
+    "image": "data/images/22a2adf8.jpg",
+    "source_title": "Warangal Fort",
+    "source_url": "https://en.wikipedia.org/wiki/Warangal_Fort",
+    "facts_used": [
+      "Warangal Fort existed since at least the 12th century as the capital of the Kakatiyas",
+      "Ganapatideva replaced the earlier brick walls with stone",
+      "Rudrama Devi completed the fort",
+      "Prataparudra II added gateways, square bastions, and circular earthen walls",
+      "The fort has four ornamental gates called Kakatiya Kala Thoranam",
+      "The fort is on the UNESCO tentative list submitted on 10/09/2010"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor spelling correction: రుద్రామ దేవి instead of రుద్రమ దేవి"
+      ],
+      "final_text": "కాకతీయ సామ్రాజ్యపు మహిమ: వరంగల్ కోట\n12వ శతాబ్దంలో కాకతీయుల రాజధానిగా, గణపతిదేవుడు రాయి గోడలను నిర్మించాడు.\nరుద్రామ దేవి దాన్ని పూర్తి చేసి, ప్రతాపరుద్ర II గేట్లు, చతురస్ర బాస్టియన్లు, వలయాకార గోడలను జోడించాడు.\nనాలుగు అలంకార గేట్లు (కాకతీయ కళా థోరాణం) UNESCO వరల్డ్ హెరిటేజ్ తాత్కాలిక జాబితాలో 10/09/2010 తేదీకి చేర్చబడ్డాయి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-02T06:52:49+00:00"
   }
 ]
