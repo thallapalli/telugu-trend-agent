@@ -4297,5 +4297,102 @@
     },
     "status": "pending",
     "created_at": "2026-11-02T06:52:49+00:00"
+  },
+  {
+    "id": "ec3c7dc5",
+    "topic": "కొండను తవ్వి ఎలుకను పట్టినట్లు",
+    "format": "saametha",
+    "text": "కొండను తవ్వి ఎలుకను పట్టినట్లు\nకొండను తవ్వి ఎలుకను పట్టే ప్రయత్నం, విపరీత శ్రమకు చిన్న ఫలితం.\nఅందువల్ల, లక్ష్యానికి అనుగుణంగా శ్రమను సమతుల్యం చేసి, ముందుగా ప్రణాళిక రూపొందించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/ec3c7dc5.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Digging up a mountain to catch a mouse.",
+      "A huge effort that gives a tiny result.",
+      "Match the effort to the goal and plan before starting."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; should match the proverb exactly.",
+        "Line 2 uses \"పర్వతాన్ని\" instead of the source word \"కొండను\"."
+      ],
+      "final_text": "కొండను తవ్వి ఎలుకను పట్టినట్లు\nకొండను తవ్వి ఎలుకను పట్టే ప్రయత్నం, విపరీత శ్రమకు చిన్న ఫలితం.\nఅందువల్ల, లక్ష్యానికి అనుగుణంగా శ్రమను సమతుల్యం చేసి, ముందుగా ప్రణాళిక రూపొందించాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-03T07:12:57+00:00"
+  },
+  {
+    "id": "97401f8e",
+    "topic": "గోరంత దీపం కొండంత వెలుగు",
+    "format": "saametha",
+    "text": "గోరంత దీపం కొండంత వెలుగు\nచిన్న దీపం కూడా కొండంత వెలుగు ప్రసరిస్తుంది, చిన్న సహాయం లేదా మంచి పని పెద్ద ప్రభావాన్ని కలిగిస్తుంది.\nచిన్న దయా చర్యను తక్కువగా అనుకోవద్దు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#Kindness"
+    ],
+    "image": "data/images/97401f8e.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "A tiny lamp gives a mountain of light.",
+      "A small help or good deed can make a great difference.",
+      "Never think a small act of kindness is too small to matter."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Proverb line includes extra quotation marks; adjust to match source exactly."
+      ],
+      "final_text": "గోరంత దీపం కొండంత వెలుగు\nచిన్న దీపం కూడా కొండంత వెలుగు ప్రసరిస్తుంది, చిన్న సహాయం లేదా మంచి పని పెద్ద ప్రభావాన్ని కలిగిస్తుంది.\nచిన్న దయా చర్యను తక్కువగా అనుకోవద్దు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-03T07:21:23+00:00"
+  },
+  {
+    "id": "df435daf",
+    "topic": "ఏరు దాటాక తెప్ప తగలేసినట్లు",
+    "format": "saametha",
+    "text": "ఏరు దాటాక తెప్ప తగలేసినట్లు\nనదిని దాటిన తరువాత తెప్పను దహనం చేయడం, సహాయం పొందిన తర్వాత దానిని మరచిపోవడం.\nఅవసరం లేకపోయినప్పుడు ఆ సహాయాన్ని వదిలివేయడం.\nకాబట్టి, మనకు సహకరించిన వారిని ఎల్లప్పుడూ గుర్తుంచుకుని గౌరవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/df435daf.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The proverb means burning the raft after crossing the river.",
+      "It signifies forgetting or discarding the help that got you across once the need is over.",
+      "The lesson is to remember and respect those who helped you."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 includes extra quotation marks; it should be exactly the proverb without quotes."
+      ],
+      "final_text": "ఏరు దాటాక తెప్ప తగలేసినట్లు\nనదిని దాటిన తరువాత తెప్పను దహనం చేయడం, సహాయం పొందిన తర్వాత దానిని మరచిపోవడం.\nఅవసరం లేకపోయినప్పుడు ఆ సహాయాన్ని వదిలివేయడం.\nకాబట్టి, మనకు సహకరించిన వారిని ఎల్లప్పుడూ గుర్తుంచుకుని గౌరవించాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-03T07:22:04+00:00"
   }
 ]
