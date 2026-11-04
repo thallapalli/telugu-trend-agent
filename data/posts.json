@@ -4394,5 +4394,282 @@
     },
     "status": "pending",
     "created_at": "2026-11-03T07:22:04+00:00"
+  },
+  {
+    "id": "be539af3",
+    "topic": "Eastern Chalukyas",
+    "format": "history_heritage",
+    "text": "ఈశాన్య చాళుక్యులు (వెంగి చాళుక్యులు)\n7వ నుండి 12వ శతాబ్దం వరకు వేంగి ప్రాంతాన్ని ఐక్యంగా పాలించి, తెలుగు సాహిత్యం, కవిత్వం, కళల వికాసానికి పునాది వేశారు.\nపిష్టాపురం, వేంగి, రాజమహేంద్రవరం వంటి రాజధానులను మార్చి, రాజవంశపు సాంస్కృతిక మహిమను విస్తరించారు.\nవిజయదిత్య III (848 సి.ఇ.) రాష్ట్రకుటలుతో స్నేహబంధం కలిగి, స్వాతంత్ర్యాన్ని ప్రకటించి, చాళుక్య వారసత్వాన్ని బలపరిచారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguCulture",
+      "#EasternChalukyas",
+      "#IndianHistory"
+    ],
+    "image": "data/images/be539af3.jpg",
+    "source_title": "Eastern Chalukyas",
+    "source_url": "https://en.wikipedia.org/wiki/Eastern_Chalukyas",
+    "facts_used": [
+      "The Eastern Chalukyas ruled parts of South India between the 7th and 12th centuries.",
+      "The five centuries of the Eastern Chalukya rule of Vengi saw consolidation of the region into a unified whole and efflorescence of Telugu culture, literature, poetry and art during the later half of their rule.",
+      "The capital was originally Pishtapura, then moved to Vengi and then to Rajamahendravaram.",
+      "Vijayaditya III came to power in 848 AD and after Amoghavarsha's death proclaimed independence."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Use of English transliteration \"ఈస్ట్రన్\" and abbreviation \"AD\"; replace with pure Telugu terms.",
+        "Spelling of \"రాశ్ట్రకుటలుతో\" should be \"రాష్ట్రకుటలుతో\"."
+      ],
+      "final_text": "ఈశాన్య చాళుక్యులు (వెంగి చాళుక్యులు)\n7వ నుండి 12వ శతాబ్దం వరకు వేంగి ప్రాంతాన్ని ఐక్యంగా పాలించి, తెలుగు సాహిత్యం, కవిత్వం, కళల వికాసానికి పునాది వేశారు.\nపిష్టాపురం, వేంగి, రాజమహేంద్రవరం వంటి రాజధానులను మార్చి, రాజవంశపు సాంస్కృతిక మహిమను విస్తరించారు.\nవిజయదిత్య III (848 సి.ఇ.) రాష్ట్రకుటలుతో స్నేహబంధం కలిగి, స్వాతంత్ర్యాన్ని ప్రకటించి, చాళుక్య వారసత్వాన్ని బలపరిచారు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-04T06:53:34+00:00"
+  },
+  {
+    "id": "2fe20e7d",
+    "topic": "Rudrama Devi",
+    "format": "history_heritage",
+    "text": "కాకతీయుల రాజ్యము – రుద్రమదేవి\n1262‑1289 వరకు రాజ్యపాలన చేసింది, 1260లో సహ‑రాజుగా, 1263లో ఏకైక పాలకురాలిగా స్థాపితమైంది.\nస్వదేశి విరోధాన్ని నెగడించింది, పాండ్యులపై కోల్పోయిన భూభాగాలను తిరిగి పొందింది; సెయునాలు, గజపతుల దాడులను కూడా నిరోధించింది.\nవారంగల్ కోటను బలపరచి, అంతర్గత గోడను ఎత్తి, బాహ్య గోడను ఖాళీతో కూడిన నది (మొట్ట) చుట్టూ నిర్మించింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#RudramaDevi",
+      "#Kakatiya"
+    ],
+    "image": "data/images/2fe20e7d.jpg",
+    "source_title": "Rudrama Devi",
+    "source_url": "https://en.wikipedia.org/wiki/Rudrama_Devi",
+    "facts_used": [
+      "Rudrama Devi reigned 1262–November 1289",
+      "She was appointed co‑regent around 1260",
+      "By 1263, Rudrama became the sole ruler",
+      "She faced a revolt early in her reign and suppressed it with loyalists",
+      "She recovered some territories lost to the Pandyas",
+      "She repulsed invasions by the Seunas (Yadavas) and the Gajapatis",
+      "She strengthened the Warangal Fort by raising its inner wall and constructing an outer wall surrounded by a moat"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor grammatical tweaks needed (verb forms, spelling of 'సెయునాలు', phrasing of moat)."
+      ],
+      "final_text": "కాకతీయుల రాజ్యము – రుద్రమదేవి\n1262‑1289 వరకు రాజ్యపాలన చేసింది, 1260లో సహ‑రాజుగా, 1263లో ఏకైక పాలకురాలిగా స్థాపితమైంది.\nస్వదేశి విరోధాన్ని నెగడించింది, పాండ్యులపై కోల్పోయిన భూభాగాలను తిరిగి పొందింది; సెయునాలు, గజపతుల దాడులను కూడా నిరోధించింది.\nవారంగల్ కోటను బలపరచి, అంతర్గత గోడను ఎత్తి, బాహ్య గోడను ఖాళీతో కూడిన నది (మొట్ట) చుట్టూ నిర్మించింది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-04T06:56:53+00:00"
+  },
+  {
+    "id": "03323d22",
+    "topic": "Kota Gullu",
+    "format": "ancient_secrets",
+    "text": "కోట గుళ్లు\n1199‑1260 సీ.ఈ.లో రాజు గణపతిదేవ నిర్మించిన 12వ శతాబ్దపు రాతి దేవాలయ సమూహం\nడబుల్ గోడల రాయి గోడలలో 22 చిన్న‑పెద్ద దేవాలయాలు, ప్రధాన శివ ఆలయం మరియు సమానమైన ఉత్తర శివ ఆలయం\nసభ మండపపు పోర్చులో మాదనికాలు, గజకేసరి, గుర్ర‑సింహం వంటి పౌరాణిక చిత్రాలు, ఇవి కాకతీయ శిల్పకళ యొక్క సంక్లిష్టతను చూపుతాయి",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#KakatiyaArchitecture",
+      "#AncientIndia",
+      "#KotaGullu"
+    ],
+    "image": "data/images/03323d22.jpg",
+    "source_title": "Kota Gullu",
+    "source_url": "https://en.wikipedia.org/wiki/Kota_Gullu",
+    "facts_used": [
+      "Kota Gullu are a group of 12th-century stone temples",
+      "constructed by King Ganapatideva, the king of Kakatiya dynasty who ruled during the period of 1199–1260 CE",
+      "Kota Gullu comprises about 22 temples",
+      "Temples are constructed within a double-walled stone enclosure",
+      "The main temple, dedicated to Lord Shiva, is the most admirable",
+      "There is yet another temple that is dedicated to Shiva, to the north of the main temple, that has the same appearance",
+      "Two madanikas are seen on the northern side of the Sabha mandapa portico and the eastern and southern porticos are embellished with mythical figures of Gaja Kesari and horse‑head lion on elephant"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Mixed English script in \"కakatiya\"; replace with proper Telugu \"కాకతీయ\"."
+      ],
+      "final_text": "కోట గుళ్లు\n1199‑1260 సీ.ఈ.లో రాజు గణపతిదేవ నిర్మించిన 12వ శతాబ్దపు రాతి దేవాలయ సమూహం\nడబుల్ గోడల రాయి గోడలలో 22 చిన్న‑పెద్ద దేవాలయాలు, ప్రధాన శివ ఆలయం మరియు సమానమైన ఉత్తర శివ ఆలయం\nసభ మండపపు పోర్చులో మాదనికాలు, గజకేసరి, గుర్ర‑సింహం వంటి పౌరాణిక చిత్రాలు, ఇవి కాకతీయ శిల్పకళ యొక్క సంక్లిష్టతను చూపుతాయి"
+    },
+    "status": "pending",
+    "created_at": "2026-11-04T06:57:21+00:00"
+  },
+  {
+    "id": "2ef7dd7f",
+    "topic": "Hampi",
+    "format": "history_heritage",
+    "text": "విజయనగర సామ్రాజ్యం – హంపి రాజధాని\n1336‑1565 వరకు హంపి విజయనగర రాజధానిగా, బలమైన కోటలతో, టుంగభద్ర నది ఒడ్డున విస్తరించింది.\n1500 నాటికి ఇది ప్రపంచంలో రెండవ అతిపెద్ద నగరంగా, పర్షియా, పోర్చుగల్ వాణిజ్యకారులను ఆకర్షించింది.\nయునెస్కో 1,600 కి పైగా అవశేషాలను ‘సాదాసీదా, మహోన్నత’ స్థలంగా వర్ణించింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Hampi",
+      "#Vijayanagara",
+      "#AncientIndia",
+      "#UNESCO"
+    ],
+    "image": "data/images/2ef7dd7f.jpg",
+    "source_title": "Hampi",
+    "source_url": "https://en.wikipedia.org/wiki/Hampi",
+    "facts_used": [
+      "Hampi was the capital of the Vijayanagara Empire from 1336 to 1565.",
+      "It was a fortified city.",
+      "It is situated on the banks of the Tungabhadra River.",
+      "Hampi-Vijayanagara is estimated to be the world's second-largest city by 1500, after Beijing.",
+      "It attracted traders from Persia and Portugal.",
+      "UNESCO describes the site as an 'austere, grandiose site' with more than 1,600 surviving remains."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor language polishing for dignified style"
+      ],
+      "final_text": "విజయనగర సామ్రాజ్యం – హంపి రాజధాని\n1336‑1565 వరకు హంపి విజయనగర రాజధానిగా, బలమైన కోటలతో, టుంగభద్ర నది ఒడ్డున విస్తరించింది.\n1500 నాటికి ఇది ప్రపంచంలో రెండవ అతిపెద్ద నగరంగా, పర్షియా, పోర్చుగల్ వాణిజ్యకారులను ఆకర్షించింది.\nయునెస్కో 1,600 కి పైగా అవశేషాలను ‘సాదాసీదా, మహోన్నత’ స్థలంగా వర్ణించింది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-04T06:58:25+00:00"
+  },
+  {
+    "id": "2c73fbce",
+    "topic": "Mahanandi",
+    "format": "ancient_secrets",
+    "text": "మహానంది దేవాలయం\n7వ శతాబ్దంలో బాదమీ చాళుక్యులచే నిర్మించబడిన ఈ ఆలయం 1,500 సంవత్సరాల పురాతనత్వాన్ని కలిగి, నవరండులలో ఒకటిగా నిలిచింది.\nపవిత్ర కళ్లనిలోని నీరు గర్భగృహం క్రింద స్వయంగా ప్రవహిస్తూ, ఋతువుల మార్పు లేకుండానే నిరంతర ప్రవాహాన్ని చూపుతుంది.\nపొడవైన బాహ్య పూల్ 60 చ.అడుగుల (5.6 ㎡) విస్తీర్ణంలో, నీటి లోతు ఐదు అడుగులుగా స్థిరంగా ఉంచి, పూజారులను స్నానానికి అనుమతిస్తుంది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#Mahanandi",
+      "#TempleArchitecture",
+      "#SacredSpring"
+    ],
+    "image": "data/images/2c73fbce.jpg",
+    "source_title": "Mahanandi",
+    "source_url": "https://en.wikipedia.org/wiki/Mahanandi",
+    "facts_used": [
+      "The Mahanandiswara Swamy Temple dates back over 1,500 years.",
+      "Mahanandi is one of the Nava Nandis.",
+      "The original structure was built by Badami Chalukyas in 7th century.",
+      "The water source has a constant flow irrespective of the change of seasons.",
+      "The large pool is 60 square feet (5.6 m2) and the depth of the water is constantly kept at five feet."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-04T06:59:19+00:00"
+  },
+  {
+    "id": "847f4000",
+    "topic": "పనిలేని మంగలి పిల్లి తల గొరిగినట్లు",
+    "format": "saametha",
+    "text": "పనిలేని మంగలి పిల్లి తల గొరిగినట్లు\nపనిలేని మంగలి పిల్లి తలను గొరిగించడం, ఏమీ చేయకపోయినా అర్ధరహిత పనుల్లో నిమగ్నమవుతారు అనే అర్థం.\nఅందువల్ల, అర్ధవంతమైన పనిలో తలమునకెత్తి జీవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/847f4000.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The proverb is \"పనిలేని మంగలి పిల్లి తల గొరిగినట్లు\".",
+      "The meaning is that the idle barber shaves the cat's head; people with nothing to do busy themselves with pointless things.",
+      "The lesson is to keep yourself engaged in meaningful work."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor grammatical tweak needed in line 2 for smoother flow."
+      ],
+      "final_text": "పనిలేని మంగలి పిల్లి తల గొరిగినట్లు\nపనిలేని మంగలి పిల్లి తలను గొరిగించడం, ఏమీ చేయకపోయినా అర్ధరహిత పనుల్లో నిమగ్నమవుతారు అనే అర్థం.\nఅందువల్ల, అర్ధవంతమైన పనిలో తలమునకెత్తి జీవించాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-04T06:59:53+00:00"
+  },
+  {
+    "id": "41fade18",
+    "topic": "తనదాకా వస్తే గానీ తెలియదు",
+    "format": "saametha",
+    "text": "తనదాకా వస్తే గానీ తెలియదు\nమరొకరి కష్టాన్ని, అది మనకు వచ్చినప్పుడు మాత్రమే పూర్తిగా అర్థం చేసుకోవచ్చు.\nకఠినతను అనుభవించే ముందు, దయను, అనుభూతిని అభ్యాసించండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#Empathy"
+    ],
+    "image": "data/images/41fade18.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "One does not understand until it comes to oneself",
+      "We grasp another's hardship only when we face it ourselves",
+      "Practice empathy before you have to learn it the hard way"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 has extra quotation marks around the proverb",
+        "Line 2 misspells \"అర్థం\" as \"అర్ధం\""
+      ],
+      "final_text": "తనదాకా వస్తే గానీ తెలియదు\nమరొకరి కష్టాన్ని, అది మనకు వచ్చినప్పుడు మాత్రమే పూర్తిగా అర్థం చేసుకోవచ్చు.\nకఠినతను అనుభవించే ముందు, దయను, అనుభూతిని అభ్యాసించండి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-04T07:00:41+00:00"
+  },
+  {
+    "id": "72a0be85",
+    "topic": "గోరంత దీపం కొండంత వెలుగు",
+    "format": "saametha",
+    "text": "\"గోరంత దీపం కొండంత వెలుగు\"\nసూక్ష్మ దీపము కూడా కొండలంత వెలుగును ప్రసరిస్తుంది; చిన్న సహాయం లేదా మంచి పని మహా మార్పును తెస్తుంది.\nచిన్న దయా చర్యను చిన్నదిగా భావించకూడదు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#Kindness"
+    ],
+    "image": "data/images/72a0be85.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "A tiny lamp gives a mountain of light.",
+      "A small help or good deed can make a great difference.",
+      "Never think a small act of kindness is too small to matter."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Elevate language style and reduce repetition"
+      ],
+      "final_text": "\"గోరంత దీపం కొండంత వెలుగు\"\nసూక్ష్మ దీపము కూడా కొండలంత వెలుగును ప్రసరిస్తుంది; చిన్న సహాయం లేదా మంచి పని మహా మార్పును తెస్తుంది.\nచిన్న దయా చర్యను చిన్నదిగా భావించకూడదు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-04T07:01:04+00:00"
   }
 ]
