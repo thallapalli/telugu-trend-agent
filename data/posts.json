@@ -4671,5 +4671,235 @@
     },
     "status": "pending",
     "created_at": "2026-11-04T07:01:04+00:00"
+  },
+  {
+    "id": "e21e2c6f",
+    "topic": "Undavalli Caves",
+    "format": "ancient_secrets",
+    "text": "ఉండవల్లి గుహలు: విశ్రాంతి విష్ణు విగ్రహం\nవిష్ణుకుందినుల (420‑620 సీ.ఈ.) కాలంలో, 4‑5వ శతాబ్దం సీ.ఈ.లో ఘన రేణు శిల నుండి చెక్కబడింది\nరెండవ అంతస్తులో, ఒకే బ్లాక్ గ్రానైట్ నుండి 5 మీటర్ల పొడవు కలిగిన విశ్రాంతి విష్ణు విగ్రహం ఉంచబడింది\nఈ నాలుగు అంతస్తుల రాతి గుహల తూర్పు‑ముఖం 29 మీటర్ల పొడవు, 16 మీటర్ల వెడల్పు కలిగి ఉంది",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#UndavalliCaves",
+      "#RockCutArchitecture",
+      "#Vishnu"
+    ],
+    "image": "data/images/e21e2c6f.jpg",
+    "source_title": "Undavalli Caves",
+    "source_url": "https://en.wikipedia.org/wiki/Undavalli_Caves",
+    "facts_used": [
+      "Undavalli Caves are monolithic Indian rock-cut architecture located in Guntur district, Andhra Pradesh.",
+      "They were carved out of solid sandstone hills in the 4th–5th centuries CE, primarily during the Vishnukundina dynasty era.",
+      "The largest cave has a 5 meter long statue of Vishnu in reclining position, sculpted from a single block of granite inside the second floor.",
+      "The temple is a four‑storey rock‑cut structure with an east‑facing facade 29 m long and 16 m wide."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor grammatical tweaks needed (e.g., “కలిగిఉంది” → “కలిగి ఉంది”, remove unnecessary diacritic on “బ్లాక్ గ్రానైట్”)."
+      ],
+      "final_text": "ఉండవల్లి గుహలు: విశ్రాంతి విష్ణు విగ్రహం\nవిష్ణుకుందినుల (420‑620 సీ.ఈ.) కాలంలో, 4‑5వ శతాబ్దం సీ.ఈ.లో ఘన రేణు శిల నుండి చెక్కబడింది\nరెండవ అంతస్తులో, ఒకే బ్లాక్ గ్రానైట్ నుండి 5 మీటర్ల పొడవు కలిగిన విశ్రాంతి విష్ణు విగ్రహం ఉంచబడింది\nఈ నాలుగు అంతస్తుల రాతి గుహల తూర్పు‑ముఖం 29 మీటర్ల పొడవు, 16 మీటర్ల వెడల్పు కలిగి ఉంది"
+    },
+    "status": "pending",
+    "created_at": "2026-11-05T07:16:14+00:00"
+  },
+  {
+    "id": "d6146b32",
+    "topic": "Lepakshi Veerabhadra Temple",
+    "format": "ancient_secrets",
+    "text": "లేపాక్షి వీరభద్ర ఆలయం\n16వ శతాబ్దంలో నిర్మితమైన ఈ ఆలయం విజయనగర శైలి వాస్తు, ప్రతి గోడపై నైపుణ్యంతో శిల్పాలు, చిత్రాలు అలంకరించబడ్డాయి.\nఫ్రెస్కో చిత్రాలు రామ, కృష్ణ కథలను ప్రకాశవంతమైన బట్టలతో, రంగులతో చిత్రించాయి.\nఆలయం నుండి సుమారు 200 మీటర్ల దూరంలో, ఒకే రాయి కట్ట నుండి చెక్కిన మహా నంది విగ్రహం ఉంది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#VijayanagaraArt",
+      "#AncientIndia",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/d6146b32.jpg",
+    "source_title": "Veerabhadra Temple, Lepakshi",
+    "source_url": "https://en.wikipedia.org/wiki/Veerabhadra_Temple,_Lepakshi",
+    "facts_used": [
+      "The temple was built in the 16th century.",
+      "The temple features Vijayanagara style architecture with abundant carvings and paintings.",
+      "The fresco paintings show scenes of Rama and Krishna with bright dresses and colors.",
+      "A massive single-block stone Nandi statue stands about 200 metres from the temple."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Corrected typo \"వాస్థు\" to \"వాస్తు\"; replaced English word \"బ్లాక్\" with Telugu \"కట్ట\" for better purity."
+      ],
+      "final_text": "లేపాక్షి వీరభద్ర ఆలయం\n16వ శతాబ్దంలో నిర్మితమైన ఈ ఆలయం విజయనగర శైలి వాస్తు, ప్రతి గోడపై నైపుణ్యంతో శిల్పాలు, చిత్రాలు అలంకరించబడ్డాయి.\nఫ్రెస్కో చిత్రాలు రామ, కృష్ణ కథలను ప్రకాశవంతమైన బట్టలతో, రంగులతో చిత్రించాయి.\nఆలయం నుండి సుమారు 200 మీటర్ల దూరంలో, ఒకే రాయి కట్ట నుండి చెక్కిన మహా నంది విగ్రహం ఉంది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-05T07:18:01+00:00"
+  },
+  {
+    "id": "8fb279f7",
+    "topic": "Yaganti Temple",
+    "format": "ancient_secrets",
+    "text": "యాగంటి శివ దేవాలయం\nపర్వతపు దిగువనుండి నంది నోటి ద్వారా పుష్కరిణికి ప్రవహించే నీరు, సంవత్సరమంతా తీపి, స్వచ్ఛంగా ఉంటుంది.\nదేవాలయపు నంది విగ్రహం పరిమాణం నిరంతరం పెరుగుతున్నట్లు భక్తులు నమ్ముతారు; గతంలో చిన్నది, ఇప్పుడు పెద్దది, కొంత స్తంభం తొలగించబడింది.\nఈ అద్భుతాలు పురాతన విశ్వకర్మ స్థాపతుల శిల్ప నైపుణ్యాన్ని సూచిస్తాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#YagantiTemple",
+      "#Pushkarini",
+      "#StoneNandi"
+    ],
+    "image": "data/images/8fb279f7.jpg",
+    "source_title": "Yaganti temple",
+    "source_url": "https://en.wikipedia.org/wiki/Yaganti_temple",
+    "facts_used": [
+      "Water flows into the Pushkarini from the bottom of the hill through the mouth of a Nandi.",
+      "The water in the Pushkarini is fresh and sweet.",
+      "Devotees believe the Nandi murti is continuously increasing its size.",
+      "The Nandi murti was initially much smaller than its present size.",
+      "Temple staff removed a pillar as the size of the Nandi increased."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-05T07:20:05+00:00"
+  },
+  {
+    "id": "98d7fa53",
+    "topic": "Chola Dynasty",
+    "format": "history_heritage",
+    "text": "చోళ సామ్రాజ్యం: సముద్ర శక్తి మరియు సాంస్కృతిక మహిమ\nమధ్య 9వ శతాబ్దం నుండి 13వ శతాబ్దం వరకు చోళులు విస్తృత సముద్ర సామ్రాజ్యంగా వికసించి, కవేరి లోయను హృదయంగా చేసుకున్నారు.\nరాజరాజ I, రాజేంద్ర I మరియు వారి వారసుల కింద, సైనిక, ఆర్థిక, సాంస్కృతిక శక్తిగా మారి, దక్షిణ ఆసియా, దక్షిణ‑ఆగ్నేయ ఆసియాలో ప్రభావం చూపారు.\n907‑1215 కాలంలో మూడు శతాబ్దాలు ఒకే రాష్ట్రంగా, తుంగభద్ర నదికి దక్షిణంగా ఉన్న భూభాగాన్ని ఏకీకృతం చేశారు.",
+    "hashtags": [
+      "#CholaHeritage",
+      "#MaritimeEmpire",
+      "#SouthAsianHistory",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/98d7fa53.jpg",
+    "source_title": "Chola dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Chola_dynasty",
+    "facts_used": [
+      "The Chola empire was an expansive maritime empire at its height from the mid-9th century to the 13th century CE.",
+      "Under Rajaraja I and his successors, the empire became a military, economic and cultural powerhouse in South Asia and Southeast Asia.",
+      "The Cholas unified peninsular India south of the Tungabhadra River and held the territory as one state for three centuries between 907 and 1215 CE."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 uses English ampersand '&' instead of Telugu conjunction.",
+        "Minor stylistic tweak: replace '&' with 'మరియు' for pure Telugu script."
+      ],
+      "final_text": "చోళ సామ్రాజ్యం: సముద్ర శక్తి మరియు సాంస్కృతిక మహిమ\nమధ్య 9వ శతాబ్దం నుండి 13వ శతాబ్దం వరకు చోళులు విస్తృత సముద్ర సామ్రాజ్యంగా వికసించి, కవేరి లోయను హృదయంగా చేసుకున్నారు.\nరాజరాజ I, రాజేంద్ర I మరియు వారి వారసుల కింద, సైనిక, ఆర్థిక, సాంస్కృతిక శక్తిగా మారి, దక్షిణ ఆసియా, దక్షిణ‑ఆగ్నేయ ఆసియాలో ప్రభావం చూపారు.\n907‑1215 కాలంలో మూడు శతాబ్దాలు ఒకే రాష్ట్రంగా, తుంగభద్ర నదికి దక్షిణంగా ఉన్న భూభాగాన్ని ఏకీకృతం చేశారు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-05T07:21:43+00:00"
+  },
+  {
+    "id": "d0cd3192",
+    "topic": "పిట్ట కొంచెం కూత ఘనం",
+    "format": "saametha",
+    "text": "పిట్ట కొంచెం కూత ఘనం\nచిన్న పిట్ట అయినప్పటికీ దాని గానం గొప్ప శక్తి కలిగివుంటుంది; చిన్న వ్యక్తి కూడా గొప్ప సామర్థ్యం లేదా ప్రభావం చూపగలడు.\nఅయితే పరిమాణం లేదా వయస్సు ఆధారంగా సామర్థ్యాన్ని అంచనా వేయకూడదు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/d0cd3192.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The bird is small but its call is mighty.",
+      "A small person can have great ability or presence.",
+      "Do not judge ability by size or age."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it should match the proverb exactly."
+      ],
+      "final_text": "పిట్ట కొంచెం కూత ఘనం\nచిన్న పిట్ట అయినప్పటికీ దాని గానం గొప్ప శక్తి కలిగివుంటుంది; చిన్న వ్యక్తి కూడా గొప్ప సామర్థ్యం లేదా ప్రభావం చూపగలడు.\nఅయితే పరిమాణం లేదా వయస్సు ఆధారంగా సామర్థ్యాన్ని అంచనా వేయకూడదు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-05T07:22:05+00:00"
+  },
+  {
+    "id": "7825240b",
+    "topic": "కొండను తవ్వి ఎలుకను పట్టినట్లు",
+    "format": "saametha",
+    "text": "\"కొండను తవ్వి ఎలుకను పట్టినట్లు\"\nపర్వతాన్ని తవ్వి ఎలుకను పట్టడం లాంటి, విస్తారమైన శ్రమకు చిన్న ఫలితం.\nలక్ష్యానికి అనుగుణంగా శ్రమను సమన్వయించి, ముందుగా ప్రణాళిక రూపొందించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/7825240b.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Digging up a mountain to catch a mouse is a huge effort that gives a tiny result",
+      "Match the effort to the goal and plan before starting"
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-05T07:22:29+00:00"
+  },
+  {
+    "id": "5c318926",
+    "topic": "చేతులు కాలాక ఆకులు పట్టుకున్నట్లు",
+    "format": "saametha",
+    "text": "చేతులు కాలాక ఆకులు పట్టుకున్నట్లు\nఅగ్ని కాలిపోయిన తర్వాత ఆకులు పట్టుకోవడం లాంటిది, ఇది ఆలస్యం చేసిన పరిహారం.\nసమస్య రావడానికి ముందే సిద్ధం కావాలి, ముందస్తు జాగ్రత్తలు తీసుకోవాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/5c318926.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Grabbing leaves after the hands are already burnt",
+      "A remedy applied too late",
+      "Prepare and prevent before trouble arrives"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Original text used incorrect word \"కాలీలు\"; replaced with correct \"ఆకులు\"."
+      ],
+      "final_text": "చేతులు కాలాక ఆకులు పట్టుకున్నట్లు\nఅగ్ని కాలిపోయిన తర్వాత ఆకులు పట్టుకోవడం లాంటిది, ఇది ఆలస్యం చేసిన పరిహారం.\nసమస్య రావడానికి ముందే సిద్ధం కావాలి, ముందస్తు జాగ్రత్తలు తీసుకోవాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-05T07:22:53+00:00"
   }
 ]
