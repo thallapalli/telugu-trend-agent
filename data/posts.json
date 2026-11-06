@@ -4901,5 +4901,226 @@
     },
     "status": "pending",
     "created_at": "2026-11-05T07:22:53+00:00"
+  },
+  {
+    "id": "5d2b0237",
+    "topic": "Srisailam Temple",
+    "format": "ancient_secrets",
+    "text": "శ్రీశైల మల్లికార్జున దేవాలయం\nశైవ, శాక్త సంప్రదాయాల పవిత్ర పుణ్యక్షేత్రమైన ఈ క్షేత్రం, జ్యోతిర్లింగంగానూ మరియు శక్తిపీఠంగానూ వర్గీకరించబడింది.\nద్రావిడ నిర్మాణ శైలిలో వెలసిన ఈ ప్రాచీన ఆలయం, విజయనగర వాస్తు శిల్ప కళా విశేషాలను సగర్వంగా చాటిచెబుతుంది.",
+    "hashtags": [
+      "#Srisailam",
+      "#TeluguHeritage",
+      "#IndianArchitecture",
+      "#MallikarjunaTemple"
+    ],
+    "image": "data/images/5d2b0237.jpg",
+    "source_title": "Srisailam",
+    "source_url": "https://en.wikipedia.org/wiki/Srisailam",
+    "facts_used": [
+      "Srisailam is famous for the Mallikarjuna Jyotirlinga Temple and is one of the holy pilgrimage sites for the Shaivism and Shaktism sects of Hinduism.",
+      "The town is classified as both a Jyotirlinga and a Shakta pitha.",
+      "Mallikarjuna Jyotirlinga enshrines Lord Mallikarjuna and is an ancient temple built in a Dravidian style with specimens showcasing the Vijayanagara architecture."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-06T07:13:11+00:00"
+  },
+  {
+    "id": "f475ed09",
+    "topic": "Satavahana dynasty",
+    "format": "history_heritage",
+    "text": "శాతవాహన సామ్రాజ్య వైభవం\nపురాణాలలో ఆంధ్రులుగా పేర్కొనబడిన శాతవాహనులు ప్రతిష్ఠానపురం, అమరావతి రాజధానులుగా దక్కన్ ప్రాంతాన్ని పాలించారు.\nగౌతమీపుత్ర శాతకర్ణి ఏలుబడిలో విశేష వైభవాన్ని చూసిన ఈ సామ్రాజ్యం, ఉత్తర-దక్షిణ భారతాల మధ్య వాణిజ్య, సాంస్కృతిక వారధిగా నిలిచింది.\nతమ పాలకుల చిత్రాలతో నాణేలను ముద్రించి, దక్కన్ ప్రాంతంలో శాంతిభద్రతలను నెలకొల్పిన ఘనత వీరిది.",
+    "hashtags": [
+      "#Satavahanas",
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#TeluguHistory"
+    ],
+    "image": "data/images/f475ed09.jpg",
+    "source_title": "Satavahana dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
+    "facts_used": [
+      "The Satavahanas were referred to as the Andhras in the Puranas.",
+      "The dynasty had capitals including Pratishthana and Amaravati.",
+      "The empire reached its zenith under Gautamiputra Satakarni.",
+      "They formed a cultural bridge and played a vital role in trade and culture between the Indo-Gangetic Plain and southern India.",
+      "They established peace in the Deccan region and were early issuers of coinage struck with images of their rulers."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-06T07:13:34+00:00"
+  },
+  {
+    "id": "6a1c4055",
+    "topic": "Amaravati",
+    "format": "ancient_secrets",
+    "text": "అమరావతి బౌద్ధ స్తూపం\nకృష్ణా తీరాన వెలసిన అమరావతి, శాతవాహనుల కాలంలో మహాయాన బౌద్ధానికి పవిత్ర క్షేత్రంగా నిలిచింది.\nఇక్కడి బౌద్ధ మహాస్తూపం ప్రాచీన బౌద్ధ కళలకు మరియు విజ్ఞానానికి గొప్ప కేంద్రంగా విలసిల్లింది.\nఆగ్నేయాసియా దేశాల నుండి ఎందరో బౌద్ధ భక్తులు ఈ చారిత్రక కేంద్రాన్ని దర్శించేవారు.",
+    "hashtags": [
+      "#Amaravati",
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#BuddhistHeritage"
+    ],
+    "image": "data/images/6a1c4055.jpg",
+    "source_title": "Amaravati",
+    "source_url": "https://en.wikipedia.org/wiki/Amaravati",
+    "facts_used": [
+      "Amaravati is located on the right bank of the Krishna River and was once a holy site of Mahayana Buddhism.",
+      "The city was home to a large Buddhist Stupa and was a centre of Buddhist learning and art.",
+      "Several Buddhist followers from many South East Asian countries visited the centre."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-06T07:13:56+00:00"
+  },
+  {
+    "id": "ca721e69",
+    "topic": "Battle of Palnadu",
+    "format": "history_heritage",
+    "text": "పలనాటి యుద్ధం: కారెంపూడి చారిత్రక సమరం\nక్రీ.శ. 1178–1182 మధ్య గురజాల పాలకుడు నలగామరాజు, మాచర్ల పాలకుడు మలిదేవరాజుల మధ్య కారెంపూడి వద్ద ఈ పోరు జరిగింది.\nనాయకురాలు నాగమ్మ మద్దతుతో నలగామరాజు, 'చాపకూడు' సంస్కర్త బ్రహ్మనాయుడి మద్దతుతో మలిదేవరాజు ఈ యుద్ధంలో తలపడ్డారు.\nఈ సంగ్రామంలో నలగామరాజుకు కాకతీయులు, హోయసలులు మరియు పరిచ్ఛేదులు మద్దతుగా నిలిచారు.",
+    "hashtags": [
+      "#TeluguHistory",
+      "#TeluguHeritage",
+      "#BattleOfPalnadu",
+      "#PalnaduHistory"
+    ],
+    "image": "data/images/ca721e69.jpg",
+    "source_title": "Battle of Palnadu",
+    "source_url": "https://en.wikipedia.org/wiki/Battle_of_Palnadu",
+    "facts_used": [
+      "The Battle of Palnadu took place sometime in the years 1178–1182 CE between Nalagamaraju of Gurazala and Malidevaraju of Macherla.",
+      "The battle was fought at Karempudi.",
+      "Nalagamaraju was supported by Nayakuralu Nagamma while Malidevaraju was supported by Brahma Naidu, who initiated social reforms like Chapa Koodu.",
+      "Nalagamaraju was supported by the Kakatiyas, Hoysalas, and Paricchedis."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-06T07:14:24+00:00"
+  },
+  {
+    "id": "0221d7ac",
+    "topic": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు",
+    "format": "saametha",
+    "text": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు\nఇల్లు నిర్మించండి, పెళ్లి నిర్వహించండి—అవసరమైన కష్టాన్ని స్వయంగా అనుభవించినప్పుడు మాత్రమే నిజం తెలుస్తుంది.\nపెద్ద పనుల వెనుక ఉన్న శ్రమను గౌరవించి, ముందుగా తీర్పు ఇవ్వకండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/0221d7ac.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Build a house and see; arrange a wedding and see.",
+      "Some tasks show their true difficulty only when you do them yourself.",
+      "Respect the effort behind big undertakings before judging them."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it must match the source proverb exactly."
+      ],
+      "final_text": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు\nఇల్లు నిర్మించండి, పెళ్లి నిర్వహించండి—అవసరమైన కష్టాన్ని స్వయంగా అనుభవించినప్పుడు మాత్రమే నిజం తెలుస్తుంది.\nపెద్ద పనుల వెనుక ఉన్న శ్రమను గౌరవించి, ముందుగా తీర్పు ఇవ్వకండి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-06T07:21:12+00:00"
+  },
+  {
+    "id": "7c9c0686",
+    "topic": "తనదాకా వస్తే గానీ తెలియదు",
+    "format": "saametha",
+    "text": "\"తనదాకా వస్తే గానీ తెలియదు\"\nఇది మనకు స్వయంగా అనుభవించకపోతే, ఇతరుల కష్టాన్ని పూర్తిగా గ్రహించలేము.\nకఠినంగా నేర్చుకోవడానికి ముందు, సహానుభూతిని అభ్యాసించండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#Empathy"
+    ],
+    "image": "data/images/7c9c0686.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "One does not understand until it comes to oneself",
+      "We grasp another's hardship only when we face it ourselves",
+      "Practice empathy before you have to learn it the hard way"
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-06T07:21:36+00:00"
+  },
+  {
+    "id": "68c18b3d",
+    "topic": "గోరంత దీపం కొండంత వెలుగు",
+    "format": "saametha",
+    "text": "గోరంత దీపం కొండంత వెలుగు\nచిన్న దీపము కూడా పర్వతమంత వెలుగు ప్రసరిస్తుంది.\nచిన్న సహాయం లేదా మంచి పని పెద్ద మార్పును తెస్తుంది.\nచిన్న దయా చర్యను తక్కువగా భావించకూడదు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#Kindness"
+    ],
+    "image": "data/images/68c18b3d.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "A tiny lamp gives a mountain of light.",
+      "A small help or good deed can make a great difference.",
+      "Never think a small act of kindness is too small to matter."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; should match the proverb exactly."
+      ],
+      "final_text": "గోరంత దీపం కొండంత వెలుగు\nచిన్న దీపము కూడా పర్వతమంత వెలుగు ప్రసరిస్తుంది.\nచిన్న సహాయం లేదా మంచి పని పెద్ద మార్పును తెస్తుంది.\nచిన్న దయా చర్యను తక్కువగా భావించకూడదు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-06T07:22:02+00:00"
   }
 ]
