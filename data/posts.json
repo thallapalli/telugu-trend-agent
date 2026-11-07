@@ -5122,5 +5122,239 @@
     },
     "status": "pending",
     "created_at": "2026-11-06T07:22:02+00:00"
+  },
+  {
+    "id": "e03f2c90",
+    "topic": "Vijayanagara Empire",
+    "format": "history_heritage",
+    "text": "విజయనగర సామ్రాజ్య వైభవం\n1336లో హరిహర, బుక్కరాయలచే స్థాపించబడిన విజయనగరం అద్భుత శిల్పకళకు, సంస్కృతికి కేంద్రంగా నిలిచింది.\nఎత్తైన రాజగోపురాలు, స్తంభాల మండపాలతో పాటు సాగునీటి కాలువలు వ్యవసాయాన్ని, నగర విస్తరణను సుసంపన్నం చేశాయి.\nతెలుగు, కన్నడ, తమిళ, సంస్కృత భాషా సాహిత్యాలతో పాటు కర్ణాటక సంగీతం శాస్త్రీయ రూపాన్ని సంతరించుకుంది.",
+    "hashtags": [
+      "#VijayanagaraEmpire",
+      "#TeluguHeritage",
+      "#IndianHistory",
+      "#AncientIndia"
+    ],
+    "image": "data/images/e03f2c90.jpg",
+    "source_title": "Vijayanagara Empire",
+    "source_url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+    "facts_used": [
+      "The Vijayanagara Empire was established in 1336 by brothers Harihara I and Bukka Raya I.",
+      "Temple complexes featured tall gateway towers (rajagopurams) and pillared halls (mandapas).",
+      "State-sponsored irrigation canals and reservoirs supported intense agriculture and urban growth.",
+      "Court patronage stimulated literary production in Kannada, Telugu, Tamil, and Sanskrit, and Carnatic music developed into its classical structural framework."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-07T06:27:10+00:00"
+  },
+  {
+    "id": "85f38119",
+    "topic": "Konark Sun Temple",
+    "format": "ancient_secrets",
+    "text": "కోణార్క్ సూర్య దేవాలయం: రాతి రథ అద్భుతం\nక్రీస్తుశకం 13వ శతాబ్దంలో (1250 లో) తూర్పు గంగ వంశపు రాజు మొదటి నరసింహదేవ ఈ ఆలయాన్ని నిర్మించారు.\nసూర్య భగవానుడికి అంకితమైన ఈ కళింగ నిర్మాణ శైలి క్షేత్రం, రాతితో మలచిన ఒక మహా రథం రూపంలో ఉంటుంది.\nఈ రథాన్ని హిందూ కాలమానంలోని 12 నెలలకు ప్రతీకలైన పన్నెండు జతల చక్రాలు, ఏడు గుర్రాలతో చెక్కారు.",
+    "hashtags": [
+      "#KonarkSunTemple",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#IndianHeritage"
+    ],
+    "image": "data/images/85f38119.jpg",
+    "source_title": "Konark Sun Temple",
+    "source_url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+    "facts_used": [
+      "Built in 1250 CE during the reign of Eastern Ganga King Narasingha Deva I.",
+      "Dedicated to the Hindu Sun-god Surya, it reflects Kalinga architecture and is carved from stone in the form of a giant chariot.",
+      "The chariot has twelve pairs of wheels corresponding to the 12 months of the Hindu calendar and is drawn by seven horses."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-07T06:27:40+00:00"
+  },
+  {
+    "id": "4de9d6da",
+    "topic": "Golconda Fort",
+    "format": "history_heritage",
+    "text": "గోల్కొండ కోట చారిత్రక వైభవం\n11వ శతాబ్దంలో కాకతీయుల మట్టికోటగా మొదలై, కుతుబ్ షాహీల పాలనలో పటిష్టమైన గ్రానైట్ కోటగా రూపుదిద్దుకుంది.\nకోహినూర్, హోప్ వంటి ప్రపంచ ప్రసిద్ధ వజ్రాలకు ఈ కోట భాండాగారం ఒకప్పుడు నిలయంగా నిలిచింది.\nకొల్లూరు వంటి గనుల ఆధారంగా విశేష సంపదను ఆర్జించి, జగత్ప్రసిద్ధ వజ్రాల వాణిజ్య కేంద్రంగా విరాజిల్లింది.",
+    "hashtags": [
+      "#GolcondaFort",
+      "#TeluguHeritage",
+      "#IndianHistory",
+      "#TelanganaHistory"
+    ],
+    "image": "data/images/4de9d6da.jpg",
+    "source_title": "Golconda",
+    "source_url": "https://en.wikipedia.org/wiki/Golconda",
+    "facts_used": [
+      "Golconda fort was initially built in the 11th century as a mud fort by the Kakatiyas and later expanded into a granite fortification by the Qutb Shahs.",
+      "The Golconda fort used to have a vault where the famous Koh-i-Noor and Hope diamonds were stored.",
+      "Due to the vicinity of diamond mines like Kollur Mine, Golconda flourished as a trade centre of large diamonds and became synonymous with vast wealth."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-07T06:28:29+00:00"
+  },
+  {
+    "id": "089ccb99",
+    "topic": "Brihadeeswarar Temple",
+    "format": "ancient_secrets",
+    "text": "బృహదీశ్వరాలయం: చోళుల అద్భుత నిర్మాణ వైభవం\nతంజావూరులో కావేరీ నదీ తీరాన మొదటి రాజరాజ చోళుడు సా.శ. 1003 నుండి 1010 మధ్య ఈ ఆలయాన్ని నిర్మించారు.\nగ్రానైట్ రాతితో నిర్మించిన దీని విమాన గోపురం దక్షిణ భారతదేశంలోనే అత్యంత ఎత్తైన వాటిలో ఒకటిగా నిలిచింది.\nఈ ఆలయంలో భారతదేశంలోనే అతిపెద్ద శివలింగాలలో ఒకటి మరియు 11వ శతాబ్దపు ఇత్తడి నటరాజ మూర్తి కొలువై ఉన్నాయి.",
+    "hashtags": [
+      "#BrihadeeswararTemple",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#CholaDynasty"
+    ],
+    "image": "data/images/089ccb99.jpg",
+    "source_title": "Brihadisvara Temple",
+    "source_url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple",
+    "facts_used": [
+      "Brihadisvara Temple was built by Chola emperor Rajaraja I between 1003 and 1010 CE on the south bank of the Cauvery river in Thanjavur.",
+      "Built using granite, the vimana tower above the shrine is one of the tallest in South India.",
+      "The temple has one of the largest Shiva lingas in India and commissioned the brass Nataraja in the 11th century."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-07T06:28:48+00:00"
+  },
+  {
+    "id": "6e142e79",
+    "topic": "ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు",
+    "format": "saametha",
+    "text": "\"ఇంటి దొంగను ఈశ్వరుడైనా పట్టలేడు\"\nఇంటి లోపల దొంగను ఈశ్వరుడూ పట్టలేనట్లుగా, సన్నిహిత వర్గంలోని దొంగల నుండి రక్షణ పొందడం కష్టమే.\nఅందువల్ల, ముఖ్యమైన విషయాలకు ఎవరు ప్రవేశిస్తారో, ఎవరి మీద నమ్మకం పెట్టుకోవాలో జాగ్రత్తగా ఎంపిక చేసుకోవాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/6e142e79.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Even God cannot catch the thief inside the house.",
+      "It is very hard to guard against harm from someone within one's own circle.",
+      "Be careful whom you trust with access to what matters."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-07T06:30:10+00:00"
+  },
+  {
+    "id": "2c38f346",
+    "topic": "పిట్ట కొంచెం కూత ఘనం",
+    "format": "saametha",
+    "text": "పిట్ట కొంచెం కూత ఘనం\nపిట్ట చిన్నది, కానీ దాని కూత శక్తివంతమైనది; చిన్న వ్యక్తి కూడా మహత్తర సామర్థ్యాన్ని కలిగి ఉండవచ్చు.\nఅందువల్ల పరిమాణం లేదా వయసు ఆధారంగా సామర్థ్యాన్ని అంచనా వేయకూడదు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/2c38f346.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The bird is small but its call is mighty.",
+      "A small person can have great ability or presence.",
+      "Do not judge ability by size or age."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it must match the proverb exactly."
+      ],
+      "final_text": "పిట్ట కొంచెం కూత ఘనం\nపిట్ట చిన్నది, కానీ దాని కూత శక్తివంతమైనది; చిన్న వ్యక్తి కూడా మహత్తర సామర్థ్యాన్ని కలిగి ఉండవచ్చు.\nఅందువల్ల పరిమాణం లేదా వయసు ఆధారంగా సామర్థ్యాన్ని అంచనా వేయకూడదు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-07T06:30:58+00:00"
+  },
+  {
+    "id": "96caf40e",
+    "mode": "hacks",
+    "topic": "Google Search operators",
+    "format": "hack",
+    "text": "Use quotes to search an exact phrase, like \"tallest building\".\nUse site: to search only one website, or filetype: to find PDFs.\nExclude words with a minus sign, and filter by after: or before: dates.\nComment \"HACK\" if you're trying this today.\nOfficial steps: https://support.google.com/websearch/answer/2466433",
+    "slides": {
+      "hook": "Unlock **Google Search** with hidden **operators** you never used",
+      "problem": "Finding exact info, specific **site:** results, or **filetype:** files feels impossible",
+      "step1": "Use **quotes** for exact matches, **site:** to limit domains",
+      "step2": "Add **-** before a word to exclude it, use **after:** or **before:** for dates",
+      "cta": "**SAVE** this and **SHARE** with a friend who loves shortcuts"
+    },
+    "hashtags": [
+      "#GoogleSearch",
+      "#SearchHacks",
+      "#Productivity",
+      "#TechTips",
+      "#WebTools"
+    ],
+    "image": "data/images/96caf40e_1.jpg",
+    "images": [
+      "data/images/96caf40e_1.jpg",
+      "data/images/96caf40e_2.jpg",
+      "data/images/96caf40e_3.jpg",
+      "data/images/96caf40e_4.jpg",
+      "data/images/96caf40e_5.jpg"
+    ],
+    "source_title": "Google Search operators",
+    "source_url": "https://support.google.com/websearch/answer/2466433",
+    "facts_used": [
+      "Put a word or phrase in quotes to search for an exact match.",
+      "Use site: to search results from a specific site.",
+      "Put a minus sign before a word to exclude it.",
+      "Use filetype: to find a particular file type.",
+      "Use before: or after: to find documents last updated before or after a date."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": []
+    },
+    "status": "pending",
+    "created_at": "2026-11-07T06:34:52+00:00"
   }
 ]
