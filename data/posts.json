@@ -5424,5 +5424,74 @@
     },
     "status": "pending",
     "created_at": "2026-11-08T06:43:29+00:00"
+  },
+  {
+    "id": "0af46bbb",
+    "topic": "Kakatiya Kala Thoranam",
+    "format": "ancient_secrets",
+    "text": "కాకతీయ కళా థోరాణం (వారంగల్ గేట్)\n12వ శతాబ్దంలో కాకతీయ రాజవంశ కాలంలో నిర్మించబడింది.\n10 మీటర్ల ఎత్తు, జంట స్తంభాలు, కోణబ్రాకెట్లు, లొటస్ పుష్పాలు, గుండ్రని మాలలు, పౌరాణిక జంతువులు, రెక్కలతో పక్షుల అలంకారాలు కలిగి ఉంది.\nతెలంగాణా చిహ్నంలో ప్రధాన చిహ్నంగా వినియోగించబడుతోంది, 10/09/2010న UNESCO తాత్కాలిక వారసత్వ జాబితాలో చేర్చబడింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#KakatiyaArchitecture",
+      "#WarangalGate",
+      "#AncientIndia"
+    ],
+    "image": "data/images/0af46bbb.jpg",
+    "source_title": "Kakatiya Kala Thoranam",
+    "source_url": "https://en.wikipedia.org/wiki/Kakatiya_Kala_Thoranam",
+    "facts_used": [
+      "Kakatiya Kala Thoranam (also called Warangal Gate) is a historical arch in the Warangal district of Telangana.",
+      "The arch was built around the 12th century during the rule of the Kakatiya dynasty.",
+      "The arch is 10 metres (33 ft) high and has twin pillars with angled brackets and intricate carvings of lotus buds, garlands, mythical animals and birds.",
+      "The arch is used as the main symbol in the Emblem of Telangana.",
+      "The monument was placed on the tentative list of UNESCO World Heritage Sites, submitted by India on 10/09/2010."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-09T07:06:13+00:00"
+  },
+  {
+    "id": "040fe2d8",
+    "topic": "Kakatiya dynasty",
+    "format": "history_heritage",
+    "text": "కాకతీయ రాజవంశం\n12వ నుండి 14వ శతాబ్దాలలో తూర్పు డెక్కన్ ప్రాంతాన్ని పాలించింది; రాజధాని ఒరుగు (వరంగల్).\nగణపతి దేవ (1199‑1262) గోదావరి‑కృష్ణా నదీ దిగువలను కలుపుతూ, రుద్రమా దేవి (1262‑1289) యాదవుల దాడిని ప్రతిఘటించింది; జన్మ ఆధారము లేకుండా నాయక పదవిని అందించారు.\nవేల స్తంభాల దేవాలయం, రామప్పా దేవాలయం, వరంగల్ కోట వంటి వాస్తు మహాకృతులు ఈ కాలంలో వికసించాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Kakatiya",
+      "#TeluguCulture",
+      "#IndianHistory"
+    ],
+    "image": "data/images/040fe2d8.jpg",
+    "source_title": "Kakatiya dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Kakatiya_dynasty",
+    "facts_used": [
+      "The Kakatiya dynasty ruled most of eastern Deccan region between the 12th and 14th centuries.",
+      "Their capital was Orugallu, now known as Warangal.",
+      "Ganapati Deva (r. 1199–1262) expanded Kakatiya control over the lowland delta areas around the Godavari and Krishna rivers.",
+      "Rudrama Devi (r. 1262–1289) repelled attacks of the Yadavas.",
+      "Anyone, regardless of birth, could acquire the nayaka title.",
+      "The Kakatiya era saw a distinct style of architecture with examples such as the Thousand Pillar Temple, Ramappa Temple, and Warangal Fort."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor grammatical/style tweaks needed"
+      ],
+      "final_text": "కాకతీయ రాజవంశం\n12వ నుండి 14వ శతాబ్దాలలో తూర్పు డెక్కన్ ప్రాంతాన్ని పాలించింది; రాజధాని ఒరుగు (వరంగల్).\nగణపతి దేవ (1199‑1262) గోదావరి‑కృష్ణా నదీ దిగువలను కలుపుతూ, రుద్రమా దేవి (1262‑1289) యాదవుల దాడిని ప్రతిఘటించింది; జన్మ ఆధారము లేకుండా నాయక పదవిని అందించారు.\nవేల స్తంభాల దేవాలయం, రామప్పా దేవాలయం, వరంగల్ కోట వంటి వాస్తు మహాకృతులు ఈ కాలంలో వికసించాయి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-09T07:14:05+00:00"
   }
 ]
