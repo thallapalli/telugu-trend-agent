@@ -5493,5 +5493,136 @@
     },
     "status": "pending",
     "created_at": "2026-11-09T07:14:05+00:00"
+  },
+  {
+    "id": "2864c4bc",
+    "topic": "Sanchi Stupa",
+    "format": "ancient_secrets",
+    "text": "సాంచి మహా స్థూపం\n3వ శతాబ్దీ ఈ.పి.లో మహారాజు అశోకుడు ఆదేశించిన, ఇది భారతదేశంలో అత్యంత పాత రాయి నిర్మాణాలలో ఒకటి.\nబుద్ధుని అవశేషాలపై గోళాకార ఇటుక కోర్, చాట్రతో సుసంపన్నమై, 1వ శతాబ్దీ ఈ.పి.లో నాలుగు సుందర తోరాణాలు మరియు చుట్టుపక్కల బలస్ట్రేడ్ జోడించబడ్డాయి.\nమధ్యప్రదేశ్ రాష్ట్ర రాయసెన్ జిల్లాలో, రాజధాని భోపాల్ నుండి 46 కిలోమీటర్ల దూరంలో సాంచి స్థూపం సుందరంగా నిలిచింది.",
+    "hashtags": [
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#BuddhistHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/2864c4bc.jpg",
+    "source_title": "Sanchi Stupa",
+    "source_url": "https://en.wikipedia.org/wiki/Sanchi_Stupa",
+    "facts_used": [
+      "The Great Stupa at Sanchi was originally commissioned by the Mauryan emperor Ashoka in the 3rd century BCE.",
+      "It is one of the oldest stone structures in India.",
+      "Its nucleus was a hemispherical brick structure built over the relics of the Buddha.",
+      "It is crowned by the chatra, a parasol-like structure symbolising high rank.",
+      "In the 1st century BCE, four elaborately carved toranas and a balustrade encircling the structure were added.",
+      "Sanchi is located in Madhya Pradesh, Raisen District, about 46 km northeast of Bhopal."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Typo: \"చత్ర\" should be \"చాట్ర\". Minor stylistic improvements for dignified flow."
+      ],
+      "final_text": "సాంచి మహా స్థూపం\n3వ శతాబ్దీ ఈ.పి.లో మహారాజు అశోకుడు ఆదేశించిన, ఇది భారతదేశంలో అత్యంత పాత రాయి నిర్మాణాలలో ఒకటి.\nబుద్ధుని అవశేషాలపై గోళాకార ఇటుక కోర్, చాట్రతో సుసంపన్నమై, 1వ శతాబ్దీ ఈ.పి.లో నాలుగు సుందర తోరాణాలు మరియు చుట్టుపక్కల బలస్ట్రేడ్ జోడించబడ్డాయి.\nమధ్యప్రదేశ్ రాష్ట్ర రాయసెన్ జిల్లాలో, రాజధాని భోపాల్ నుండి 46 కిలోమీటర్ల దూరంలో సాంచి స్థూపం సుందరంగా నిలిచింది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-10T07:51:48+00:00"
+  },
+  {
+    "id": "e0cb2202",
+    "topic": "ఆలస్యం అమృతం విషం",
+    "format": "saametha",
+    "text": "ఆలస్యం అమృతం విషం\nఆలస్యం అమృతాన్ని విషంగా మార్చుతుంది; సమయానికి చేయని మంచి కూడా పాడవుతుంది.\nసమయానికి చర్య తీసుకోవాలి; ఆలస్యం చేయడం ద్వారా మంచి విలువ నశిస్తుంది.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/e0cb2202.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Delay turns nectar into poison.",
+      "Even a good thing is spoiled if it is done too late.",
+      "Act on time; postponing good work wastes its value."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it should match the proverb exactly."
+      ],
+      "final_text": "ఆలస్యం అమృతం విషం\nఆలస్యం అమృతాన్ని విషంగా మార్చుతుంది; సమయానికి చేయని మంచి కూడా పాడవుతుంది.\nసమయానికి చర్య తీసుకోవాలి; ఆలస్యం చేయడం ద్వారా మంచి విలువ నశిస్తుంది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-10T07:52:22+00:00"
+  },
+  {
+    "id": "d53135e3",
+    "topic": "నిదానమే ప్రధానం",
+    "format": "saametha",
+    "text": "నిదానమే ప్రధానం\nస్థిరత్వమే అత్యంత ముఖ్యము; జాగ్రత్త, సహనంతో ముందుకు సాగటం వేగవంతమైన చర్యలకన్నా మెరుగైనది.\nవేగవంతంగా పనిచేయడం తప్పిదాలకు దారితీస్తుంది; స్థిరమైన, ఆలోచనాత్మక శ్రమ ఎప్పటికీ నిలుస్తుంది.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/d53135e3.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Steadiness is what matters most.",
+      "Careful, patient progress beats hasty action.",
+      "Haste often causes mistakes.",
+      "Steady, thoughtful work lasts."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; should match the source proverb exactly."
+      ],
+      "final_text": "నిదానమే ప్రధానం\nస్థిరత్వమే అత్యంత ముఖ్యము; జాగ్రత్త, సహనంతో ముందుకు సాగటం వేగవంతమైన చర్యలకన్నా మెరుగైనది.\nవేగవంతంగా పనిచేయడం తప్పిదాలకు దారితీస్తుంది; స్థిరమైన, ఆలోచనాత్మక శ్రమ ఎప్పటికీ నిలుస్తుంది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-10T07:52:57+00:00"
+  },
+  {
+    "id": "620ea8ee",
+    "topic": "ఏరు దాటాక తెప్ప తగలేసినట్లు",
+    "format": "saametha",
+    "text": "\"ఏరు దాటాక తెప్ప తగలేసినట్లు\"\nనదిని దాటిన తరువాత తెప్పను కాల్చివేయడం లాంటి విస్మరణ.\nసహాయం చేసిన వారిని గుర్తుంచుకుని గౌరవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/620ea8ee.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Burning the raft after crossing the river.",
+      "Forgetting or discarding the help that got you across once the need is over.",
+      "Remember and respect those who helped you."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-10T07:53:29+00:00"
   }
 ]
