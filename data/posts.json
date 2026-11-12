@@ -5624,5 +5624,139 @@
     },
     "status": "pending",
     "created_at": "2026-11-10T07:53:29+00:00"
+  },
+  {
+    "id": "796d3257",
+    "topic": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు",
+    "format": "saametha",
+    "text": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు\nఇల్లు నిర్మించడమూ, పెళ్లి ఏర్పాటు చేయడమూ చేయకపోతే వాటి అసలు కష్టాన్ని గ్రహించలేం.\nస్వయంగా చేయగా మాత్రమే పనుల నిజమైన భారాన్ని అనుభవించవచ్చు.\nఅందువల్ల పెద్ద పనుల వెనుక ఉన్న శ్రమను గౌరవించి, ముందుగా తీర్పు ఇవ్వకండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/796d3257.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Build a house and see; arrange a wedding and see.",
+      "Some tasks show their true difficulty only when you do them yourself.",
+      "Respect the effort behind big undertakings before judging them."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Proverb line includes extra quotation marks",
+        "Hashtag typo: #TeluluSaamethalu should be #TeluguSaamethalu"
+      ],
+      "final_text": "ఇల్లు కట్టి చూడు, పెళ్లి చేసి చూడు\nఇల్లు నిర్మించడమూ, పెళ్లి ఏర్పాటు చేయడమూ చేయకపోతే వాటి అసలు కష్టాన్ని గ్రహించలేం.\nస్వయంగా చేయగా మాత్రమే పనుల నిజమైన భారాన్ని అనుభవించవచ్చు.\nఅందువల్ల పెద్ద పనుల వెనుక ఉన్న శ్రమను గౌరవించి, ముందుగా తీర్పు ఇవ్వకండి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-12T07:42:58+00:00"
+  },
+  {
+    "id": "89bab014",
+    "topic": "తనదాకా వస్తే గానీ తెలియదు",
+    "format": "saametha",
+    "text": "\"తనదాకా వస్తే గానీ తెలియదు\"\nమనకు స్వయంగా అనుభవం రాకముందు, ఇతరుని కష్టాన్ని పూర్తిగా గ్రహించలేము.\nకష్టాన్ని స్వయంగా ఎదుర్కొనే ముందు, దయను, అనుకంపను ముందుగా అభ్యసించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#Empathy",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/89bab014.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "One does not understand until it comes to oneself.",
+      "We grasp another's hardship only when we face it ourselves.",
+      "Practice empathy before you have to learn it the hard way."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Use of colloquial contraction \"గ్రహించలేం\"; replace with standard \"గ్రహించలేము\" for dignified tone."
+      ],
+      "final_text": "\"తనదాకా వస్తే గానీ తెలియదు\"\nమనకు స్వయంగా అనుభవం రాకముందు, ఇతరుని కష్టాన్ని పూర్తిగా గ్రహించలేము.\nకష్టాన్ని స్వయంగా ఎదుర్కొనే ముందు, దయను, అనుకంపను ముందుగా అభ్యసించాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-12T07:44:08+00:00"
+  },
+  {
+    "id": "29c793c4",
+    "topic": "అతి సర్వత్ర వర్జయేత్",
+    "format": "saametha",
+    "text": "అతి సర్వత్ర వర్జయేత్\nఅధికాన్ని అన్ని చోట్ల నివారించాలి; మంచి విషయమైతే కూడా అతిగా వాడితే హానికరం.\nజీవితంలో సమతౌల్యాన్ని, మితిని పాటించడం ద్వారా శాంతి, విజయం లభిస్తాయి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#BalanceInLife",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/29c793c4.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Proverb: అతి సర్వత్ర వర్జయేత్",
+      "Excess is to be avoided everywhere.",
+      "Too much of anything, even a good thing, causes harm.",
+      "Seek balance and moderation in everything."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; adjust to show the proverb exactly as in the source.",
+        "Consider using “జీవితంలో” for smoother flow."
+      ],
+      "final_text": "అతి సర్వత్ర వర్జయేత్\nఅధికాన్ని అన్ని చోట్ల నివారించాలి; మంచి విషయమైతే కూడా అతిగా వాడితే హానికరం.\nజీవితంలో సమతౌల్యాన్ని, మితిని పాటించడం ద్వారా శాంతి, విజయం లభిస్తాయి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-12T07:44:38+00:00"
+  },
+  {
+    "id": "e3724cf4",
+    "topic": "పనిలేని మంగలి పిల్లి తల గొరిగినట్లు",
+    "format": "saametha",
+    "text": "పనిలేని మంగలి పిల్లి తల గొరిగినట్లు\nఅర్థం: పనిలేని వ్యక్తి పిల్లి తలను కూడా గొరుస్తాడు; పనిలేకపోయినవారు అర్ధంలేని పనిలో నిమగ్నమవుతారు.\nపాఠం: అర్ధవంతమైన పనిలో నిరంతరం నిమగ్నంగా ఉండాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/e3724cf4.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The idle barber shaves the cat's head.",
+      "People with nothing to do busy themselves with pointless things.",
+      "Keep yourself engaged in meaningful work."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it should match the proverb exactly.",
+        "Minor punctuation can be streamlined."
+      ],
+      "final_text": "పనిలేని మంగలి పిల్లి తల గొరిగినట్లు\nఅర్థం: పనిలేని వ్యక్తి పిల్లి తలను కూడా గొరుస్తాడు; పనిలేకపోయినవారు అర్ధంలేని పనిలో నిమగ్నమవుతారు.\nపాఠం: అర్ధవంతమైన పనిలో నిరంతరం నిమగ్నంగా ఉండాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-12T07:45:03+00:00"
   }
 ]
