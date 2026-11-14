@@ -5758,5 +5758,41 @@
     },
     "status": "pending",
     "created_at": "2026-11-12T07:45:03+00:00"
+  },
+  {
+    "id": "56210410",
+    "topic": "Vijayanagara Empire",
+    "format": "history_heritage",
+    "text": "విజయనగర సామ్రాజ్యం\n1336లో హరిరాజు, బుక్క రాజు సాంగమ వంశాన్ని స్థాపించి, ఉత్తర దిల్లీ సుల్తానుల దాడుల తరువాత దక్షిణ భారతంలో శక్తిని నిలుపుకున్నారు.\nకృష్ణదేవరాయ (1509‑1529) పాలనలో విభిన్న రాష్ట్రాలు, కోస్తలు, గాజపతి భూభాగాలు కలుపుకుని, రాజ్య విస్తీర్ణం శిఖరానికి చేరింది.\nఇప్పటి హంపి స్థలంలోని శిల్పాలు చాళుక్య, హోయ్సల, పాండ్య, చోళ శైలుల సమ్మేళనంతో, రాజగోపురాలు, మందపాలు వంటి మహత్తర నిర్మాణాలు, అలాగే కాలువలు, జలాశయాలు ద్వారా వ్యవసాయ‑నగర వికాసాన్ని సుస్థిరం చేసాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Vijayanagara",
+      "#IndianHistory",
+      "#TeluguCulture",
+      "#AncientIndia"
+    ],
+    "image": "data/images/56210410.jpg",
+    "source_title": "Vijayanagara Empire",
+    "source_url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+    "facts_used": [
+      "The Vijayanagara Empire was established in 1336 by the brothers Harihara I and Bukka Raya I of the Sangama dynasty.",
+      "The empire rose to prominence following the disruption caused by the Delhi Sultanate incursions into the Deccan during the early 14th century.",
+      "Under Krishnadevaraya (r. 1509–1529), the empire held primacy across the peninsula, pushing the Deccan sultanates north of the Tungabhadra–Krishna doab and annexing coastal Gajapati territories up to the Krishna River.",
+      "Its architectural legacy is characterized by a synthesis of earlier Chalukya, Hoysala, Pandya, and Chola forms, featuring tall gateway towers (rajagopurams) and pillared halls (mandapas).",
+      "State‑sponsored irrigation canals and reservoirs supported intense agriculture and urban growth."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor grammatical tweaks needed (e.g., adding శక్తిని, using తెలుగు script for Krishnadevaraya)."
+      ],
+      "final_text": "విజయనగర సామ్రాజ్యం\n1336లో హరిరాజు, బుక్క రాజు సాంగమ వంశాన్ని స్థాపించి, ఉత్తర దిల్లీ సుల్తానుల దాడుల తరువాత దక్షిణ భారతంలో శక్తిని నిలుపుకున్నారు.\nకృష్ణదేవరాయ (1509‑1529) పాలనలో విభిన్న రాష్ట్రాలు, కోస్తలు, గాజపతి భూభాగాలు కలుపుకుని, రాజ్య విస్తీర్ణం శిఖరానికి చేరింది.\nఇప్పటి హంపి స్థలంలోని శిల్పాలు చాళుక్య, హోయ్సల, పాండ్య, చోళ శైలుల సమ్మేళనంతో, రాజగోపురాలు, మందపాలు వంటి మహత్తర నిర్మాణాలు, అలాగే కాలువలు, జలాశయాలు ద్వారా వ్యవసాయ‑నగర వికాసాన్ని సుస్థిరం చేసాయి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-14T07:00:42+00:00"
   }
 ]
