@@ -5794,5 +5794,194 @@
     },
     "status": "pending",
     "created_at": "2026-11-14T07:00:42+00:00"
+  },
+  {
+    "id": "796df556",
+    "topic": "Rudrama Devi",
+    "format": "history_heritage",
+    "text": "కాకతీయ రుద్రామ దేవి\n1262‑1289 వరకు పాలించి, గణపతి‑దేవి కుమార్తెగా 1260లో కో‑రెజెంట్, 1263లో ఏకైక రాజు.\nసైనికుల తిరుగుబాటును దమనం చేసి, పండ్యుల నుండి కోల్పోయిన భూములను తిరిగి పొందింది; యదవులు, గజపతుల దాడులను నిరోధించింది.\nవారంగల్ కోటను అంతర్గత గోడను ఎత్తి, జలమార్గంతో చుట్టి బలపరిచింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#Kakatiya",
+      "#RudramaDevi"
+    ],
+    "image": "data/images/796df556.jpg",
+    "source_title": "Rudrama Devi",
+    "source_url": "https://en.wikipedia.org/wiki/Rudrama_Devi",
+    "facts_used": [
+      "Rudrama Devi reigned from 1262 to November 1289",
+      "She was Ganapati's daughter and appointed co-regent around 1260",
+      "She became sole ruler by 1263",
+      "She suppressed an early revolt with loyalists",
+      "She recovered territories lost to the Pandyas",
+      "She repulsed invasions by the Seunas (Yadavas) and the Gajapatis",
+      "She strengthened Warangal Fort by raising its inner wall and constructing an outer wall with a moat"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Spelling correction: \"సైనికుల\" → \"సైనికుల\""
+      ],
+      "final_text": "కాకతీయ రుద్రామ దేవి\n1262‑1289 వరకు పాలించి, గణపతి‑దేవి కుమార్తెగా 1260లో కో‑రెజెంట్, 1263లో ఏకైక రాజు.\nసైనికుల తిరుగుబాటును దమనం చేసి, పండ్యుల నుండి కోల్పోయిన భూములను తిరిగి పొందింది; యదవులు, గజపతుల దాడులను నిరోధించింది.\nవారంగల్ కోటను అంతర్గత గోడను ఎత్తి, జలమార్గంతో చుట్టి బలపరిచింది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-15T07:09:11+00:00"
+  },
+  {
+    "id": "dac8091d",
+    "topic": "Hampi",
+    "format": "ancient_secrets",
+    "text": "హంపి: విస్తారమైన నగర శిల్పం\n1336‑1565 వరకు విజయనగర సామ్రాజ్య రాజధానిగా, బలమైన కోటలతో అభివృద్ధి చెందిన నగరం\nటుంగభద్ర నది తీరంలో 4,100 హెక్టేర్ల (16 చ.మై) విస్తీర్ణంలో 1,600కి పైగా కోటలు, దేవాలయాలు, నీటి నిర్మాణాలు నిలిచాయి\n1500 సంవత్సరంలో ప్రపంచంలో రెండవ పెద్ద నగరంగా, పర్షియా, పోర్చుగల్ వాణిజ్యకారులను ఆకర్షించింది",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#Hampi",
+      "#Vijayanagara",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/dac8091d.jpg",
+    "source_title": "Hampi",
+    "source_url": "https://en.wikipedia.org/wiki/Hampi",
+    "facts_used": [
+      "Hampi was the capital of the Vijayanagara Empire from 1336 to 1565",
+      "It was a fortified city",
+      "The ruins are spread over 4,100 hectares (16 sq mi)",
+      "More than 1,600 surviving remains of forts, temples, water structures, etc",
+      "Hampi-Vijayanagara is estimated to be the world's second-largest city by 1500, after Beijing",
+      "It attracted traders from Persia and Portugal"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Typo: \"వియజయనగర\" corrected to \"విజయనగర\"; minor stylistic refinement."
+      ],
+      "final_text": "హంపి: విస్తారమైన నగర శిల్పం\n1336‑1565 వరకు విజయనగర సామ్రాజ్య రాజధానిగా, బలమైన కోటలతో అభివృద్ధి చెందిన నగరం\nటుంగభద్ర నది తీరంలో 4,100 హెక్టేర్ల (16 చ.మై) విస్తీర్ణంలో 1,600కి పైగా కోటలు, దేవాలయాలు, నీటి నిర్మాణాలు నిలిచాయి\n1500 సంవత్సరంలో ప్రపంచంలో రెండవ పెద్ద నగరంగా, పర్షియా, పోర్చుగల్ వాణిజ్యకారులను ఆకర్షించింది"
+    },
+    "status": "pending",
+    "created_at": "2026-11-15T07:11:18+00:00"
+  },
+  {
+    "id": "d7821e01",
+    "topic": "Golconda Fort",
+    "format": "history_heritage",
+    "text": "గోల్కొండ కోట\nకాకతీయ ప్రతాపరుద్ర 11వ శతాబ్దిలో మట్టి కోటగా స్థాపించి, కుత్బ్ షాహులు రాయి కోటగా విస్తరించారు.\nఇందులో కోహి‑నూర్, హోప్ వంటి ప్రసిద్ధ వజ్రాలు నిల్వచేసే ఖజానా గది ఉంది.\nయునెస్కో 2014లో దీన్ని ప్రపంచ వారసత్వ తాత్కాలిక జాబితాలో చేర్చింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#GolcondaFort",
+      "#IndianHistory",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/d7821e01.jpg",
+    "source_title": "Golconda",
+    "source_url": "https://en.wikipedia.org/wiki/Golconda",
+    "facts_used": [
+      "The fort was initially built by Kakatiya ruler Pratāparudra in the 11th century out of mud walls.",
+      "It was expanded into the current stone citadel by the Qutb Shahs.",
+      "It became the capital of the Sultanate of Golconda.",
+      "The Golconda fort had a vault where the famous Koh-i-Noor and Hope diamonds were stored.",
+      "The fort’s granite walls extend around 5 km in circumference.",
+      "UNESCO placed the complex on its tentative list to become a World Heritage Site in 2014."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Use of English term \"వరల్డ్ హెరిటేజ్\"; replace with Telugu equivalent.",
+        "Consider using \"వజ్రాలు\" instead of \"హీరాలు\" for diamonds."
+      ],
+      "final_text": "గోల్కొండ కోట\nకాకతీయ ప్రతాపరుద్ర 11వ శతాబ్దిలో మట్టి కోటగా స్థాపించి, కుత్బ్ షాహులు రాయి కోటగా విస్తరించారు.\nఇందులో కోహి‑నూర్, హోప్ వంటి ప్రసిద్ధ వజ్రాలు నిల్వచేసే ఖజానా గది ఉంది.\nయునెస్కో 2014లో దీన్ని ప్రపంచ వారసత్వ తాత్కాలిక జాబితాలో చేర్చింది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-15T07:11:52+00:00"
+  },
+  {
+    "id": "28f2b12a",
+    "topic": "కందకు లేని దురద కత్తిపీటకెందుకు",
+    "format": "saametha",
+    "text": "కందకు లేని దురద కత్తిపీటకెందుకు\nకందకు తానే దురద లేకపోతే, కత్తిపీట కూడా ఎందుకు చింతించాలి?\nసంబంధిత వ్యక్తి ఆ విషయాన్ని పట్టించుకోకపోతే, మనం చింతించకూడదు.\nఅనవసరంగా ఆందోళన పడక, ఇతరుల పనిలో జోక్యం చేసుకోకండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/28f2b12a.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "If the yam itself does not itch, why should the cutting knife?",
+      "Avoid needless worry and interfering in what is not your concern."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; should match the proverb exactly."
+      ],
+      "final_text": "కందకు లేని దురద కత్తిపీటకెందుకు\nకందకు తానే దురద లేకపోతే, కత్తిపీట కూడా ఎందుకు చింతించాలి?\nసంబంధిత వ్యక్తి ఆ విషయాన్ని పట్టించుకోకపోతే, మనం చింతించకూడదు.\nఅనవసరంగా ఆందోళన పడక, ఇతరుల పనిలో జోక్యం చేసుకోకండి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-15T07:12:48+00:00"
+  },
+  {
+    "id": "a0c220d8",
+    "mode": "hacks",
+    "topic": "Gmail Schedule Send",
+    "format": "hack",
+    "text": "Schedule up to 100 emails right from your iPhone; find them under 'Scheduled'.\nTap More, choose Schedule send, and Gmail delivers based on your timezone.\nComment \"HACK\" if you're trying this today.\nOfficial steps: https://support.google.com/mail/answer/9214606",
+    "slides": {
+      "hook": "Never miss the perfect **Schedule Send** timing",
+      "problem": "Can't send emails at the exact time you need?",
+      "step1": "Open Gmail, tap Compose, write your email.",
+      "step2": "Tap More ► Schedule send, pick a time, confirm.",
+      "cta": "SAVE this tip and SHARE with anyone who emails on iOS!"
+    },
+    "hashtags": [
+      "#Gmail",
+      "#iPhone",
+      "#Productivity",
+      "#EmailHack",
+      "#ScheduleSend"
+    ],
+    "image": "data/images/a0c220d8_1.jpg",
+    "images": [
+      "data/images/a0c220d8_1.jpg",
+      "data/images/a0c220d8_2.jpg",
+      "data/images/a0c220d8_3.jpg",
+      "data/images/a0c220d8_4.jpg",
+      "data/images/a0c220d8_5.jpg"
+    ],
+    "source_title": "Gmail Schedule Send",
+    "source_url": "https://support.google.com/mail/answer/9214606",
+    "facts_used": [
+      "Open Gmail, tap Compose, and write your email.",
+      "Tap More at the top right, tap 'Schedule send', and choose an option.",
+      "You can have up to 100 scheduled emails.",
+      "To find scheduled emails, open the menu and go to 'Scheduled'.",
+      "Emails may be delivered a few minutes late, and are sent based on the timezone you set when scheduling."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": []
+    },
+    "status": "pending",
+    "created_at": "2026-11-15T07:13:12+00:00"
   }
 ]
