@@ -6547,5 +6547,42 @@
     },
     "status": "pending",
     "created_at": "2026-11-18T07:55:54+00:00"
+  },
+  {
+    "id": "9f4b5bb2",
+    "topic": "Grand Anicut",
+    "format": "ancient_secrets",
+    "text": "కల్లనై (గ్రాండ్ అనికట్)\nకారికళ చోళ రాజు సుమారు 150 సీ.ఇ.లో నిర్మించిన, ప్రపంచంలో నాల్గవ పాత నీటి నియంత్రణ నిర్మాణం, భారతదేశంలో ఇప్పటికీ పనిచేస్తున్న పురాతన అణికట్.\n329 మీటర్ల పొడవు, 20 మీటర్ల వెడల్పు, 5.4 మీటర్ల ఎత్తు కలిగిన, అనవెన్న రాయి బ్లాక్స్‌తో నిర్మించబడిన ఈ అణికట్, కావేరి నది నుండి 69,000 ఎకరాలు (28,000 హె.) భూమికి నీరు పంపిణీ చేస్తుంది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#GrandAnicut",
+      "#WaterEngineering"
+    ],
+    "image": "data/images/9f4b5bb2.jpg",
+    "source_title": "Kallanai Dam",
+    "source_url": "https://en.wikipedia.org/wiki/Kallanai_Dam",
+    "facts_used": [
+      "The Grand Anicut was built by King Karikalan of the Chola dynasty around 100–150 CE.",
+      "It is the fourth oldest water‑diversion structure in the world and the oldest in India still in use.",
+      "The dam is 329 m long, 20 m wide and 5.4 m high.",
+      "It is constructed from unhewn stone.",
+      "It irrigates about 69,000 acres (28,000 ha) of land."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "English transliteration 'అన్‌హెవెన్' used; replace with Telugu term.",
+        "Dative case 'పంటలకి' should be 'పంటలకు'."
+      ],
+      "final_text": "కల్లనై (గ్రాండ్ అనికట్)\nకారికళ చోళ రాజు సుమారు 150 సీ.ఇ.లో నిర్మించిన, ప్రపంచంలో నాల్గవ పాత నీటి నియంత్రణ నిర్మాణం, భారతదేశంలో ఇప్పటికీ పనిచేస్తున్న పురాతన అణికట్.\n329 మీటర్ల పొడవు, 20 మీటర్ల వెడల్పు, 5.4 మీటర్ల ఎత్తు కలిగిన, అనవెన్న రాయి బ్లాక్స్‌తో నిర్మించబడిన ఈ అణికట్, కావేరి నది నుండి 69,000 ఎకరాలు (28,000 హె.) భూమికి నీరు పంపిణీ చేస్తుంది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-20T07:55:58+00:00"
   }
 ]
