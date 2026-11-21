@@ -6584,5 +6584,74 @@
     },
     "status": "pending",
     "created_at": "2026-11-20T07:55:58+00:00"
+  },
+  {
+    "id": "4ca76b2b",
+    "topic": "Pattadakal",
+    "format": "ancient_secrets",
+    "text": "పట్టడకల్ ఆలయ సమూహం\n7వ‑8వ శతాబ్దాలలో నిర్మించబడిన హిందూ‑జైన దేవాలయాలు, ఉత్తర‑దక్షిణ భారత శిల్ప శైలుల కలయికతో విశిష్టంగా నిలుస్తాయి।\nపాపనాథ్, విరూపాక్ష దేవాలయాలు సంక్లిష్ట శిల్ప శ్రేణులతో, రెండు ప్రాంతాల వాస్తు సారాన్ని సమన్వయంగా ప్రతిబింబిస్తాయి।\nవిరూపాక్ష దేవాలయం నేడు సజీవ హిందూ ఆరాధన స్థలంగా, మలప్రభా నది ఉత్తర‑వాహిని ప్రవాహం పక్కన విస్తరించిఉంది।",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Pattadakal",
+      "#UNESCO",
+      "#AncientIndia",
+      "#DravidianArchitecture"
+    ],
+    "image": "data/images/4ca76b2b.jpg",
+    "source_title": "Pattadakal",
+    "source_url": "https://en.wikipedia.org/wiki/Pattadakal",
+    "facts_used": [
+      "Pattadakal is a complex of 7th and 8th century CE Hindu and Jain temples in northern Karnataka, India.",
+      "UNESCO described Pattadakal as a harmonious blend of architectural forms from northern and southern India.",
+      "The most sophisticated temples, with complex friezes and a fusion of Northern and Southern styles, are found in the Papanatha and Virupaksha temples.",
+      "The Virupaksha temple is an active house of Hindu worship.",
+      "The friezes in the Hindu temples display stories from the Ramayana, the Mahabharata, the Bhagavata Purana, the Panchatantra and the Kirātārjunīya."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor English loan word \"ఫ్రైజ్\" replaced with Telugu term; slight grammatical polishing."
+      ],
+      "final_text": "పట్టడకల్ ఆలయ సమూహం\n7వ‑8వ శతాబ్దాలలో నిర్మించబడిన హిందూ‑జైన దేవాలయాలు, ఉత్తర‑దక్షిణ భారత శిల్ప శైలుల కలయికతో విశిష్టంగా నిలుస్తాయి।\nపాపనాథ్, విరూపాక్ష దేవాలయాలు సంక్లిష్ట శిల్ప శ్రేణులతో, రెండు ప్రాంతాల వాస్తు సారాన్ని సమన్వయంగా ప్రతిబింబిస్తాయి।\nవిరూపాక్ష దేవాలయం నేడు సజీవ హిందూ ఆరాధన స్థలంగా, మలప్రభా నది ఉత్తర‑వాహిని ప్రవాహం పక్కన విస్తరించిఉంది।"
+    },
+    "status": "pending",
+    "created_at": "2026-11-21T07:38:58+00:00"
+  },
+  {
+    "id": "6050ac6c",
+    "topic": "Chola dynasty",
+    "format": "history_heritage",
+    "text": "చోళ సామ్రాజ్యం: విస్తారమైన సముద్ర శక్తి\nదక్షిణ భారతదేశానికి చెందిన చోళులు తమ శిఖర కాలంలో అపారమైన సముద్ర సామ్రాజ్యాన్ని పరిపాలించారు.\nరాజరాజ I, రాజేంద్ర I నాయకత్వంలో వారు దక్షిణ‑ఆగ్నేయాసియాలలో సైనిక, ఆర్థిక, సాంస్కృతిక శక్తిగా వెలుగొందారు.\nతుంగభద్ర నది దక్షిణాన ఉన్న ద్వీపకల్ప భారతదేశాన్ని ఏకం చేసి, మూడు శతాబ్దాల పాటు పాలన కొనసాగించారు.",
+    "hashtags": [
+      "#CholaDynasty",
+      "#IndianHistory",
+      "#AncientIndia",
+      "#SouthIndianHistory"
+    ],
+    "image": "data/images/6050ac6c.jpg",
+    "source_title": "Chola dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Chola_dynasty",
+    "facts_used": [
+      "The Chola dynasty was a Tamil dynasty originating from Southern India, ruling over an expansive maritime empire at its height.",
+      "Under Rajaraja I and his successors including Rajendra I, the empire became a military, economic and cultural powerhouse in South Asia and Southeast Asia.",
+      "They unified peninsular India south of the Tungabhadra River and held the territory as one state for three centuries between 907 and 1215 CE."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Some wording can be refined for a more dignified, elevated style."
+      ],
+      "final_text": "చోళ సామ్రాజ్యం: విస్తారమైన సముద్ర శక్తి\nదక్షిణ భారతదేశానికి చెందిన చోళులు తమ శిఖర కాలంలో అపారమైన సముద్ర సామ్రాజ్యాన్ని పరిపాలించారు.\nరాజరాజ I, రాజేంద్ర I నాయకత్వంలో వారు దక్షిణ‑ఆగ్నేయాసియాలలో సైనిక, ఆర్థిక, సాంస్కృతిక శక్తిగా వెలుగొందారు.\nతుంగభద్ర నది దక్షిణాన ఉన్న ద్వీపకల్ప భారతదేశాన్ని ఏకం చేసి, మూడు శతాబ్దాల పాటు పాలన కొనసాగించారు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-21T07:46:12+00:00"
   }
 ]
