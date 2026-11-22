@@ -6653,5 +6653,168 @@
     },
     "status": "pending",
     "created_at": "2026-11-21T07:46:12+00:00"
+  },
+  {
+    "id": "851f61d6",
+    "topic": "Vijayanagara Empire",
+    "format": "history_heritage",
+    "text": "విజయనగర సామ్రాజ్యం\n1336లో హరీహర మరియు బుక్క రాయలు స్థాపించిన ఈ మహాసంస్థ, కృష్ణదేవరాయ (1509‑1529) కాలంలో సాంస్కృతిక వికాస శిఖరాన్ని చేరింది.\nవిజయనగరం రాజధాని, రాజగోపురాలు, మండపాలు వంటి గొప్ప ఆలయ నిర్మాణాలు, విస్తృత కాలువలు‑జలాశయాలు ద్వారా వ్యవసాయాన్ని పుష్టి చేసింది.\nకోర్టు పునరుద్ధరించిన తెలుగు, కన్నడ, సంస్కృత సాహిత్యాలు, ఖగోళ‑గణిత‑వైద్య శాస్త్రాలు, కర్ణాటక సంగీతపు క్లాసిక్ రూపం ఈ కాలంలో వికసించాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Vijayanagara",
+      "#IndianHistory",
+      "#TeluguCulture",
+      "#AncientIndia"
+    ],
+    "image": "data/images/851f61d6.jpg",
+    "source_title": "Vijayanagara Empire",
+    "source_url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+    "facts_used": [
+      "The Vijayanagara Empire was established in 1336 by the brothers Harihara I and Bukka Raya I of the Sangama dynasty.",
+      "Krishnadevaraya reigned from 1509 to 1529 and his period was a cultural golden age.",
+      "The empire's architectural legacy features tall gateway towers (rajagopurams) and pillared halls (mandapas).",
+      "State-sponsored irrigation canals and reservoirs supported intense agriculture.",
+      "Court patronage stimulated literary production in Telugu, Kannada, Tamil and Sanskrit, and Carnatic music developed into its classical structural framework during this era."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Use pure Telugu word \"కర్ణాటక\" instead of transliteration \"కార్నాటిక్\""
+      ],
+      "final_text": "విజయనగర సామ్రాజ్యం\n1336లో హరీహర మరియు బుక్క రాయలు స్థాపించిన ఈ మహాసంస్థ, కృష్ణదేవరాయ (1509‑1529) కాలంలో సాంస్కృతిక వికాస శిఖరాన్ని చేరింది.\nవిజయనగరం రాజధాని, రాజగోపురాలు, మండపాలు వంటి గొప్ప ఆలయ నిర్మాణాలు, విస్తృత కాలువలు‑జలాశయాలు ద్వారా వ్యవసాయాన్ని పుష్టి చేసింది.\nకోర్టు పునరుద్ధరించిన తెలుగు, కన్నడ, సంస్కృత సాహిత్యాలు, ఖగోళ‑గణిత‑వైద్య శాస్త్రాలు, కర్ణాటక సంగీతపు క్లాసిక్ రూపం ఈ కాలంలో వికసించాయి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-22T07:25:16+00:00"
+  },
+  {
+    "id": "7bcf303f",
+    "topic": "Nizam of Hyderabad",
+    "format": "history_heritage",
+    "text": "అసాఫ్ జాహీ వంశం: హైద్రాబాద్ రాజ్య వారసత్వం\n1724లో మొగల్ అధికారాన్ని పరిమితంగా గుర్తిస్తూ, హైద్రాబాద్‌లో స్వతంత్ర రాజ్యాన్ని స్థాపించారు.\nమరాఠాలతో యుద్ధాలు, చౌత్ పన్ను చెల్లింపు, ఖర్దా యుద్ధం తర్వాత బ్రిటిష్ సుపీరెన్సీ స్వీకరించారు.\n1948 సెప్టెంబర్ 17 న హైద్రాబాద్ రాష్ట్రం భారత యూనియన్‌లో సమ్మిళితమై, నిజాం వారసత్వం తెలంగాణకు మౌలికంగా నిలిచింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#TeluguHistory",
+      "#NizamLegacy",
+      "#Hyderabad",
+      "#IndianHistory"
+    ],
+    "image": "data/images/7bcf303f.jpg",
+    "source_title": "Nizam of Hyderabad",
+    "source_url": "https://en.wikipedia.org/wiki/Nizam_of_Hyderabad",
+    "facts_used": [
+      "In 1724 Mughal control weakened and Asaf Jah became virtually independent.",
+      "The Nizam continued to recognise the nominal authority of the Mughal emperor.",
+      "Asaf Jah established an independent realm based in Hyderabad.",
+      "The Nizams fought with the Marathas since the 1720s and paid a regular tax (Chauth) to them.",
+      "The Nizam accepted British suzerainty after the defeat at Kharda.",
+      "The Nizams retained internal power until 17 September 1948, when Hyderabad was integrated into the Indian Union."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-22T07:29:52+00:00"
+  },
+  {
+    "id": "b856ed5c",
+    "topic": "తాను ఒకటి తలిస్తే దైవం ఒకటి తలుస్తుంది",
+    "format": "saametha",
+    "text": "తాను ఒకటి తలిస్తే దైవం ఒకటి తలుస్తుంది\nమనము ఒకటి పథకం వేస్తే, దైవం వేరే దారి చూపుతుంది.\nప్రణాళిక బాగా చేసి, కష్టపడి పనిచేసి, ఫలితం వేరుగా వచ్చినప్పుడు శాంతిగా ఉండాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/b856ed5c.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "One plans one thing, fate decides another.",
+      "Plan well, work hard, and stay calm when outcomes differ."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it must match the proverb exactly."
+      ],
+      "final_text": "తాను ఒకటి తలిస్తే దైవం ఒకటి తలుస్తుంది\nమనము ఒకటి పథకం వేస్తే, దైవం వేరే దారి చూపుతుంది.\nప్రణాళిక బాగా చేసి, కష్టపడి పనిచేసి, ఫలితం వేరుగా వచ్చినప్పుడు శాంతిగా ఉండాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-22T07:30:44+00:00"
+  },
+  {
+    "id": "39bb4212",
+    "topic": "కందకు లేని దురద కత్తిపీటకెందుకు",
+    "format": "saametha",
+    "text": "\"కందకు లేని దురద కత్తిపీటకెందుకు\"\nకందకు దురద లేకపోతే, దానికి కత్తిపీటను కూడా ఎందుకు వేయాలి?\nఇది మనకు అవసరం లేని విషయాల్లో ఆందోళన చెందకుండా, ఇతరుల పనిలో జోక్యం చేసుకోవద్దని నేర్పుతుంది.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/39bb4212.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "If the yam itself does not itch, why should the cutting knife?",
+      "Avoid needless worry and interfering in what is not your concern."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-22T07:31:17+00:00"
+  },
+  {
+    "id": "c4fe4551",
+    "topic": "కొండను తవ్వి ఎలుకను పట్టినట్లు",
+    "format": "saametha",
+    "text": "కొండను తవ్వి ఎలుకను పట్టినట్లు\nపర్వతాన్ని తవ్వి ఎలుకను పట్టుకోవడానికి చేసిన భారీ శ్రమ, చిన్న ఫలితమే ఇస్తుంది.\nఅందువల్ల, పనిని ప్రారంభించే ముందు లక్ష్యానికి అనుగుణంగా శ్రమను సరిపోల్చి, జాగ్రత్తగా ప్రణాళిక చేసుకోవాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/c4fe4551.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Digging up a mountain to catch a mouse.",
+      "A huge effort that gives a tiny result.",
+      "Match the effort to the goal and plan before starting."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 includes extra quotation marks; should be exactly the proverb without quotes."
+      ],
+      "final_text": "కొండను తవ్వి ఎలుకను పట్టినట్లు\nపర్వతాన్ని తవ్వి ఎలుకను పట్టుకోవడానికి చేసిన భారీ శ్రమ, చిన్న ఫలితమే ఇస్తుంది.\nఅందువల్ల, పనిని ప్రారంభించే ముందు లక్ష్యానికి అనుగుణంగా శ్రమను సరిపోల్చి, జాగ్రత్తగా ప్రణాళిక చేసుకోవాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-22T07:31:52+00:00"
   }
 ]
