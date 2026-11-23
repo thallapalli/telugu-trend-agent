@@ -6816,5 +6816,105 @@
     },
     "status": "pending",
     "created_at": "2026-11-22T07:31:52+00:00"
+  },
+  {
+    "id": "8c3ae9fd",
+    "topic": "Jantar Mantar, Jaipur",
+    "format": "ancient_secrets",
+    "text": "జంతర్ మంతర్, జైపూర్\nసావై జైసింగ్ రాజు 1734లో పూర్తి చేసిన 19 ఖగోళ యంత్రాలు, ప్రతి యంత్రం నెగ్గి కన్నుతో ఆకాశ స్థితులను గమనించగలదు.\nఇది ప్రపంచంలో అతిపెద్ద రాయి సూర్య గడియారాన్ని కలిగి, హొరిజాన్‑జెనిత్, సమదిశ, సూర్య‑కక్ష్య వ్యవస్థలలో పనిచేస్తుంది.\nUNESCO ప్రపంచ వారసత్వ స్థలం, నగరపు సిటీ ప్యాలెస్, హవామహల్ సమీపంలో.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#JantarMantar",
+      "#Astronomy"
+    ],
+    "image": "data/images/8c3ae9fd.jpg",
+    "source_title": "Jantar Mantar, Jaipur",
+    "source_url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur",
+    "facts_used": [
+      "Jantar Mantar is a collection of 19 astronomical instruments built by the Rajput king Sawai Jai Singh.",
+      "The monument was completed in 1734.",
+      "It features the world's largest stone sundial.",
+      "The instruments allow the observation of astronomical positions with the naked eye.",
+      "The monument operates in the horizon-zenith, equatorial, and ecliptic coordinate systems.",
+      "UNESCO describes the observatory as a World Heritage Site."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Use of English term \"సిటీ ప్యాలెస్\"; could be kept as proper name but Telugu alternative exists."
+      ],
+      "final_text": "జంతర్ మంతర్, జైపూర్\nసావై జైసింగ్ రాజు 1734లో పూర్తి చేసిన 19 ఖగోళ యంత్రాలు, ప్రతి యంత్రం నెగ్గి కన్నుతో ఆకాశ స్థితులను గమనించగలదు.\nఇది ప్రపంచంలో అతిపెద్ద రాయి సూర్య గడియారాన్ని కలిగి, హొరిజాన్‑జెనిత్, సమదిశ, సూర్య‑కక్ష్య వ్యవస్థలలో పనిచేస్తుంది.\nUNESCO ప్రపంచ వారసత్వ స్థలం, నగరపు సిటీ ప్యాలెస్, హవామహల్ సమీపంలో."
+    },
+    "status": "pending",
+    "created_at": "2026-11-23T08:10:22+00:00"
+  },
+  {
+    "id": "a806a88a",
+    "topic": "కందకు లేని దురద కత్తిపీటకెందుకు",
+    "format": "saametha",
+    "text": "కందకు లేని దురద కత్తిపీటకెందుకు\nకందకు (బంగాళదుంప) తానే దురదపడకపోతే, దానిపై కత్తిపీట కూడా ఎందుకు చింతించాలి?\nఅవసరం లేని ఆందోళనలతో, మనకు సంబంధం లేని విషయాల్లో జోక్యం చేసుకోవద్దు.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#LifeLesson"
+    ],
+    "image": "data/images/a806a88a.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "If the yam itself does not itch, why should the cutting knife?",
+      "Avoid needless worry and interfering in what is not your concern."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 had extra quotation marks; remove them to match the exact proverb."
+      ],
+      "final_text": "కందకు లేని దురద కత్తిపీటకెందుకు\nకందకు (బంగాళదుంప) తానే దురదపడకపోతే, దానిపై కత్తిపీట కూడా ఎందుకు చింతించాలి?\nఅవసరం లేని ఆందోళనలతో, మనకు సంబంధం లేని విషయాల్లో జోక్యం చేసుకోవద్దు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-23T08:11:49+00:00"
+  },
+  {
+    "id": "02d13de7",
+    "topic": "నిదానమే ప్రధానం",
+    "format": "saametha",
+    "text": "నిదానమే ప్రధానం\nస్థిరత్వమే ప్రధానము; జాగ్రత్త, ఓర్పుతో చేసే పురోగతి హడావిడిలో చేసే పనికన్నా మెరుగైనది.\nహడావిడిగా చేయడం పొరపాట్లకు దారితీస్తుంది; నెమ్మదిగా, ఆలోచనాత్మకంగా పని చేయడం శాశ్వత ఫలితాలను ఇస్తుంది.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/02d13de7.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Steadiness is what matters most.",
+      "Careful, patient progress beats hasty action.",
+      "Haste often causes mistakes; steady, thoughtful work lasts."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it should be exactly the proverb without quotes."
+      ],
+      "final_text": "నిదానమే ప్రధానం\nస్థిరత్వమే ప్రధానము; జాగ్రత్త, ఓర్పుతో చేసే పురోగతి హడావిడిలో చేసే పనికన్నా మెరుగైనది.\nహడావిడిగా చేయడం పొరపాట్లకు దారితీస్తుంది; నెమ్మదిగా, ఆలోచనాత్మకంగా పని చేయడం శాశ్వత ఫలితాలను ఇస్తుంది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-23T08:12:33+00:00"
   }
 ]
