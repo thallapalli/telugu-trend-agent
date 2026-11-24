@@ -6916,5 +6916,237 @@
     },
     "status": "pending",
     "created_at": "2026-11-23T08:12:33+00:00"
+  },
+  {
+    "id": "da412ce5",
+    "topic": "Badami Cave Temples",
+    "format": "ancient_secrets",
+    "text": "బదామి గుహ ఆలయాలు\nబదామి, కర్నాటకలో బౌద్ధ, హిందూ, జైన మతాల సమ్మేళనంగా 6వ శతాబ్దంలో రాయి-కొట్టిన వాస్తుశిల్పం.\nగుహ 3లో సక 500 (578/579 CE)లో మంగలేశుడు చేసిన శిలాశాసనంతో, ఇది భారతంలో అత్యంత పాత ధృవీకృత హిందూ గుహ ఆలయం.\nనటరాజ రూపంలో నృత్యశివ, విస్ణువు త్రివిక్రమ రూపాలు కళాత్మక పరిపక్వతను చూపుతాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#BadamiCaves"
+    ],
+    "image": "data/images/da412ce5.jpg",
+    "source_title": "Badami cave temples",
+    "source_url": "https://en.wikipedia.org/wiki/Badami_cave_temples",
+    "facts_used": [
+      "The Badami cave temples are a complex of Buddhist, Hindu and Jain cave temples located in Badami, Karnataka.",
+      "They are important examples of Indian rock-cut architecture and date from the 6th century.",
+      "Cave 3 has an inscription by Mangalesha in Saka 500 (578/579 CE), making it the oldest firmly-dated Hindu cave temple in India.",
+      "The caves contain notable carvings such as the dancing Shiva as Nataraja and a large relief of Vishnu as Trivikrama."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Use of English terms like \"రాక్‑కట్\" and transliteration \"కేభ్\"; replace with pure Telugu words."
+      ],
+      "final_text": "బదామి గుహ ఆలయాలు\nబదామి, కర్నాటకలో బౌద్ధ, హిందూ, జైన మతాల సమ్మేళనంగా 6వ శతాబ్దంలో రాయి-కొట్టిన వాస్తుశిల్పం.\nగుహ 3లో సక 500 (578/579 CE)లో మంగలేశుడు చేసిన శిలాశాసనంతో, ఇది భారతంలో అత్యంత పాత ధృవీకృత హిందూ గుహ ఆలయం.\nనటరాజ రూపంలో నృత్యశివ, విస్ణువు త్రివిక్రమ రూపాలు కళాత్మక పరిపక్వతను చూపుతాయి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-24T10:17:03+00:00"
+  },
+  {
+    "id": "8de472e4",
+    "topic": "Kota Gullu",
+    "format": "ancient_secrets",
+    "text": "కోటా గుళ్లు\n1199–1260 సి.ఇ.లో కాకతీయ రాజు గణపతిదేవుడు నిర్మించిన 12వ శతాబ్దపు రాయి దేవాలయాలు, మొత్తం 22\nద్వంద్వ గోడలతో చుట్టబడి, ప్రధాన శివ మందిరం గర్భగృహ‑అంతరాలతో, సభా మండపపు పోర్చుల్లో రెండు మాదనికాలు, గజకేసరి, అశ్వసింహ రూపాలు అలంకరించబడ్డాయి\n1234–35 సి.ఇ.లో జయనామ సంవత్సరం లో గణపతి రెడ్డి గణపతేశ్వరుని స్థాపనకు స్థల దానం చేసిన శిలా స్తంభం",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#KakatiyaArchitecture",
+      "#AncientIndia",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/8de472e4.jpg",
+    "source_title": "Kota Gullu",
+    "source_url": "https://en.wikipedia.org/wiki/Kota_Gullu",
+    "facts_used": [
+      "Kota Gullu were constructed by King Ganapatideva, the king of Kakatiya dynasty who ruled during the period of 1199–1260 CE.",
+      "Kota Gullu comprises about 22 temples.",
+      "The temples are constructed within a double-walled stone enclosure.",
+      "The main temple is dedicated to Lord Shiva and includes a Garbhagriha and Antarala.",
+      "The Sabha mandapa porches have two madanikas on the northern side and are embellished with mythical figures of Gaja Kesari and horse‑head lion on elephant.",
+      "An inscription refers to Ganapathi Reddy who installed Lord Ganapateshwara during the cyclic year ‘Jaya Nama Samvatsara, Vaisakha Sudha Trayodasi, Bruhaspati Vasaram’ corresponding to 1234-35 CE."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Incorrect transliteration \"కakatiya\" should be \"కాకతీయ\".",
+        "\"సబా\" should be \"సభా\".",
+        "Minor spacing and hyphen usage."
+      ],
+      "final_text": "కోటా గుళ్లు\n1199–1260 సి.ఇ.లో కాకతీయ రాజు గణపతిదేవుడు నిర్మించిన 12వ శతాబ్దపు రాయి దేవాలయాలు, మొత్తం 22\nద్వంద్వ గోడలతో చుట్టబడి, ప్రధాన శివ మందిరం గర్భగృహ‑అంతరాలతో, సభా మండపపు పోర్చుల్లో రెండు మాదనికాలు, గజకేసరి, అశ్వసింహ రూపాలు అలంకరించబడ్డాయి\n1234–35 సి.ఇ.లో జయనామ సంవత్సరం లో గణపతి రెడ్డి గణపతేశ్వరుని స్థాపనకు స్థల దానం చేసిన శిలా స్తంభం"
+    },
+    "status": "pending",
+    "created_at": "2026-11-24T10:23:47+00:00"
+  },
+  {
+    "id": "659f2929",
+    "topic": "Hampi",
+    "format": "ancient_secrets",
+    "text": "హమ్మి: మహా సామ్రాజ్యపు నీటి నిర్వహణ మరియు శిల్ప రహస్యాలు\n1336‑1565 మధ్య విజయనగర సామ్రాజ్య రాజధానిగా, హమ్మి ఒక బలమైన కోట నగరంగా అభివృద్ధి చెందింది.\nటుంగభద్రా నది పక్కన విస్తరించిన 4,100 హెక్టర్ల విస్తీర్ణంలో 1,600‑కు పైగా శిల్ప, ఆలయ, నీటి నిర్మాణాలు మిగిలి ఉన్నాయి.\nఈ నీటి నిర్మాణాలు, కోట గోడలు, మందపాలు వంటి శిల్ప కళలు, ప్రాచీన కాలపు అభివృద్ధి శక్తిని చూపిస్తాయి.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#Hampi"
+    ],
+    "image": "data/images/659f2929.jpg",
+    "source_title": "Hampi",
+    "source_url": "https://en.wikipedia.org/wiki/Hampi",
+    "facts_used": [
+      "Hampi was the capital of the Vijayanagara Empire from 1336 to 1565.",
+      "It was a fortified city.",
+      "The ruins spread over 4,100 hectares.",
+      "More than 1,600 surviving remains include water structures."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "misspelled \"విజయనగర\" as \"వియజయనగర\"",
+        "used English ampersand \"&\" instead of Telugu conjunction"
+      ],
+      "final_text": "హమ్మి: మహా సామ్రాజ్యపు నీటి నిర్వహణ మరియు శిల్ప రహస్యాలు\n1336‑1565 మధ్య విజయనగర సామ్రాజ్య రాజధానిగా, హమ్మి ఒక బలమైన కోట నగరంగా అభివృద్ధి చెందింది.\nటుంగభద్రా నది పక్కన విస్తరించిన 4,100 హెక్టర్ల విస్తీర్ణంలో 1,600‑కు పైగా శిల్ప, ఆలయ, నీటి నిర్మాణాలు మిగిలి ఉన్నాయి.\nఈ నీటి నిర్మాణాలు, కోట గోడలు, మందపాలు వంటి శిల్ప కళలు, ప్రాచీన కాలపు అభివృద్ధి శక్తిని చూపిస్తాయి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-24T10:29:14+00:00"
+  },
+  {
+    "id": "b1d25e59",
+    "topic": "ఆలస్యం అమృతం విషం",
+    "format": "saametha",
+    "text": "ఆలస్యం అమృతం విషం\nనిల్వలైన అమృతం ఆలస్యం ద్వారా విషంగా మారుతుంది; మంచి పనికీ సమయానికి చేయకపోతే దాని విలువ నశిస్తుంది.\nకారణం, సమయానికి చర్య తీసుకోవాలి; ఆలస్యం చేస్తే మంచి ఫలము నష్టమవుతుంది.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/b1d25e59.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Delay turns nectar into poison.",
+      "Even a good thing is spoiled if it is done too late.",
+      "Act on time; postponing good work wastes its value."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 has extra quotation marks; it must be exactly the proverb \"ఆలస్యం అమృతం విషం\" without quotes.",
+        "Minor variation in word form (అమృతము vs అమృతం) – adjust for consistency with source."
+      ],
+      "final_text": "ఆలస్యం అమృతం విషం\nనిల్వలైన అమృతం ఆలస్యం ద్వారా విషంగా మారుతుంది; మంచి పనికీ సమయానికి చేయకపోతే దాని విలువ నశిస్తుంది.\nకారణం, సమయానికి చర్య తీసుకోవాలి; ఆలస్యం చేస్తే మంచి ఫలము నష్టమవుతుంది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-24T10:30:36+00:00"
+  },
+  {
+    "id": "64f8825e",
+    "topic": "మొక్కై వంగనిది మానై వంగునా",
+    "format": "saametha",
+    "text": "“మొక్కై వంగనిది మానై వంగునా”\nఅంటే, మొక్కగా వంగని వృక్షంగా కూడా వంగదు; చిన్నప్పుడే అలవాట్లు, విలువలు నేర్పడం సులభం.\nకాబట్టి మనలోనూ, పిల్లలలోనూ మంచి అలవాట్లు తొందరగా అలవర్చుకోవాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#GoodHabits"
+    ],
+    "image": "data/images/64f8825e.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "What does not bend as a sapling will not bend as a tree",
+      "Good habits and values are easiest to teach when young",
+      "Build good habits early, in yourself and in children"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Minor stylistic polishing for dignified cadence"
+      ],
+      "final_text": "“మొక్కై వంగనిది మానై వంగునా”\nఅంటే, మొక్కగా వంగని వృక్షంగా కూడా వంగదు; చిన్నప్పుడే అలవాట్లు, విలువలు నేర్పడం సులభం.\nకాబట్టి మనలోనూ, పిల్లలలోనూ మంచి అలవాట్లు తొందరగా అలవర్చుకోవాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-24T10:31:14+00:00"
+  },
+  {
+    "id": "8125ea04",
+    "topic": "ఏరు దాటాక తెప్ప తగలేసినట్లు",
+    "format": "saametha",
+    "text": "ఏరు దాటాక తెప్ప తగలేసినట్లు\nనది దాటిన తరువాత తెప్పను అగ్నిలో వేసి, దాని సహాయాన్ని మరచిపోవడం.\nఇలా సహాయం చేసినవారిని గుర్తించి, గౌరవించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/8125ea04.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Burning the raft after crossing the river.",
+      "Remember and respect those who helped you."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-24T10:31:37+00:00"
+  },
+  {
+    "id": "84560a1e",
+    "topic": "తనదాకా వస్తే గానీ తెలియదు",
+    "format": "saametha",
+    "text": "\"తనదాకా వస్తే గానీ తెలియదు\"\nఇతరుల కష్టాన్ని మనమే అనుభవించే వరకు పూర్తిగా గ్రహించలేము.\nకఠినమైన అనుభవానికి ముందే సహానుభూతి పునరుద్ధరించడం ఉత్తమ మార్గం.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#Empathy",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/84560a1e.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "One does not understand until it comes to oneself.",
+      "We grasp another's hardship only when we face it ourselves.",
+      "Practice empathy before you have to learn it the hard way."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-24T10:32:11+00:00"
   }
 ]
