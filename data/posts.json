@@ -7396,5 +7396,175 @@
     },
     "status": "pending",
     "created_at": "2026-11-25T09:09:53+00:00"
+  },
+  {
+    "id": "af05f85a",
+    "topic": "Ellora Caves",
+    "format": "ancient_secrets",
+    "text": "ఎల్లొర గుహలు – బౌద్ధ, హిందూ, జైన కళల సమన్వయం\nAD 600‑1000 కాలంలో రాశ్ట్రకుట వంశం (753‑982 AD) క్రింద 100‑కుపైగా బసాల్ట్ గుహలు, వాటిలో 17 హిందూ, 12 బౌద్ధ, 5 జైన గుహలు\nకైలాస్ దేవాలయము (గుహ 16) ప్రపంచంలోనే అతిపెద్ద ఏక‑మోనోలిథిక్ రాతి‑కట్టె, శివుని చక్ర‑ఆకారపు చక్రవాహనంగా, హిందూ ఇతిహాసాల సారాంశ శిల్పాలతో అలంకరించబడింది\nఒకే పర్వత గోడపై సమీపంగా నిర్మితమైన ఈ గుహలు బౌద్ధ‑హిందూ‑జైన సఖ్యతను, ప్రాచీన వాణిజ్య మార్గంలో సాంస్కృతిక కేంద్రంగా చూపిస్తాయి",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#ElloraCaves",
+      "#RockCutArchitecture",
+      "#CulturalHarmony"
+    ],
+    "image": "data/images/af05f85a.jpg",
+    "source_title": "Ellora Caves",
+    "source_url": "https://en.wikipedia.org/wiki/Ellora_Caves",
+    "facts_used": [
+      "The Ellora Caves artwork dates from AD 600–1000.",
+      "All of the Ellora monuments were built during the Rashtrakuta dynasty (r. 753‑982 AD).",
+      "There are over 100 caves excavated from the basalt cliffs.",
+      "The complex includes 17 Hindu (caves 13–29), 12 Buddhist (caves 1–12) and 5 Jain (caves 30–34) caves.",
+      "Cave 16 (the Kailash temple) is the largest single monolithic rock excavation in the world, a chariot‑shaped monument dedicated to Shiva.",
+      "The Kailash temple excavation features sculptures of Hindu deities and relief panels summarizing the two major Hindu epics.",
+      "The caves were built close to one another and illustrate the religious harmony that existed in ancient India.",
+      "The site was on an ancient South Asian trade route and was an important commercial centre."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Misspelled dynasty name (రాశి‌త్రకుట → రాశ్ట్రకుట)",
+        "Misspelled temple name (కేల్‌యాస్ → kailas)",
+        "Inconsistent transliteration of basalt (బాసాల్ట్ → బసాల్ట్)"
+      ],
+      "final_text": "ఎల్లొర గుహలు – బౌద్ధ, హిందూ, జైన కళల సమన్వయం\nAD 600‑1000 కాలంలో రాశ్ట్రకుట వంశం (753‑982 AD) క్రింద 100‑కుపైగా బసాల్ట్ గుహలు, వాటిలో 17 హిందూ, 12 బౌద్ధ, 5 జైన గుహలు\nకైలాస్ దేవాలయము (గుహ 16) ప్రపంచంలోనే అతిపెద్ద ఏక‑మోనోలిథిక్ రాతి‑కట్టె, శివుని చక్ర‑ఆకారపు చక్రవాహనంగా, హిందూ ఇతిహాసాల సారాంశ శిల్పాలతో అలంకరించబడింది\nఒకే పర్వత గోడపై సమీపంగా నిర్మితమైన ఈ గుహలు బౌద్ధ‑హిందూ‑జైన సఖ్యతను, ప్రాచీన వాణిజ్య మార్గంలో సాంస్కృతిక కేంద్రంగా చూపిస్తాయి"
+    },
+    "status": "pending",
+    "created_at": "2026-11-26T08:57:02+00:00"
+  },
+  {
+    "id": "da40eee6",
+    "topic": "Satavahana dynasty",
+    "format": "history_heritage",
+    "text": "సాతవాహన రాజవంశం\n2వ శతాబ్దం ఇసవీ చివర నుండి 3వ శతాబ్దం ఈసీ ప్రారంభం వరకు, ఆంధ్ర, తెలంగాణ, మహారాష్ట్ర ప్రాంతాలను పాలించింది.\nగౌతమిపుత్ర సతకర్ణి, వసిష్ఠిపుత్ర పులమవి కాలంలో శిఖరాన్ని చేరి, నాణేలు జారీ చేసి, గంగా‑మైదానము నుండి దక్షిణ తీరము వరకు వాణిజ్య‑సాంస్కృతిక వంతెనగా సేవలందించింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#IndianHistory",
+      "#Satavahana",
+      "#AncientIndia",
+      "#CulturalBridge"
+    ],
+    "image": "data/images/da40eee6.jpg",
+    "source_title": "Satavahana dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
+    "facts_used": [
+      "Satavahana rule began in the late 2nd century BCE and lasted until the early 3rd century CE.",
+      "The Satavahana kingdom mainly comprised present-day Andhra Pradesh, Telangana, and Maharashtra.",
+      "The dynasty had different capital cities, including Pratishthana (Paithan) and Amaravati (Dharanikota).",
+      "The kingdom reached its zenith under Gautamiputra Satakarni and his successor Vasisthiputra Pulamavi.",
+      "Satavahanas were early issuers of Indian state coinage struck with images of their rulers.",
+      "They played a vital role in trade and the transfer of ideas and culture to and from the Indo‑Gangetic Plain to the southern tip of India."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-26T08:58:31+00:00"
+  },
+  {
+    "id": "1efc1f17",
+    "topic": "మొక్కై వంగనిది మానై వంగునా",
+    "format": "saametha",
+    "text": "మొక్కై వంగనిది మానై వంగునా\nవృద్ధి చెందని మొక్క పెద్దగా వంగలదు; ఇది అలవాట్లు, విలువలకు కూడా వర్తిస్తుంది.\nయువకుల్లోనే మంచి అలవాట్లు, సద్గుణాలు పెంచాలి; స్వయంగా, పిల్లలలో కూడా.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/1efc1f17.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "What does not bend as a sapling will not bend as a tree.",
+      "Good habits and values are easiest to teach when young.",
+      "Build good habits early, in yourself and in children."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; should match the proverb exactly.",
+        "Word \"సన్యాసంగా\" is uncommon in this context; replaced with clearer phrasing."
+      ],
+      "final_text": "మొక్కై వంగనిది మానై వంగునా\nవృద్ధి చెందని మొక్క పెద్దగా వంగలదు; ఇది అలవాట్లు, విలువలకు కూడా వర్తిస్తుంది.\nయువకుల్లోనే మంచి అలవాట్లు, సద్గుణాలు పెంచాలి; స్వయంగా, పిల్లలలో కూడా."
+    },
+    "status": "pending",
+    "created_at": "2026-11-26T09:01:44+00:00"
+  },
+  {
+    "id": "79837ea0",
+    "topic": "గోరంత దీపం కొండంత వెలుగు",
+    "format": "saametha",
+    "text": "గోరంత దీపం కొండంత వెలుగు\nచిన్న దీపం కూడా పర్వతం మాదిరి ప్రకాశాన్ని ప్రసరిస్తుంది.\nచిన్న సహాయం లేదా మంచి పని కూడా విశాల ప్రభావాన్ని కలిగించగలదు.\nఅందువల్ల, చిన్న దయా చర్యను తక్కువగా భావించకండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#Kindness",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/79837ea0.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "A tiny lamp gives a mountain of light.",
+      "A small help or good deed can make a great difference.",
+      "Never think a small act of kindness is too small to matter."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-26T09:02:39+00:00"
+  },
+  {
+    "id": "0af23181",
+    "topic": "ఆకలి రుచి ఎరుగదు",
+    "format": "saametha",
+    "text": "\"ఆకలి రుచి ఎరుగదు\"\nఆకలి రుచి తెలియదు; నిజంగా ఆకలిగా ఉన్నప్పుడు ఏ ఆహారం అయినా స్వాగతం, అవసరం ఎంపికను మించుతుంది.\nమనకు ఉన్నది పట్ల కృతజ్ఞత, అవసరంలో ఉన్నవారికి సహానుభూతి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#Gratitude"
+    ],
+    "image": "data/images/0af23181.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Hunger knows no taste",
+      "When truly hungry, any food is welcome; need overrides choosiness",
+      "Gratitude for what we have, and empathy for those in real need"
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-26T09:03:04+00:00"
   }
 ]
