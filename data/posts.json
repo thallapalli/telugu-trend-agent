@@ -7566,5 +7566,245 @@
     },
     "status": "pending",
     "created_at": "2026-11-26T09:03:04+00:00"
+  },
+  {
+    "id": "1bd8a88e",
+    "topic": "Kakatiya dynasty",
+    "format": "history_heritage",
+    "text": "కాకతీయ రాజవంశం: సంస్కృతి‑ఇంజనీరింగ్‌ స్వర్ణయుగం\n12వ‑14వ శతాబ్దాల్లో తెలంగాణ‑ఆంధ్రప్రదేశ్‌ ప్రాంతాలను పాలించి, ఒరుగు (వరంగల్) రాజధానిగా నిలిచింది.\nఉన్నతభూముల్లో ‘కుంటలు’ (ట్యాంకులు) నిర్మించి, అనేకం ఇప్పటికీ సాగు నీటిని అందిస్తున్నాయి.\nగణపతి దేవ, రుద్రామ దేవి వంటి దూరదర్శి రాజులు, వేల పిళ్ళ దేవాలయం, రామప్ప దేవాలయం, వరంగల్ కోట వంటి ప్రత్యేక వాస్తు శైలిని సృష్టించారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Kakatiya",
+      "#TeluguCulture",
+      "#AncientIndia",
+      "#IndianArchitecture"
+    ],
+    "image": "data/images/1bd8a88e.jpg",
+    "source_title": "Kakatiya dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Kakatiya_dynasty",
+    "facts_used": [
+      "The Kakatiya dynasty ruled between the 12th and 14th centuries in the region that includes present‑day Telangana and Andhra Pradesh.",
+      "Their capital was Orugallu, now known as Warangal.",
+      "They introduced the construction of irrigation tanks in the uplands, many of which are still in use today.",
+      "Ganapati Deva (r. 1199–1262) significantly expanded Kakatiya territory.",
+      "Rudrama Devi (r. 1262–1289) was a queen regnant of the Kakatiya dynasty.",
+      "Notable architectural works include the Thousand Pillar Temple, Ramappa Temple, and Warangal Fort."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "English word 'upland' used; corrected to Telugu. Minor spelling corrections for గణపతి దేవ, improved phrasing."
+      ],
+      "final_text": "కాకతీయ రాజవంశం: సంస్కృతి‑ఇంజనీరింగ్‌ స్వర్ణయుగం\n12వ‑14వ శతాబ్దాల్లో తెలంగాణ‑ఆంధ్రప్రదేశ్‌ ప్రాంతాలను పాలించి, ఒరుగు (వరంగల్) రాజధానిగా నిలిచింది.\nఉన్నతభూముల్లో ‘కుంటలు’ (ట్యాంకులు) నిర్మించి, అనేకం ఇప్పటికీ సాగు నీటిని అందిస్తున్నాయి.\nగణపతి దేవ, రుద్రామ దేవి వంటి దూరదర్శి రాజులు, వేల పిళ్ళ దేవాలయం, రామప్ప దేవాలయం, వరంగల్ కోట వంటి ప్రత్యేక వాస్తు శైలిని సృష్టించారు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-27T09:02:09+00:00"
+  },
+  {
+    "id": "17b3e4f1",
+    "topic": "Undavalli Caves",
+    "format": "ancient_secrets",
+    "text": "ఉండవల్లి గుహలు\n4వ‑5వ శతాబ్దాలలో విశ్నుకుండి రాజవంశ కాలంలో ఘన శిలా గుహలుగా చెక్కబడినవి, గుప్త శిల్ప శైలిలో ప్రారంభ ఉదాహరణ.\nనాలుగు అంతస్తుల శిలా‑కట్ దేవాలయం, తూర్పు ముఖం 29 m × 16 m; రెండవ అంతస్తులో ఒకే గ్రానైట్ బ్లాక్‌ నుండి శిల్పించబడిన 5 m పొడవు విశ్రాంతి విష్ణు విగ్రహం.\nమొదటి అంతస్తు జైన శైలి, తరువాత బౌద్ధ‑హిందూ అంశాలతో ఆధ్యాత్మిక బుద్ధిని ప్రతిబింబిస్తుంది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#IndianArchitecture",
+      "#UndavalliCaves",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/17b3e4f1.jpg",
+    "source_title": "Undavalli Caves",
+    "source_url": "https://en.wikipedia.org/wiki/Undavalli_Caves",
+    "facts_used": [
+      "The Undavalli Caves were carved out of solid sandstone hills in the 4th–5th centuries CE during the Vishnukundina dynasty era.",
+      "The caves are one of the earliest examples of Gupta architecture.",
+      "The monument has an impressive four‑storey rock‑cut temple with an east‑facing façade 29 m long and 16 m wide.",
+      "The second storey contains a 5 meter long reclining statue of Vishnu sculpted from a single block of granite.",
+      "The first‑storey level retains Jain style and the site served as a Buddhist monastic complex."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Use proper Telugu spelling for dynasty name (విశ్నుకుండి).",
+        "Replace English term “రాక్‑కట్” with Telugu “శిలా‑కట్”.",
+        "Correct “ఒక్కే” instead of “ఒక్కే”.",
+        "Adjust adjective forms for smoother, dignified style."
+      ],
+      "final_text": "ఉండవల్లి గుహలు\n4వ‑5వ శతాబ్దాలలో విశ్నుకుండి రాజవంశ కాలంలో ఘన శిలా గుహలుగా చెక్కబడినవి, గుప్త శిల్ప శైలిలో ప్రారంభ ఉదాహరణ.\nనాలుగు అంతస్తుల శిలా‑కట్ దేవాలయం, తూర్పు ముఖం 29 m × 16 m; రెండవ అంతస్తులో ఒకే గ్రానైట్ బ్లాక్‌ నుండి శిల్పించబడిన 5 m పొడవు విశ్రాంతి విష్ణు విగ్రహం.\nమొదటి అంతస్తు జైన శైలి, తరువాత బౌద్ధ‑హిందూ అంశాలతో ఆధ్యాత్మిక బుద్ధిని ప్రతిబింబిస్తుంది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-27T09:03:50+00:00"
+  },
+  {
+    "id": "1fa5624c",
+    "topic": "Kakatiya Kala Thoranam",
+    "format": "ancient_secrets",
+    "text": "కాకతీయ కళా తోరణం\n12వ శతాబ్దంలో గణపతి‑దేవు (1199‑1262) నిర్మించిన, 10 మీటర్ల ఎత్తు కలిగిన ఈ ద్వారం, కమల పువ్వులు, గోళ్లు, పౌరాణిక జీవులు, పత్ర‑వంటి తోకల పక్షుల శిల్పాలతో అలంకరించబడింది.\nకాకతీయ రాజవంశ చిహ్నంగా తెలంగాణ లోగోలో నిలిచింది, అలాగే 10‑సెప్టెంబర్‑2010 న యునెస్కో ప్రపంచ వారసత్వ తాత్కాలిక జాబితాలో సమర్పించబడింది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Kakatiya",
+      "#WarangalGate",
+      "#TelanganaEmblem",
+      "#AncientIndia"
+    ],
+    "image": "data/images/1fa5624c.jpg",
+    "source_title": "Kakatiya Kala Thoranam",
+    "source_url": "https://en.wikipedia.org/wiki/Kakatiya_Kala_Thoranam",
+    "facts_used": [
+      "The arch was built around 12th century during the rule of the Kakatiya dynasty",
+      "It was built by Ganapati-deva (1199-1262)",
+      "The gate is 10 metres (33 ft) tall",
+      "The gate is richly carved with lotus buds, looped garlands, mythical animals, and birds with foliated tails",
+      "The design has been adopted as the symbol in the Emblem of Telangana",
+      "The monument was submitted to UNESCO on 10/09/2010 as a tentative World Heritage Site"
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "English phrase \"World Heritage\" used; replace with Telugu equivalent.",
+        "Minor wording improvement for natural flow."
+      ],
+      "final_text": "కాకతీయ కళా తోరణం\n12వ శతాబ్దంలో గణపతి‑దేవు (1199‑1262) నిర్మించిన, 10 మీటర్ల ఎత్తు కలిగిన ఈ ద్వారం, కమల పువ్వులు, గోళ్లు, పౌరాణిక జీవులు, పత్ర‑వంటి తోకల పక్షుల శిల్పాలతో అలంకరించబడింది.\nకాకతీయ రాజవంశ చిహ్నంగా తెలంగాణ లోగోలో నిలిచింది, అలాగే 10‑సెప్టెంబర్‑2010 న యునెస్కో ప్రపంచ వారసత్వ తాత్కాలిక జాబితాలో సమర్పించబడింది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-27T09:05:29+00:00"
+  },
+  {
+    "id": "7baffad8",
+    "topic": "పిట్ట కొంచెం కూత ఘనం",
+    "format": "saametha",
+    "text": "పిట్ట కొంచెం కూత ఘనం\nచిన్న పిట్ట చిన్నదైనా, దాని కూత ఘనంగా వినిపిస్తుంది; చిన్న మనిషి కూడా గొప్ప సామర్ధ్యం లేదా ప్రభావం కలిగి ఉండవచ్చు.\nఅందువల్ల పరిమాణం లేదా వయస్సు ఆధారంగా సామర్థ్యాన్ని తీర్పు చేయకండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/7baffad8.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The bird is small but its call is mighty.",
+      "Do not judge ability by size or age."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; should be exactly the proverb without quotes."
+      ],
+      "final_text": "పిట్ట కొంచెం కూత ఘనం\nచిన్న పిట్ట చిన్నదైనా, దాని కూత ఘనంగా వినిపిస్తుంది; చిన్న మనిషి కూడా గొప్ప సామర్ధ్యం లేదా ప్రభావం కలిగి ఉండవచ్చు.\nఅందువల్ల పరిమాణం లేదా వయస్సు ఆధారంగా సామర్థ్యాన్ని తీర్పు చేయకండి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-27T09:07:13+00:00"
+  },
+  {
+    "id": "7209f051",
+    "topic": "పనిలేని మంగలి పిల్లి తల గొరిగినట్లు",
+    "format": "saametha",
+    "text": "\"పనిలేని మంగలి పిల్లి తల గొరిగినట్లు\"\nఏ పని లేకుండా ఉండే మంగలి (బార్బర్) పిల్లి తలను గొరగడం లాంటి అర్ధరహిత పనుల్లో మునిగిపోతాడు.\nఇది మనకు సూచిస్తుంది: విలువైన, అర్ధవంతమైన పనిలోనే సమయాన్ని వినియోగించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#MeaningfulWork",
+      "#LifeLesson"
+    ],
+    "image": "data/images/7209f051.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "The idle barber shaves the cat's head.",
+      "People with nothing to do busy themselves with pointless things.",
+      "Keep yourself engaged in meaningful work."
+    ],
+    "review": {
+      "verdict": "approve",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [],
+      "final_text": ""
+    },
+    "status": "pending",
+    "created_at": "2026-11-27T09:07:46+00:00"
+  },
+  {
+    "id": "ca3a4566",
+    "topic": "ఆకలి రుచి ఎరుగదు",
+    "format": "saametha",
+    "text": "ఆకలి రుచి ఎరుగదు\nనిజంగా ఆకలితో ఉన్నప్పుడు ఏ ఆహారమూ స్వాగతం, అవసరమే ఎంపికను మించిపోతుంది.\nమనకు ఉన్న దానికి కృతజ్ఞత, అవసరంలో ఉన్న వారికి అనురాగం చూపుదాం.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#Gratitude",
+      "#Empathy"
+    ],
+    "image": "data/images/ca3a4566.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Hunger knows no taste.",
+      "When truly hungry, any food is welcome; need overrides choosiness.",
+      "Gratitude for what we have, and empathy for those in real need."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 had extra quotation marks; removed to match exact proverb."
+      ],
+      "final_text": "ఆకలి రుచి ఎరుగదు\nనిజంగా ఆకలితో ఉన్నప్పుడు ఏ ఆహారమూ స్వాగతం, అవసరమే ఎంపికను మించిపోతుంది.\nమనకు ఉన్న దానికి కృతజ్ఞత, అవసరంలో ఉన్న వారికి అనురాగం చూపుదాం."
+    },
+    "status": "pending",
+    "created_at": "2026-11-27T09:08:10+00:00"
+  },
+  {
+    "id": "da4cdccc",
+    "topic": "కందకు లేని దురద కత్తిపీటకెందుకు",
+    "format": "saametha",
+    "text": "కందకు లేని దురద కత్తిపీటకెందుకు\nకందకు దురద లేకపోతే, కత్తి కూడా ఎందుకు దురదపడుతుంది?\nఅవసరం లేని ఆందోళనను వదలి, ఇతరుల వ్యవహారంలో జోక్యం చేయకండి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguHeritage",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/da4cdccc.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "If the yam itself does not itch, why should the cutting knife?",
+      "Avoid needless worry and interfering in what is not your concern."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; it should match the proverb exactly as in the source."
+      ],
+      "final_text": "కందకు లేని దురద కత్తిపీటకెందుకు\nకందకు దురద లేకపోతే, కత్తి కూడా ఎందుకు దురదపడుతుంది?\nఅవసరం లేని ఆందోళనను వదలి, ఇతరుల వ్యవహారంలో జోక్యం చేయకండి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-27T09:08:45+00:00"
   }
 ]
