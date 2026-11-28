@@ -7806,5 +7806,175 @@
     },
     "status": "pending",
     "created_at": "2026-11-27T09:08:45+00:00"
+  },
+  {
+    "id": "5e10e30d",
+    "topic": "Amaravati Stupa",
+    "format": "history_heritage",
+    "text": "అమరావతి మహాచేతి\nమూడవ శతాబ్దం ఈ.పి. నుండి 250 ఈ.సీ వరకు దశలవారీగా నిర్మించబడిన, బౌద్ధ ధర్మానికి గొప్ప ఆశ్రయం.\nఅమరావతి శిల్పశైలి, మథురా, గంధారన్ శైలులతో కలిసి భారతీయ కళా మూడు ప్రధాన పాఠశాలలలో ఒకటి; దక్షిణ భారత, శ్రీలంక, దక్షిణ‑ఆగ్నేయ ఆసియాకు ప్రభావం చూపింది.\nపురాతన నకశాలలో దీనిని 'దీపాలదిమ్మ' (వెలుగు పర్వతం) అని పిలిచారు; ప్రస్తుతం పురావస్తు సర్వే (ASI) ద్వారా రక్షించబడుతోంది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#AncientIndia",
+      "#BuddhistArt",
+      "#IndianHistory"
+    ],
+    "image": "data/images/5e10e30d.jpg",
+    "source_title": "Amaravati Stupa",
+    "source_url": "https://en.wikipedia.org/wiki/Amaravati_Stupa",
+    "facts_used": [
+      "Amaravati Stupa was built in phases between the third century BCE and about 250 CE.",
+      "It was a great Buddhist sanctuary (mahācetiya).",
+      "Art historians regard the art of Amaravati as one of the three major styles of ancient Indian art.",
+      "The Amaravati style influenced art in South India, Sri Lanka and South‑East Asia.",
+      "In ancient maps the stupa was labeled 'deepaladimma' meaning 'hill of lights'.",
+      "The site is under the protection of the Archaeological Survey of India."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Typo: \"మతురా\" should be \"మథురా\".",
+        "Phrase \"పురావస్తు సర్వే భారతం\" can be improved to \"పురావస్తు సర్వే (ASI)\"."
+      ],
+      "final_text": "అమరావతి మహాచేతి\nమూడవ శతాబ్దం ఈ.పి. నుండి 250 ఈ.సీ వరకు దశలవారీగా నిర్మించబడిన, బౌద్ధ ధర్మానికి గొప్ప ఆశ్రయం.\nఅమరావతి శిల్పశైలి, మథురా, గంధారన్ శైలులతో కలిసి భారతీయ కళా మూడు ప్రధాన పాఠశాలలలో ఒకటి; దక్షిణ భారత, శ్రీలంక, దక్షిణ‑ఆగ్నేయ ఆసియాకు ప్రభావం చూపింది.\nపురాతన నకశాలలో దీనిని 'దీపాలదిమ్మ' (వెలుగు పర్వతం) అని పిలిచారు; ప్రస్తుతం పురావస్తు సర్వే (ASI) ద్వారా రక్షించబడుతోంది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-28T08:24:15+00:00"
+  },
+  {
+    "id": "798c2265",
+    "topic": "Chola dynasty",
+    "format": "history_heritage",
+    "text": "చోళ సామ్రాజ్యం\nవిస్తృత సముద్ర సామ్రాజ్యంగా శిఖరాన్ని చేరుకుంది.\n907‑1215 మధ్య మూడు శతాబ్దాలు ఒకే రాష్ట్రంగా పాలించి, తుంగభద్రా నది దక్షిణంగా భారత ఉపఖండాన్ని ఏకీకృతం చేసింది.\nరాజరాజ I మరియు ఆయన వారసులు రాజేంద్ర I, రాజాధిరాజ I, రాజేంద్ర II, విరరాజేంద్ర, కులోతుంగ చోళ I కాలంలో దక్షిణ‑ఆసియా, దక్షిణ‑తూర్పు ఆసియాలో సైనిక, ఆర్థిక, సాంస్కృతిక శక్తివంతమైన కేంద్రంగా మారారు.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#CholaDynasty",
+      "#AncientIndia",
+      "#MaritimeTrade"
+    ],
+    "image": "data/images/798c2265.jpg",
+    "source_title": "Chola dynasty",
+    "source_url": "https://en.wikipedia.org/wiki/Chola_dynasty",
+    "facts_used": [
+      "At its height, it ruled over the Chola Empire, an expansive maritime empire.",
+      "They unified peninsular India south of the Tungabhadra River and held the territory as one state for three centuries between 907 and 1215 CE.",
+      "Under Rajaraja I and his successors Rajendra I, Rajadhiraja I, Rajendra II, Virarajendra, and Kulothunga Chola I, the empire became a military, economic and cultural powerhouse in South Asia and Southeast Asia."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Use of English abbreviation \"CE\" and slightly awkward phrasing in line 3; refined for dignified Telugu."
+      ],
+      "final_text": "చోళ సామ్రాజ్యం\nవిస్తృత సముద్ర సామ్రాజ్యంగా శిఖరాన్ని చేరుకుంది.\n907‑1215 మధ్య మూడు శతాబ్దాలు ఒకే రాష్ట్రంగా పాలించి, తుంగభద్రా నది దక్షిణంగా భారత ఉపఖండాన్ని ఏకీకృతం చేసింది.\nరాజరాజ I మరియు ఆయన వారసులు రాజేంద్ర I, రాజాధిరాజ I, రాజేంద్ర II, విరరాజేంద్ర, కులోతుంగ చోళ I కాలంలో దక్షిణ‑ఆసియా, దక్షిణ‑తూర్పు ఆసియాలో సైనిక, ఆర్థిక, సాంస్కృతిక శక్తివంతమైన కేంద్రంగా మారారు."
+    },
+    "status": "pending",
+    "created_at": "2026-11-28T08:24:59+00:00"
+  },
+  {
+    "id": "1bd074e1",
+    "topic": "Mahanandi Temple",
+    "format": "ancient_secrets",
+    "text": "మహానంది దేవాలయం: శాశ్వత జల రహస్యం\n1500 సంవత్సరాల పైగా పురాతనమైన మహానంది దేవాలయం, గర్భగృహంలో స్వయంభూ లింగం కిందనుండి నిరంతరంగా ప్రవహించే పవిత్ర జలాన్ని కలిగి ఉంది, ఋతువుల మార్పు లేకుండా.\nప్రవేశ ద్వారంలో రెండు చిన్న కుళ్ళలు, అంతర్గతంలో ఒక పెద్ద కుళ్ళు; మొత్తం మూడు కుళ్ళలు, వాటి నీటి లోతు ఎల్లప్పుడూ ఐదు అడుగుగా నిలుపబడుతుంది.\nఈ శుద్ధ జలం 2,000 ఎకరాలు (8.1 km²) భూమిని సేద్యం చేస్తూ, చుట్టుపక్కల పంటలకు జీవజలంగా సేవ చేస్తుంది.",
+    "hashtags": [
+      "#TeluguHeritage",
+      "#Mahanandi",
+      "#AncientWater",
+      "#TempleArchitecture",
+      "#TeluguCulture"
+    ],
+    "image": "data/images/1bd074e1.jpg",
+    "source_title": "Mahanandi",
+    "source_url": "https://en.wikipedia.org/wiki/Mahanandi",
+    "facts_used": [
+      "Mahanandiswara Swamy Temple dates back over 1,500 years.",
+      "The water source originates at the Garbhagruha just below the Swayambhu Linga.",
+      "The water source has a constant flow irrespective of the change of seasons.",
+      "The temple is surrounded by three pools and the water depth is constantly kept at five feet.",
+      "Outgoing water irrigates 2,000 acres (8.1 km2) of land surrounding the village."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 4,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Some spelling and phrasing needed correction for dignified tone."
+      ],
+      "final_text": "మహానంది దేవాలయం: శాశ్వత జల రహస్యం\n1500 సంవత్సరాల పైగా పురాతనమైన మహానంది దేవాలయం, గర్భగృహంలో స్వయంభూ లింగం కిందనుండి నిరంతరంగా ప్రవహించే పవిత్ర జలాన్ని కలిగి ఉంది, ఋతువుల మార్పు లేకుండా.\nప్రవేశ ద్వారంలో రెండు చిన్న కుళ్ళలు, అంతర్గతంలో ఒక పెద్ద కుళ్ళు; మొత్తం మూడు కుళ్ళలు, వాటి నీటి లోతు ఎల్లప్పుడూ ఐదు అడుగుగా నిలుపబడుతుంది.\nఈ శుద్ధ జలం 2,000 ఎకరాలు (8.1 km²) భూమిని సేద్యం చేస్తూ, చుట్టుపక్కల పంటలకు జీవజలంగా సేవ చేస్తుంది."
+    },
+    "status": "pending",
+    "created_at": "2026-11-28T08:28:53+00:00"
+  },
+  {
+    "id": "9d3b8e21",
+    "topic": "చేతులు కాలాక ఆకులు పట్టుకున్నట్లు",
+    "format": "saametha",
+    "text": "చేతులు కాలాక ఆకులు పట్టుకున్నట్లు\nఅగ్నిలో కాలిన చేతులపై ఆకులను పట్టుకోవడం లాగా, సమస్య వచ్చిన తర్వాత పరిష్కారం అన్వేషించడం.\nసమస్యలు రాకముందే సిద్ధంగా ఉండి, ముందుగా జాగ్రత్తలు తీసుకోవాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/9d3b8e21.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "Grabbing leaves after the hands are already burnt. A remedy applied too late.",
+      "Prepare and prevent before trouble arrives."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; must match proverb exactly."
+      ],
+      "final_text": "చేతులు కాలాక ఆకులు పట్టుకున్నట్లు\nఅగ్నిలో కాలిన చేతులపై ఆకులను పట్టుకోవడం లాగా, సమస్య వచ్చిన తర్వాత పరిష్కారం అన్వేషించడం.\nసమస్యలు రాకముందే సిద్ధంగా ఉండి, ముందుగా జాగ్రత్తలు తీసుకోవాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-28T08:29:17+00:00"
+  },
+  {
+    "id": "a0ba8996",
+    "topic": "మొక్కై వంగనిది మానై వంగునా",
+    "format": "saametha",
+    "text": "మొక్కై వంగనిది మానై వంగునా\nపొట్టెగా వంగని వృక్షం కూడా వంగదు; చిన్నప్పుడే అలవాట్లు, విలువలు నేర్పడం సులభం.\nకాబట్టి మీలోనూ, పిల్లలలోనూ మంచి అలవాట్లు ప్రారంభంలోనే నిర్మించాలి.",
+    "hashtags": [
+      "#TeluguSaamethalu",
+      "#TeluguCulture",
+      "#TeluguHeritage"
+    ],
+    "image": "data/images/a0ba8996.jpg",
+    "source_title": null,
+    "source_url": null,
+    "facts_used": [
+      "What does not bend as a sapling will not bend as a tree.",
+      "Good habits and values are easiest to teach when young.",
+      "Build good habits early, in yourself and in children."
+    ],
+    "review": {
+      "verdict": "fix",
+      "safety": "ok",
+      "telugu_quality": 5,
+      "accuracy": 5,
+      "unsupported_claims": [],
+      "issues": [
+        "Line 1 contains extra quotation marks; must match proverb exactly.",
+        "Uses English loan word “స్ప్రౌట్”; replace with pure Telugu term."
+      ],
+      "final_text": "మొక్కై వంగనిది మానై వంగునా\nపొట్టెగా వంగని వృక్షం కూడా వంగదు; చిన్నప్పుడే అలవాట్లు, విలువలు నేర్పడం సులభం.\nకాబట్టి మీలోనూ, పిల్లలలోనూ మంచి అలవాట్లు ప్రారంభంలోనే నిర్మించాలి."
+    },
+    "status": "pending",
+    "created_at": "2026-11-28T08:30:24+00:00"
   }
 ]
